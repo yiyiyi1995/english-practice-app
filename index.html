@@ -1,0 +1,252 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Fluent 120 · 英语冲刺训练</title>
+  <style>
+    :root{--ink:#15231d;--muted:#65736c;--paper:#f6f7f2;--card:#fff;--line:#dfe5df;--green:#176b4c;--green2:#dff3e8;--lime:#d8f37a;--orange:#ff9d5c;--blue:#dcecff;--shadow:0 14px 36px rgba(23,50,38,.08)}
+    *{box-sizing:border-box} body{margin:0;background:var(--paper);color:var(--ink);font:15px/1.5 Inter,ui-sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif} button,input,textarea{font:inherit} button{cursor:pointer}
+    .app{min-height:100vh;display:grid;grid-template-columns:250px 1fr}.side{position:sticky;top:0;height:100vh;padding:28px 20px;background:#143c2e;color:#fff;display:flex;flex-direction:column}.brand{display:flex;align-items:center;gap:12px;font-size:20px;font-weight:800}.brandmark{width:39px;height:39px;border-radius:13px;background:var(--lime);color:#173c2f;display:grid;place-items:center;font-weight:900}.tag{margin:24px 0 8px;color:#9fc5b5;font-size:11px;letter-spacing:.12em;text-transform:uppercase}.nav{display:grid;gap:8px}.nav button{border:0;background:transparent;color:#bcd2c8;text-align:left;padding:11px 13px;border-radius:12px;display:flex;gap:10px}.nav button.active,.nav button:hover{background:#285443;color:#fff}.sidefoot{margin-top:auto;border-top:1px solid #315546;padding-top:18px}.mini{font-size:12px;color:#a9c4b8}.main{padding:34px 42px 70px;max-width:1280px;width:100%;margin:auto}.top{display:flex;align-items:center;justify-content:space-between;margin-bottom:26px}.eyebrow{color:var(--green);font-weight:750;font-size:13px}.top h1{font-size:30px;line-height:1.15;margin:3px 0}.avatar{width:42px;height:42px;border-radius:50%;background:#efc9aa;display:grid;place-items:center;font-weight:800}.hero{border-radius:25px;background:linear-gradient(125deg,#1d6e50,#124833);color:#fff;min-height:230px;padding:34px;display:grid;grid-template-columns:1.35fr .65fr;overflow:hidden;position:relative}.hero:after{content:"";position:absolute;width:310px;height:310px;border:65px solid rgba(216,243,122,.13);border-radius:50%;right:-95px;top:-90px}.hero h2{font-size:32px;max-width:630px;line-height:1.16;margin:6px 0 12px}.hero p{color:#d1e4dc;max-width:560px}.btns{display:flex;gap:10px;margin-top:24px;flex-wrap:wrap}.primary,.secondary{border:0;padding:12px 18px;border-radius:13px;font-weight:750}.primary{background:var(--lime);color:#173c2f}.secondary{background:rgba(255,255,255,.12);color:#fff;border:1px solid rgba(255,255,255,.22)}.goal{align-self:center;justify-self:center;z-index:1;text-align:center}.ring{width:138px;height:138px;border-radius:50%;background:conic-gradient(var(--lime) 0 270deg,rgba(255,255,255,.13) 270deg);display:grid;place-items:center}.ringin{width:104px;height:104px;border-radius:50%;background:#19523c;display:grid;place-items:center}.ring b{font-size:30px;line-height:1}.ring span{display:block;color:#b9d1c7;font-size:11px}.grid{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin-top:20px}.card{background:var(--card);border:1px solid var(--line);border-radius:20px;padding:22px;box-shadow:0 2px 0 rgba(26,55,43,.02)}.wide{grid-column:1/-1}.sectionhead{display:flex;justify-content:space-between;align-items:center;margin-bottom:16px}.sectionhead h3{margin:0;font-size:18px}.link{border:0;background:none;color:var(--green);font-weight:700}.skills{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}.skill{padding:17px;border-radius:16px;border:1px solid var(--line);position:relative}.ico{font-size:21px}.skill b{display:block;margin-top:14px}.skill small{color:var(--muted)}.bar{height:6px;background:#e9ede9;border-radius:8px;margin-top:12px;overflow:hidden}.bar i{display:block;height:100%;border-radius:8px}.practice-list{display:grid;gap:10px}.pitem{border:1px solid var(--line);padding:14px;border-radius:15px;display:flex;align-items:center;gap:13px;transition:.2s}.pitem:hover{border-color:#86b79f;transform:translateY(-1px)}.picon{width:43px;height:43px;border-radius:12px;display:grid;place-items:center;font-size:18px}.ptext{flex:1}.ptext b{display:block}.ptext small{color:var(--muted)}.pill{font-size:11px;padding:5px 9px;background:#f0f3ef;border-radius:20px;color:#53635c}.streak{display:grid;grid-template-columns:repeat(7,1fr);gap:7px;text-align:center}.day{font-size:11px;color:var(--muted)}.dot{height:30px;border-radius:9px;background:#edf0ec;margin-top:7px;display:grid;place-items:center}.dot.done{background:var(--green2);color:var(--green)}
+    .view{display:none}.view.active{display:block}.bankgrid{display:grid;grid-template-columns:repeat(3,1fr);gap:15px}.bankcard{min-height:185px;display:flex;flex-direction:column}.bankcard .picon{margin-bottom:20px}.bankcard button{margin-top:auto}.examintro{max-width:850px}.examfacts{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:22px 0}.fact{background:#f0f5f1;padding:15px;border-radius:14px}.fact b{display:block;font-size:20px}.fact span{font-size:12px;color:var(--muted)}.vtools{display:flex;gap:10px;margin:18px 0}.vtools input,.vtools select{border:1px solid var(--line);background:#fff;padding:11px 13px;border-radius:12px}.vtools input{flex:1}.vtable{width:100%;border-collapse:collapse}.vtable th,.vtable td{text-align:left;padding:12px;border-bottom:1px solid var(--line)}.vtable th{font-size:12px;color:var(--muted)}.scoretag,.usetag{display:inline-block;padding:4px 8px;border-radius:20px;background:var(--green2);color:var(--green);font-size:11px;font-weight:800}.usetag{background:#edf2ff;color:#455d91;margin:2px}.iconbtn{border:1px solid var(--line);background:#fff;border-radius:9px;padding:7px 9px}.iconbtn.saved{background:#fff0d8;color:#a15d00;border-color:#f1c87b}.favtoggle.active{background:#173f31;color:#fff}
+    .overlay{position:fixed;inset:0;background:rgba(10,28,21,.55);backdrop-filter:blur(5px);display:none;align-items:center;justify-content:center;padding:20px;z-index:10}.overlay.open{display:flex}.modal{background:#fff;width:min(760px,100%);max-height:92vh;overflow:auto;border-radius:24px;box-shadow:var(--shadow)}.mhead{padding:20px 24px;border-bottom:1px solid var(--line);display:flex;align-items:center;justify-content:space-between}.mhead b{font-size:14px}.levelbadge{display:inline-flex;align-items:center;gap:6px;margin-left:10px;padding:4px 9px;border-radius:20px;background:var(--green2);color:var(--green);font-size:11px;font-weight:800}.progress{height:5px;background:#e8ece8}.progress i{height:100%;display:block;background:var(--green);transition:.3s}.mbody{padding:30px}.qtype{font-size:12px;color:var(--green);font-weight:800;text-transform:uppercase;letter-spacing:.08em}.question{font-size:23px;line-height:1.35;margin:10px 0 20px}.context{padding:18px;background:#f4f6f2;border-radius:14px;margin-bottom:18px}.options{display:grid;gap:10px}.option{border:1px solid var(--line);background:#fff;text-align:left;border-radius:13px;padding:13px 15px}.option:hover,.option.selected{border-color:var(--green);background:#edf8f2}.answer{width:100%;border:1px solid #bfcac3;border-radius:13px;padding:13px;min-height:48px;outline:none}.answer:focus{border-color:var(--green);box-shadow:0 0 0 3px #dff3e8}.audio-btn{width:66px;height:66px;border-radius:50%;border:0;background:var(--green);color:#fff;font-size:23px;margin:5px 0 18px}.mfoot{display:flex;justify-content:space-between;align-items:center;padding:18px 24px;border-top:1px solid var(--line)}.darkbtn{border:0;background:var(--green);color:#fff;padding:11px 18px;border-radius:12px;font-weight:750}.ghost{border:0;background:#edf2ee;padding:11px 16px;border-radius:12px;color:#35483f}.feedback{padding:12px 14px;border-radius:12px;margin-top:14px;display:none}.feedback.good{display:block;background:#e5f6ec;color:#176b4c}.feedback.bad{display:block;background:#fff0e8;color:#9a4b1c}.feedback .shift{display:block;margin-top:5px;font-weight:800}.timer{font-variant-numeric:tabular-nums;font-weight:800;color:#8d4b22}.scorebig{text-align:center;padding:10px}.scorebig strong{font-size:64px;color:var(--green)}.breakdown{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin:20px 0}.break{padding:13px;background:#f2f5f2;border-radius:12px;text-align:center}.break b{display:block;font-size:22px}.notice{font-size:12px;color:var(--muted);padding:12px;background:#f7f7f4;border-radius:10px;margin-top:15px}.hidden{display:none!important}
+    @media(max-width:850px){.app{display:block}.side{height:auto;position:fixed;z-index:8;bottom:0;top:auto;width:100%;padding:8px 12px}.brand,.tag,.sidefoot{display:none}.nav{display:grid;grid-template-columns:repeat(5,1fr)}.nav button{display:grid;place-items:center;font-size:10px;padding:8px 2px;gap:2px}.main{padding:22px 16px 96px}.hero{grid-template-columns:1fr;padding:25px}.goal{display:none}.grid{grid-template-columns:1fr}.skills{grid-template-columns:1fr 1fr}.bankgrid{grid-template-columns:1fr}.examfacts{grid-template-columns:1fr 1fr}.top h1{font-size:25px}.hero h2{font-size:26px}.breakdown{grid-template-columns:1fr 1fr}.vtools{display:grid}.vtable th,.vtable td{padding:9px}}
+  </style>
+</head>
+<body>
+<div class="app">
+  <aside class="side">
+    <div class="brand"><div class="brandmark">F</div>Fluent 120</div>
+    <div class="tag">学习空间</div>
+    <nav class="nav">
+      <button class="active" data-view="home">⌂ <span>今日</span></button>
+      <button data-view="practice">◎ <span>专项练习</span></button>
+      <button data-view="vocabulary">Aa <span>备考词库</span></button>
+      <button data-view="exam">◈ <span>模拟考试</span></button>
+      <button data-view="progress">↗ <span>学习报告</span></button>
+    </nav>
+    <div class="sidefoot"><b>目标：120 分</b><div class="mini">建议每天 30 分钟 · 连续 28 天</div></div>
+  </aside>
+  <main class="main">
+    <div class="top"><div><div class="eyebrow">WED, OCT 14</div><h1 id="pageTitle">下午好，Yang 👋</h1></div><div class="avatar">YY</div></div>
+
+    <section id="home" class="view active">
+      <div class="hero"><div><span style="color:var(--lime);font-weight:800">28 天冲刺计划 · DAY 6</span><h2>每天一套考试量，练到 120 分。</h2><p>今日任务：38 个作答步骤 · 约 45–55 分钟。覆盖词汇、完形、交互阅读、听力、口语与写作。</p><div class="btns"><button class="primary" onclick="startDaily()">开始今日 38 题 →</button><button class="secondary" onclick="showView('exam')">精简模拟考试</button></div></div><div class="goal"><div class="ring"><div class="ringin"><div><b id="heroScore">93</b><span>当前估分</span></div></div></div></div></div>
+      <div class="grid">
+        <div class="card wide"><div class="sectionhead"><h3>四项能力</h3><button class="link" onclick="showView('progress')">查看报告</button></div><div class="skills">
+          <div class="skill"><span class="ico">◫</span><b>阅读</b><small>24 / 30</small><div class="bar"><i style="width:80%;background:#3f8d6c"></i></div></div>
+          <div class="skill"><span class="ico">◖</span><b>听力</b><small>22 / 30</small><div class="bar"><i style="width:73%;background:#5d91c5"></i></div></div>
+          <div class="skill"><span class="ico">✦</span><b>口语</b><small>25 / 30</small><div class="bar"><i style="width:83%;background:#e28b50"></i></div></div>
+          <div class="skill"><span class="ico">✎</span><b>写作</b><small>22 / 30</small><div class="bar"><i style="width:73%;background:#8b75bf"></i></div></div>
+        </div>
+        <div class="card"><div class="sectionhead"><h3>今日考试量</h3><span class="pill">38 步 · 约 50 分钟</span></div><div class="practice-list">
+          <div class="pitem" onclick="startDaily()"><div class="picon" style="background:var(--green2)">18</div><div class="ptext"><b>词汇与完形</b><small>单词辨认 10 · 完形填空 8</small></div><span>›</span></div>
+          <div class="pitem" onclick="startDaily()"><div class="picon" style="background:var(--blue)">12</div><div class="ptext"><b>理解能力</b><small>交互阅读 6 · 听力听写 6</small></div><span>›</span></div>
+          <div class="pitem" onclick="startDaily()"><div class="picon" style="background:#fff0e5">8</div><div class="ptext"><b>开放表达</b><small>口语 5 · 写作 3</small></div><span>›</span></div>
+        </div>
+        <div class="card"><div class="sectionhead"><h3>本周连续学习</h3><b style="color:var(--orange)">🔥 6 天</b></div><div class="streak" id="streak"></div><div class="notice">离本周目标只差 1 天。今天完成任意 1 组练习即可打卡。</div></div>
+      </div>
+    </section>
+
+    <section id="practice" class="view">
+      <div class="sectionhead"><div><div class="eyebrow">QUESTION BANK</div><h2 style="margin:4px 0">专项题库</h2></div><span class="pill">原创真题型 · B2–C1</span></div>
+      <div class="bankgrid">
+        <div class="card bankcard"><div class="picon" style="background:var(--green2)">Aa</div><h3>单词辨认</h3><p>像 DET 一样，从真假词中选出真实英文单词。系统会按正确率提升词频难度。</p><button class="darkbtn" onclick="startPractice('word')">练单词</button></div>
+        <div class="card bankcard"><div class="picon" style="background:#fff8d8">C_</div><h3>完形填空</h3><p>C-Test 单词补全与段落语境选词，由常见搭配逐步升级到学术表达。</p><button class="darkbtn" onclick="startPractice('cloze')">练完形</button></div>
+        <div class="card bankcard"><div class="picon" style="background:#e7f1ff">◫</div><h3>交互阅读</h3><p>学术与职场文本，覆盖主旨、事实、推断、句子衔接与标题选择。</p><button class="darkbtn" onclick="startPractice('reading')">开始练习</button></div>
+        <div class="card bankcard"><div class="picon" style="background:#fff0e5">◖</div><h3>听力与听写</h3><p>模拟讲座、对话及通知场景，支持英式与美式语音播放。</p><button class="darkbtn" onclick="startPractice('listening')">开始练习</button></div>
+        <div class="card bankcard"><div class="picon" style="background:#f1eafd">✦</div><h3>口语表达</h3><p>朗读、独立表达与追问，浏览器支持时可自动转写并分析。</p><button class="darkbtn" onclick="startPractice('speaking')">开始练习</button></div>
+        <div class="card bankcard"><div class="picon" style="background:#fff8d8">✎</div><h3>限时写作</h3><p>观点论证、经历描述与互动续写，按内容、连贯、词汇、语法评分。</p><button class="darkbtn" onclick="startPractice('writing')">开始练习</button></div>
+        <div class="card bankcard" style="background:#173f31;color:white"><div class="picon" style="background:var(--lime);color:#173f31">∞</div><h3>自适应混合练习</h3><p style="color:#c6d9d0">题目难度会根据答题表现动态调整，适合每天 10 分钟热身。</p><button class="primary" onclick="startPractice('mixed')">开始挑战</button></div>
+      </div>
+    </section>
+
+    <section id="vocabulary" class="view"><div class="sectionhead"><div><div class="eyebrow">TARGET 120 LEXICON</div><h2 style="margin:4px 0">DET 120分备考6000词</h2></div><span class="pill" id="vocabCount"></span></div><div class="notice">这是面向DET 120分目标筛选的高相关备考词库，优先覆盖B1–C1、高频及学术场景词汇。DET官方未公开历年真题词表，因此不宣称每个词都能被验证为曾在正式考试中出现。</div><div class="vtools"><input id="vocabSearch" placeholder="搜索英文或中文…" oninput="renderVocab()"><select id="vocabBand" onchange="renderVocab()"><option value="">全部分数段</option><option>10–55</option><option>60–85</option><option>90–115</option><option>120–135</option><option>140–160</option></select><button class="ghost favtoggle" id="favToggle" onclick="toggleFavView()">☆ 收藏夹 <span id="favCount">0</span></button></div><div class="card" style="overflow:auto"><table class="vtable"><thead><tr><th>单词 / 发音</th><th>中文</th><th>常见题型</th><th>CEFR</th><th>DET参考段</th><th>收藏</th></tr></thead><tbody id="vocabRows"></tbody></table></div></section>
+
+    <section id="exam" class="view"><div class="card examintro"><div class="eyebrow">FULL MOCK TEST</div><h2 style="font-size:30px;margin:6px 0">全长模拟考试</h2><p>覆盖阅读、听力、写作和口语。按 DET 约一小时的完整流程设置，考试中不显示答案，结束后统一出分。</p><div class="examfacts"><div class="fact"><b>60 min</b><span>建议连续完成</span></div><div class="fact"><b>38 步</b><span>自适应混合题型</span></div><div class="fact"><b>120</b><span>本站目标总分</span></div><div class="fact"><b>统一</b><span>交卷后出成绩</span></div></div><button class="darkbtn" onclick="startExam()">开始 60 分钟模考 →</button><div class="notice">说明：DET 官方总流程约 1 小时，其中计分测试约 45 分钟、写作与口语样本约 10 分钟。本站评分为训练估分。</div></div></section>
+
+    <section id="progress" class="view"><div class="grid" style="margin-top:0"><div class="card wide"><div class="sectionhead"><div><div class="eyebrow">WEEKLY REPORT</div><h2 style="margin:3px 0">你的学习报告</h2></div><span class="pill">最近 7 天</span></div><div class="skills"><div class="skill"><small>完成题目</small><b style="font-size:28px" id="doneCount">42</b></div><div class="skill"><small>正确率</small><b style="font-size:28px" id="accuracy">76%</b></div><div class="skill"><small>学习时长</small><b style="font-size:28px">2.8h</b></div><div class="skill"><small>连续学习</small><b style="font-size:28px">6 天</b></div></div></div><div class="card"><h3>下一步建议</h3><div class="practice-list"><div class="pitem"><div class="picon" style="background:#fff0e5">1</div><div class="ptext"><b>听写中的弱读</b><small>重点练习冠词和介词</small></div></div><div class="pitem"><div class="picon" style="background:#e7f1ff">2</div><div class="ptext"><b>写作论据展开</b><small>使用例证与因果链</small></div></div></div></div><div class="card"><h3>120 分路线</h3><p>当前估分 <b>93</b>，距目标 <b>27</b> 分。</p><div class="bar" style="height:12px"><i style="width:77.5%;background:var(--green)"></i></div><p class="mini" style="color:var(--muted)">优先提升听力细节与写作复杂句准确性，预计完成 28 天计划后进入 110–120 区间。</p></div></div></section>
+  </main>
+</div>
+
+<div class="overlay" id="overlay"><div class="modal"><div class="mhead"><div><b id="modeLabel">专项练习</b><span class="levelbadge" id="levelBadge">难度 2 · B1</span></div><span class="timer" id="timer">不限时</span></div><div class="progress"><i id="qProgress" style="width:20%"></i></div><div class="mbody" id="qBody"></div><div class="mfoot"><button class="ghost" onclick="closeModal()">退出</button><span class="mini" id="qCount"></span><button class="darkbtn" id="submitBtn" onclick="submitAnswer()">检查答案</button></div></div></div>
+
+<script>
+const BANK={
+ vocab:[
+  {type:'词汇辨认',q:'选择所有真实存在的英文单词。',multi:true,options:['meticulous','frandish','plausible','resilient','trompical'],a:['meticulous','plausible','resilient'],ex:'meticulous（细致的）、plausible（可信的）、resilient（有韧性的）均为真实单词。'},
+  {type:'语境选词',q:'The committee decided to _____ the proposal until more evidence was available.',options:['defer','infer','confer','refer'],a:'defer',ex:'defer = 推迟；defer a decision/proposal 是常见搭配。'},
+  {type:'C-Test 完形',q:'补全单词：Although the findings were pre______, they prompted a sig_______ shift in how the team approached the problem.',input:true,a:['preliminary','significant'],display:'用逗号分隔两个完整单词',ex:'完整句为 “preliminary ... significant shift”。'}],
+ reading:[
+  {type:'交互阅读 · 推断',context:'Urban planners once treated trees primarily as decorative features. Recent studies, however, show that strategically placed tree canopies can reduce neighbourhood temperatures, slow storm-water runoff, and even lower residents’ stress levels. Yet these benefits are unevenly distributed: affluent districts often have substantially more canopy cover than lower-income areas.',q:'作者最可能赞同哪一项？',options:['Trees should replace all urban infrastructure.','Tree planting policy should consider equity as well as aesthetics.','Affluent districts experience more stress.','Storm-water runoff is caused by trees.'],a:'Tree planting policy should consider equity as well as aesthetics.',ex:'末句强调树冠覆盖的不平等分布，因此政策应同时考虑公平性。'},
+  {type:'学术阅读 · 主旨',context:'When people learn a new skill, performance often improves quickly at first and then appears to plateau. This apparent standstill does not necessarily mean learning has stopped. The brain may be consolidating patterns, making future performance more stable and less dependent on conscious effort.',q:'这段文字的核心观点是什么？',options:['Early improvement is usually misleading.','A plateau can be part of continued learning.','Conscious effort prevents stable performance.','New skills cannot be measured accurately.'],a:'A plateau can be part of continued learning.',ex:'作者解释平台期并不等于停止学习，而可能是大脑在巩固模式。'},
+  {type:'句子衔接',context:'Remote work has widened the pool of candidates available to many firms. ______. Managers therefore need explicit systems for sharing informal knowledge and maintaining team cohesion.',q:'哪一句最适合填入空白？',options:['Office rent is expensive in most capital cities.','However, distance can weaken spontaneous communication.','Candidates often prefer shorter job descriptions.','Most firms were founded before the internet.'],a:'However, distance can weaken spontaneous communication.',ex:'后文的 therefore 对应“远程距离削弱即时沟通”这一问题。'}],
+ listening:[
+  {type:'听写',q:'点击播放，写下你听到的完整句子。',audio:'The revised schedule allows participants to attend both workshops without any overlap.',input:true,a:'the revised schedule allows participants to attend both workshops without any overlap',ex:'注意 revised、participants 和 without any overlap。'},
+  {type:'听力理解',q:'先听音频，再选择正确答案：Why was the field trip postponed?',audio:'Although the forecast predicted light rain, the field trip was postponed because the research permit had not arrived in time.',options:['Heavy rain was expected.','The transport was unavailable.','The research permit was delayed.','Too few students registered.'],a:'The research permit was delayed.',ex:'关键细节是 “the research permit had not arrived in time”。'},
+  {type:'听写',q:'点击播放，写下你听到的完整句子。',audio:'Consumers are increasingly willing to pay for products that are both durable and ethically produced.',input:true,a:'consumers are increasingly willing to pay for products that are both durable and ethically produced',ex:'both ... and ... 表示两个并列特征。'}],
+ speaking:[
+  {type:'口语表达 · 35 秒',q:'Describe a product decision you disagreed with at first but later understood. What changed your mind?',speak:true,keywords:['decision','because','however','understand','evidence'],min:45},
+  {type:'看题说话 · 35 秒',q:'Some companies rely heavily on user data to personalize experiences. Discuss one benefit and one risk.',speak:true,keywords:['benefit','risk','data','privacy','user'],min:45}],
+ writing:[
+  {type:'限时写作 · 5 分钟',q:'Do digital products make people more independent or more dependent? State your position and support it with a specific example.',write:true,min:100,keywords:['digital','because','example','however']},
+  {type:'互动写作 · 3 分钟',q:'A colleague argues that user research slows product delivery. Write a response that acknowledges the concern and explains when research is worth the time.',write:true,min:90,keywords:['research','time','because','however']}]
+};
+// 分级原创题库：1=A2，2=B1，3=B2，4=C1，5=C1+
+BANK.vocab.push(
+ {lvl:1,kind:'word',type:'单词辨认 · Read and Select',q:'选择所有真实存在的英文单词。',multi:true,options:['garden','mipple','honest','branted','travel'],a:['garden','honest','travel'],ex:'garden、honest、travel 是真实单词。'},
+ {lvl:2,kind:'word',type:'单词辨认 · Read and Select',q:'选择所有真实存在的英文单词。',multi:true,options:['reluctant','sprowing','maintain','accurate','plimity'],a:['reluctant','maintain','accurate'],ex:'reluctant、maintain、accurate 是真实单词。'},
+ {lvl:3,kind:'word',type:'单词辨认 · Read and Select',q:'选择所有真实存在的英文单词。',multi:true,options:['coherent','ambiguous','perceive','flundent','respection'],a:['coherent','ambiguous','perceive'],ex:'coherent、ambiguous、perceive 是真实单词。'},
+ {lvl:4,kind:'word',type:'单词辨认 · Read and Select',q:'选择所有真实存在的英文单词。',multi:true,options:['ubiquitous','pragmatic','scrutinize','elusious','conjectful'],a:['ubiquitous','pragmatic','scrutinize'],ex:'ubiquitous、pragmatic、scrutinize 均属于高阶词汇。'},
+ {lvl:5,kind:'word',type:'单词辨认 · Read and Select',q:'选择所有真实存在的英文单词。',multi:true,options:['incontrovertible','perspicacious','equivocate','circumspective','prolixity'],a:['incontrovertible','perspicacious','equivocate','prolixity'],ex:'除 circumspective 外，其余均为真实高阶词汇。'},
+ {lvl:1,kind:'cloze',type:'完形填空 · Fill in the Blanks',q:'I was tired, ___ I went to bed early.',options:['so','unless','despite','whereas'],a:'so',ex:'前后是因果关系，因此使用 so。'},
+ {lvl:2,kind:'cloze',type:'单词补全 · C-Test',q:'补全被截断的单词：Learning a language requ____ regular prac____ and patience.',input:true,a:['requires','practice'],display:'用逗号分隔两个完整单词',ex:'完整句为 “requires regular practice”。'},
+ {lvl:3,kind:'cloze',type:'完形填空 · Academic Context',q:'The findings were initially dismissed; _____, later experiments produced remarkably similar results.',options:['nevertheless','for instance','likewise','otherwise'],a:'nevertheless',ex:'前后形成转折，nevertheless 最准确。'},
+ {lvl:4,kind:'cloze',type:'单词补全 · C-Test',q:'补全被截断的单词：The policy was imple______ gradually to min_____ unintended consequences.',input:true,a:['implemented','minimize'],display:'用逗号分隔两个完整单词',ex:'完整搭配为 implemented gradually / minimize consequences。'},
+ {lvl:5,kind:'cloze',type:'完形填空 · Advanced Context',q:'The apparent consensus was less a product of genuine agreement than of participants’ reluctance to _____ the prevailing assumption.',options:['challenge','corroborate','reconcile','substantiate'],a:'challenge',ex:'reluctance to challenge the prevailing assumption 意为“不愿质疑主流假设”。'}
+);
+BANK.vocab.push(
+ {lvl:2,kind:'word',type:'单词辨认 · Read and Select',q:'选择所有真实存在的英文单词。',multi:true,options:['flexible','nurture','drosive','opinion','trankful'],a:['flexible','nurture','opinion'],ex:'flexible、nurture、opinion 是真实单词。'},
+ {lvl:3,kind:'word',type:'单词辨认 · Read and Select',q:'选择所有真实存在的英文单词。',multi:true,options:['allocate','sustainable','implicity','constraint','verbolate'],a:['allocate','sustainable','constraint'],ex:'allocate、sustainable、constraint 是真实单词。'},
+ {lvl:4,kind:'word',type:'单词辨认 · Read and Select',q:'选择所有真实存在的英文单词。',multi:true,options:['nuanced','mitigate','paradigm','conversive','attestive'],a:['nuanced','mitigate','paradigm'],ex:'nuanced、mitigate、paradigm 是真实高阶词汇。'},
+ {lvl:5,kind:'word',type:'单词辨认 · Read and Select',q:'选择所有真实存在的英文单词。',multi:true,options:['epistemic','ameliorate','idiosyncratic','perfunctory','discrepantial'],a:['epistemic','ameliorate','idiosyncratic','perfunctory'],ex:'discrepantial 是伪词。'},
+ {lvl:3,kind:'cloze',type:'单词补全 · C-Test',q:'补全被截断的单词：Effective teams comm_______ clearly and resolve conf_____ before it escalates.',input:true,a:['communicate','conflict'],display:'用逗号分隔两个完整单词',ex:'完整词为 communicate 和 conflict。'}
+);
+BANK.reading.push(
+ {lvl:2,type:'交互阅读 · 细节',context:'The library will extend its weekday hours during the examination period, but weekend hours will remain unchanged.',q:'考试期间哪项会发生变化？',options:['Weekend opening times','Weekday opening times','Membership fees','Borrowing limits'],a:'Weekday opening times',ex:'原文明确说 extend its weekday hours。'},
+ {lvl:4,type:'交互阅读 · 作者态度',context:'Automation can remove repetitive work, but productivity gains do not automatically improve working life. Their value depends on how organisations redistribute time, authority, and rewards.',q:'作者对自动化的态度最接近哪项？',options:['Entirely opposed','Unconditionally enthusiastic','Conditionally optimistic','Completely indifferent'],a:'Conditionally optimistic',ex:'作者承认收益，但强调收益取决于组织如何分配。'},
+ {lvl:5,type:'交互阅读 · 推论',context:'The absence of evidence is often treated as evidence of absence. Yet when measurement tools are insensitive or samples are narrow, a null result may reveal more about the study design than the phenomenon itself.',q:'这段文字主要警告研究者什么？',options:['All null results are useless.','Poor methods can make non-detection misleading.','Large samples always prove causation.','Measurement tools should be avoided.'],a:'Poor methods can make non-detection misleading.',ex:'作者强调未检测到结果可能源自研究设计限制。'}
+);
+BANK.listening.push(
+ {lvl:2,type:'听写',q:'点击播放，写下你听到的完整句子。',audio:'Please submit the revised document before the meeting begins.',input:true,a:'please submit the revised document before the meeting begins',ex:'注意 revised document 和 before。'},
+ {lvl:4,type:'听力理解',q:'先听音频，再选择讲者的主要担忧。',audio:'The launch date is achievable, but only if we reduce the number of features included in the first release.',options:['The launch is already cancelled.','The first release has too few features.','The scope may be too large for the deadline.','The team needs a new manager.'],a:'The scope may be too large for the deadline.',ex:'讲者认为必须减少首版功能才能按期发布。'},
+ {lvl:5,type:'听写',q:'点击播放，写下你听到的完整句子。',audio:'The correlation remains significant even after researchers account for demographic and socioeconomic differences.',input:true,a:'the correlation remains significant even after researchers account for demographic and socioeconomic differences',ex:'注意 correlation、demographic、socioeconomic。'}
+);
+BANK.speaking.push(
+ {lvl:2,type:'口语表达 · 35 秒',q:'Describe a habit that helps you stay productive.',speak:true,keywords:['habit','productive','because','example'],min:35},
+ {lvl:4,type:'互动口语 · 35 秒',q:'Should product teams prioritize user requests or long-term strategy? Explain how you would balance them.',speak:true,keywords:['user','strategy','balance','because'],min:50},
+ {lvl:5,type:'学术口语 · 35 秒',q:'Explain why correlation does not necessarily imply causation, using an example.',speak:true,keywords:['correlation','causation','example','because'],min:55}
+);
+BANK.writing.push(
+ {lvl:4,type:'互动写作 · 5 分钟',q:'Some people believe data should determine every product decision. Discuss the limits of this view and propose a balanced approach.',write:true,min:120,keywords:['data','decision','however','example']}
+);
+Object.values(BANK).flat().forEach(q=>{if(!q.lvl)q.lvl=3;if(!q.kind)q.kind=q.type.includes('C-Test')||q.type.includes('语境选词')?'cloze':q.type.includes('词汇辨认')?'word':''});
+const titles={home:'下午好，Yang 👋',practice:'专项训练，逐项突破',vocabulary:'建立你的高频词汇系统',exam:'模拟实战，稳定发挥',progress:'每次练习，都算数'};
+let session=[],idx=0,answers=[],selected=[],checked=false,isExam=false,startTime=0,tick=null,adaptive=false,difficulty=2,practicePool=[],targetCount=10,lastShift='',dailyRun=false;
+const $=s=>document.querySelector(s);
+document.querySelectorAll('.nav button').forEach(b=>b.onclick=()=>showView(b.dataset.view));
+function showView(id){document.querySelectorAll('.view').forEach(v=>v.classList.remove('active'));$('#'+id).classList.add('active');document.querySelectorAll('.nav button').forEach(b=>b.classList.toggle('active',b.dataset.view===id));$('#pageTitle').textContent=titles[id];scrollTo(0,0)}
+function shuffle(a){return [...a].sort(()=>Math.random()-.5)}
+function pickAdaptive(){const unused=practicePool.filter(q=>!session.includes(q));const exact=unused.filter(q=>q.lvl===difficulty);const near=unused.filter(q=>Math.abs(q.lvl-difficulty)<=1);return shuffle(exact.length?exact:near.length?near:unused)[0]}
+function startDaily(){isExam=false;dailyRun=true;adaptive=true;difficulty=2;const words=BANK.vocab.filter(q=>q.kind==='word').slice(0,10),cloze=BANK.vocab.filter(q=>q.kind==='cloze').slice(0,8);practicePool=[...words,...cloze,...BANK.reading.slice(0,6),...BANK.listening.slice(0,6),...BANK.speaking.slice(0,5),...BANK.writing.slice(0,3)];targetCount=practicePool.length;session=[];session.push(pickAdaptive());begin(`今日完整训练 · ${targetCount} 题`)}
+function startPractice(kind){isExam=false;dailyRun=false;adaptive=true;difficulty=2;practicePool=kind==='mixed'?Object.values(BANK).flat():kind==='word'?BANK.vocab.filter(q=>q.kind==='word'):kind==='cloze'?BANK.vocab.filter(q=>q.kind==='cloze'):BANK[kind];targetCount=Math.min(10,practicePool.length);session=[];session.push(pickAdaptive());begin('自适应练习 · '+({mixed:'全题型',reading:'交互阅读',listening:'听力',speaking:'口语',writing:'写作',word:'单词辨认',cloze:'完形填空'}[kind]))}
+function startExam(){isExam=true;dailyRun=false;adaptive=false;const words=BANK.vocab.filter(q=>q.kind==='word').slice(0,10),cloze=BANK.vocab.filter(q=>q.kind==='cloze').slice(0,8);session=shuffle([...words,...cloze,...BANK.reading.slice(0,6),...BANK.listening.slice(0,6),...BANK.speaking.slice(0,5),...BANK.writing.slice(0,3)]);begin('60 分钟全长模拟考试');startTime=Date.now();tick=setInterval(()=>{let left=Math.max(0,3600-Math.floor((Date.now()-startTime)/1000));$('#timer').textContent=`${String(Math.floor(left/60)).padStart(2,'0')}:${String(left%60).padStart(2,'0')}`;if(!left)finish()},1000)}
+function begin(label){idx=0;answers=[];selected=[];checked=false;$('#modeLabel').textContent=label;$('#timer').textContent=isExam?'60:00':'不限时';$('#overlay').classList.add('open');renderQ()}
+function renderQ(){checked=false;selected=[];const q=session[idx],total=adaptive?targetCount:session.length;$('#qProgress').style.width=((idx+1)/total*100)+'%';$('#qCount').textContent=`${idx+1} / ${total}`;$('#levelBadge').textContent=`难度 ${q.lvl} · ${['','A2','B1','B2','C1','C1+'][q.lvl]}`;$('#submitBtn').textContent=isExam?'提交并继续':'检查答案';let html=`<div class="qtype">${q.type}</div><div class="question">${q.q}</div>`;if(q.context)html+=`<div class="context">${q.context}</div>`;if(q.audio)html+=`<button class="audio-btn" onclick="speakAudio()">▶</button>`;if(q.options)html+=`<div class="options">${q.options.map(o=>`<button class="option" onclick="pick(this,'${o.replaceAll("'","\\'")}')">${o}</button>`).join('')}</div>`;if(q.input)html+=`<input class="answer" id="answer" placeholder="${q.display||'输入你的答案'}" autocomplete="off">`;if(q.write)html+=`<textarea class="answer" id="answer" rows="8" placeholder="Write in English..."></textarea><div class="mini" style="text-align:right" id="words">0 words</div>`;if(q.speak)html+=`<button class="audio-btn" id="recBtn" onclick="recordSpeech()">●</button><div class="context" id="transcript">点击录音按钮开始。若浏览器不支持语音识别，可直接输入。</div><textarea class="answer" id="answer" rows="4" placeholder="语音转写或手动输入..."></textarea>`;html+=`<div class="feedback" id="feedback"></div>`;$('#qBody').innerHTML=html;if(q.write)$('#answer').oninput=e=>$('#words').textContent=(e.target.value.trim().match(/\b[\w’'-]+\b/g)||[]).length+' words'}
+function pick(el,val){const q=session[idx];if(q.multi){el.classList.toggle('selected');selected.includes(val)?selected=selected.filter(x=>x!==val):selected.push(val)}else{selected=[val];document.querySelectorAll('.option').forEach(x=>x.classList.remove('selected'));el.classList.add('selected')}}
+function norm(s){return String(s||'').toLowerCase().replace(/[.,!?;:'"]/g,'').replace(/\s+/g,' ').trim()}
+function similarity(a,b){const x=norm(a).split(' '),y=norm(b).split(' ');return x.filter(w=>y.includes(w)).length/Math.max(y.length,1)}
+function evaluate(q,response){if(q.multi)return q.a.every(x=>response.includes(x))&&response.length===q.a.length?1:0;if(q.options)return response===q.a?1:0;if(q.input){if(Array.isArray(q.a)){const parts=response.split(',').map(norm);return q.a.reduce((n,x)=>n+(parts.includes(norm(x))?1:0),0)/q.a.length}return similarity(response,q.a)}if(q.write||q.speak){const words=(response.match(/\b[\w’'-]+\b/g)||[]),len=Math.min(1,words.length/q.min),unique=new Set(words.map(norm)).size/Math.max(words.length,1),connectors=['because','however','therefore','although','while','for example','in addition'].filter(x=>norm(response).includes(x)).length;const relevance=q.keywords.filter(x=>norm(response).includes(x)).length/q.keywords.length;return Math.min(1,.42*len+.18*Math.min(1,unique/.6)+.2*Math.min(1,connectors/2)+.2*relevance)}return 0}
+function answerKey(q){if(q.write)return'开放题无唯一答案；建议检查观点、例证、连接词和语法。';if(q.speak)return'开放题无唯一答案；建议用完整句回答，并补充原因和例子。';return Array.isArray(q.a)?q.a.join('，'):q.a}
+function submitAnswer(){const q=session[idx];let response=q.options?selected:(($('#answer')||{}).value||'').trim();if(!response.length){$('#feedback').className='feedback bad';$('#feedback').textContent='请先完成作答。';return}if(!checked){const score=evaluate(q,response),old=difficulty;answers.push({q,response,score,skill:skillOf(q)});checked=true;if(adaptive){const recent=[...answers].slice(-2).map(x=>x.score);if(score>=.9&&recent.every(x=>x>=.75))difficulty=Math.min(5,difficulty+1);else if(score<.55)difficulty=Math.max(1,difficulty-1);lastShift=difficulty>old?`↑ 答对了，下一题升至难度 ${difficulty}`:difficulty<old?`↓ 本题较难，下一题降至难度 ${difficulty}`:`→ 难度保持 ${difficulty}`;}if(isExam){nextQ();return}const f=$('#feedback');f.className='feedback '+(score>=.75?'good':'bad');f.innerHTML=`<b>${score>=.75?'回答正确 / 表现良好':'需要修改'}</b><br>你的答案：${Array.isArray(response)?response.join('，'):response}<br>正确答案 / 修改方向：${answerKey(q)}<br>中文解析：${q.zh||q.ex||'请根据正确答案修正拼写、语法或表达结构。'}${adaptive?`<span class="shift">${lastShift}</span>`:''}`;$('#submitBtn').textContent=(adaptive?answers.length>=targetCount:idx===session.length-1)?'查看结果':'下一题'}else nextQ()}
+function nextQ(){if(adaptive&&answers.length<targetCount){const next=pickAdaptive();if(next)session.push(next);idx++;renderQ()}else if(idx<session.length-1){idx++;renderQ()}else finish()}
+function skillOf(q){if(BANK.reading.includes(q)||BANK.vocab.includes(q))return'reading';if(BANK.listening.includes(q))return'listening';if(BANK.speaking.includes(q))return'speaking';return'writing'}
+function finish(){clearInterval(tick);const by={reading:[],listening:[],speaking:[],writing:[]};answers.forEach(a=>by[a.skill].push(a.score));const scores={};Object.keys(by).forEach(k=>scores[k]=Math.round(30*(by[k].length?by[k].reduce((a,b)=>a+b,0)/by[k].length:0)));let total=Object.values(scores).reduce((a,b)=>a+b,0);if(!isExam)total=Math.round(120*(answers.reduce((a,b)=>a+b.score,0)/Math.max(answers.length,1)));localStorage.setItem('fluentLast',JSON.stringify({total,date:new Date().toISOString()}));if(dailyRun&&answers.length===targetCount)localStorage.setItem('fluentDaily',new Date().toISOString().slice(0,10));$('#qProgress').style.width='100%';$('#qBody').innerHTML=`<div class="scorebig"><div class="qtype">${dailyRun?'今日打卡完成':isExam?'模拟考试成绩':'本组练习完成'}</div><strong>${total}</strong><span> / 120</span><h2>${dailyRun?'38 个作答步骤全部完成':total>=120?'目标达成！':total>=100?'距离目标很近了':'稳步提升中'}</h2><p style="color:var(--muted)">${isExam?'本次训练估分已生成。继续针对薄弱项练习。':'完成得很好，保持每天练习。'}</p></div>${isExam?`<div class="breakdown"><div class="break"><b>${scores.reading}</b>阅读</div><div class="break"><b>${scores.listening}</b>听力</div><div class="break"><b>${scores.speaking}</b>口语</div><div class="break"><b>${scores.writing}</b>写作</div></div>`:''}<div class="notice">评分用于练习反馈。正式考试的开放题由更复杂的模型或考官评定，本地估分不能替代官方成绩。</div>`;$('#qCount').textContent='已完成';$('#submitBtn').textContent='返回首页';$('#submitBtn').onclick=()=>{closeModal();showView('home');location.reload()}}
+function speakAudio(){const q=session[idx];speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(q.audio);u.lang='en-GB';u.rate=.86;speechSynthesis.speak(u)}
+function recordSpeech(){const SR=window.SpeechRecognition||window.webkitSpeechRecognition;if(!SR){$('#transcript').textContent='当前浏览器不支持自动语音识别，请在下方手动输入作答内容。';return}const r=new SR();r.lang='en-US';r.interimResults=true;$('#recBtn').textContent='■';$('#transcript').textContent='正在聆听…';r.onresult=e=>{let t=[...e.results].map(x=>x[0].transcript).join(' ');$('#transcript').textContent=t;$('#answer').value=t};r.onend=()=>$('#recBtn').textContent='●';r.start()}
+function closeModal(){clearInterval(tick);speechSynthesis.cancel();$('#overlay').classList.remove('open');$('#submitBtn').onclick=submitAnswer}
+const VOCAB_RAW=`
+ability|能力|A2|10–55
+accept|接受|A2|10–55
+achieve|实现|A2|10–55
+advice|建议|A2|10–55
+allow|允许|A2|10–55
+arrive|到达|A2|10–55
+believe|相信|A2|10–55
+borrow|借入|A2|10–55
+choose|选择|A2|10–55
+compare|比较|A2|10–55
+decide|决定|A2|10–55
+describe|描述|A2|10–55
+environment|环境|A2|10–55
+experience|经历；经验|A2|10–55
+improve|改善|A2|10–55
+necessary|必要的|A2|10–55
+advantage|优势|B1|60–85
+appropriate|合适的|B1|60–85
+attitude|态度|B1|60–85
+challenge|挑战|B1|60–85
+communicate|沟通|B1|60–85
+consequence|后果|B1|60–85
+consider|考虑|B1|60–85
+develop|发展|B1|60–85
+effective|有效的|B1|60–85
+evidence|证据|B1|60–85
+flexible|灵活的|B1|60–85
+maintain|维持|B1|60–85
+opportunity|机会|B1|60–85
+particular|特定的|B1|60–85
+require|需要|B1|60–85
+significant|重要的|B1|60–85
+allocate|分配|B2|90–115
+ambiguous|模棱两可的|B2|90–115
+coherent|连贯的|B2|90–115
+constraint|限制条件|B2|90–115
+controversial|有争议的|B2|90–115
+derive|获得；源自|B2|90–115
+distinguish|区分|B2|90–115
+emerge|出现|B2|90–115
+facilitate|促进|B2|90–115
+infer|推断|B2|90–115
+interpret|解释|B2|90–115
+perceive|感知；认为|B2|90–115
+preliminary|初步的|B2|90–115
+reluctant|不情愿的|B2|90–115
+sustainable|可持续的|B2|90–115
+valid|有效的；合理的|B2|90–115
+arbitrary|任意的|C1|120–135
+corroborate|证实|C1|120–135
+counterpart|对应的人或物|C1|120–135
+detrimental|有害的|C1|120–135
+empirical|实证的|C1|120–135
+equivocal|模棱两可的|C1|120–135
+exacerbate|加剧|C1|120–135
+feasible|可行的|C1|120–135
+mitigate|缓解|C1|120–135
+nuanced|细致入微的|C1|120–135
+paradigm|范式|C1|120–135
+pragmatic|务实的|C1|120–135
+scrutinize|仔细审查|C1|120–135
+substantiate|用证据支持|C1|120–135
+ubiquitous|无处不在的|C1|120–135
+viable|可行的|C1|120–135
+ameliorate|改善|C2|140–160
+anachronistic|时代错误的|C2|140–160
+concomitant|伴随的|C2|140–160
+conundrum|难题|C2|140–160
+epistemic|认识论的|C2|140–160
+equivocate|含糊其辞|C2|140–160
+idiosyncratic|独特的；个人特有的|C2|140–160
+incontrovertible|无可争议的|C2|140–160
+parsimonious|简约的；吝啬的|C2|140–160
+perfunctory|敷衍的|C2|140–160
+perspicacious|有洞察力的|C2|140–160
+prolixity|冗长|C2|140–160
+recalcitrant|顽抗的|C2|140–160
+recondite|深奥的|C2|140–160
+sycophantic|谄媚的|C2|140–160
+vicissitude|变迁；盛衰|C2|140–160`;
+let VOCAB=VOCAB_RAW.trim().split('\n').map(x=>{const [word,zh,cefr,band]=x.split('|');return{word,zh,cefr,band}});
+let vocabFavs=new Set(JSON.parse(localStorage.getItem('fluentVocabFavs')||'[]')),favOnly=false;
+function usages(v){if(v.cefr==='A1'||v.cefr==='A2')return['听力','口语','单词辨认'];if(v.cefr==='B1')return['阅读','听力','写作'];if(v.cefr==='B2')return['阅读','写作','听力'];return['阅读','写作','口语']}
+function speakWord(word){speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(word);u.lang='en-US';u.rate=.78;speechSynthesis.speak(u)}
+function toggleFavorite(word){vocabFavs.has(word)?vocabFavs.delete(word):vocabFavs.add(word);localStorage.setItem('fluentVocabFavs',JSON.stringify([...vocabFavs]));renderVocab()}
+function toggleFavView(){favOnly=!favOnly;$('#favToggle').classList.toggle('active',favOnly);$('#favToggle').firstChild.textContent=favOnly?'★ 收藏夹 ':'☆ 收藏夹 ';renderVocab()}
+function renderVocab(){const term=($('#vocabSearch')?.value||'').toLowerCase(),band=$('#vocabBand')?.value||'';const matched=VOCAB.filter(v=>(!term||(v.word+' '+v.zh).toLowerCase().includes(term))&&(!band||v.band===band)&&(!favOnly||vocabFavs.has(v.word))),rows=matched.slice(0,200);$('#vocabRows').innerHTML=rows.map(v=>`<tr><td><b>${v.word}</b> ${v.phonetic?`<small>${v.phonetic}</small>`:''} <button class="iconbtn" onclick="speakWord('${v.word.replaceAll("'","\\'")}')" title="播放美式发音">🔊</button></td><td>${v.zh}</td><td>${usages(v).map(x=>`<span class="usetag">${x}</span>`).join('')}</td><td>${v.cefr}</td><td><span class="scoretag">${v.band}</span></td><td><button class="iconbtn ${vocabFavs.has(v.word)?'saved':''}" onclick="toggleFavorite('${v.word.replaceAll("'","\\'")}')">${vocabFavs.has(v.word)?'★':'☆'}</button></td></tr>`).join('')||`<tr><td colspan="6" style="text-align:center;color:var(--muted);padding:35px">${favOnly?'还没有收藏单词':'没有匹配结果'}</td></tr>`;$('#vocabCount').textContent=`${matched.length} / ${VOCAB.length} 词${matched.length>200?' · 当前显示前200':''}`;$('#favCount').textContent=vocabFavs.size}
+renderVocab();
+async function loadFullVocab(){try{$('#vocabCount').textContent='正在载入120分目标词库…';const levels=['a1','a2','b1','b2','c1','c2'];const files=await Promise.all(levels.map(x=>fetch(`https://cdn.jsdelivr.net/gh/lratusa/wordmaster-wordlists@main/english/cefr_${x}.json`).then(r=>{if(!r.ok)throw Error('词库加载失败');return r.json()})));const bandMap={A1:'10–55',A2:'10–55',B1:'60–85',B2:'90–115',C1:'120–135',C2:'140–160'};const all=files.flatMap(f=>(f.words||[]).map(w=>({word:w.word,zh:w.translation_cn||'暂无中文释义',cefr:w.cefr_level||'B1',band:bandMap[w.cefr_level]||'60–85',phonetic:w.phonetic||'',pos:w.part_of_speech||''})));const unique=new Map(all.filter(v=>v.word).map(v=>[v.word.toLowerCase(),v]));if(unique.size>6000){const priority={B1:0,B2:1,C1:2,A2:3,A1:4,C2:5};VOCAB=[...unique.values()].sort((a,b)=>(priority[a.cefr]??9)-(priority[b.cefr]??9)||a.word.localeCompare(b.word)).slice(0,6000).sort((a,b)=>a.word.localeCompare(b.word));renderVocab()}}catch(e){$('#vocabCount').textContent=`离线核心词库 · ${VOCAB.length} 词`}}
+loadFullVocab();
+const days=['一','二','三','四','五','六','日'];$('#streak').innerHTML=days.map((d,i)=>`<div><div class="day">周${d}</div><div class="dot ${i<6?'done':''}">${i<6?'✓':'·'}</div></div>`).join('');const last=JSON.parse(localStorage.getItem('fluentLast')||'null');if(last){$('#heroScore').textContent=last.total}
+</script>
+</body>
+</html>
