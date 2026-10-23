@@ -1,85 +1,105 @@
 {
-  "updated_at": "2026-10-23T10:32:40.372723Z",
+  "updated_at": "2026-10-23T17:13:56.665828Z",
   "items": [
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
-      "summary": "The attack comes at a time of heightened tensions in the West Bank and four days before Israel's general election.",
-      "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
       "audio": "",
       "duration": 0,
-      "published": "2026-10-23T10:26:06Z"
+      "published": "2026-10-23T17:00:00Z"
     },
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
-      "summary": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
-      "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+      "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+      "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-10-23T10:23:07Z"
+      "published": "2026-10-23T16:59:51Z"
     },
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Cyprus police open investigation into financial affairs of Roman Abramovich",
-      "summary": "Questions about the integrity of some of Abramovich's professional advisers, were raised earlier this month.",
-      "link": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&at_campaign=rss",
+      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+      "summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
+      "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-10-23T10:14:37Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat",
-      "summary": "Her husband is currently in isolation but has not developed any symptoms, Swiss officials say.",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-23T10:14:33Z"
+      "published": "2026-10-23T16:33:11Z"
     },
     {
       "source": "BBC World",
       "kind": "news",
       "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-      "summary": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown.",
+      "summary": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\".",
       "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-10-23T09:36:43Z"
+      "published": "2026-10-23T16:19:36Z"
     },
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
-      "summary": "One person has died after being swept away by waves in Taiwan's Liuqiu island, authorities say.",
-      "link": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss",
+      "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+      "summary": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
+      "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-10-23T08:45:58Z"
+      "published": "2026-10-23T16:17:02Z"
     },
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Rubio turns to small Indian town as US faces high oil prices",
-      "summary": "US Secretary of State Marco Rubio pushed a business and energy agenda over diplomacy on his second trip to India this year.",
-      "link": "https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+      "summary": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
+      "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-10-23T08:39:42Z"
+      "published": "2026-10-23T15:37:07Z"
     },
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
-      "summary": "The quake hit a mountainous, sparsely-populated area in what China calls the Tibet Autonomous Region.",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
+      "title": "Oil spill washes up on UAE beaches after tanker strike",
+      "summary": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife",
+      "link": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-10-23T05:16:37Z"
+      "published": "2026-10-23T15:30:47Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "Sudan's hospitals deliberately targeted by RSF fighters",
+      "summary": "A BBC investigation has found evidence that Sudanese paramilitary fighters systematically destroyed El-Fasher's healthcare system during their long siege and subsequent takeover of the city in Darfur a year ago. UN human rights chief Volke…",
+      "link": "http://www.bbc.co.uk/programmes/p0pj95j1",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pj924b.mp3",
+      "duration": 30,
+      "published": "2026-10-23T14:31:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "PSG v Lyon moved as Paris prepares for more protests",
+      "summary": "Paris St-Germain's Ligue 1 match against Lyon at the Parc des Princes is pushed back 24 hours as the French capital prepares for another weekend of protests.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-23T14:18:41Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Denmark to ban mink farming in government U-turn",
+      "summary": "Once the world's largest producer of mink pelts, the nation's industry has declined in recent years.",
+      "link": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-23T12:17:45Z"
     },
     {
       "source": "BBC Global News",
@@ -214,16 +234,6 @@
     {
       "source": "OpenAI News",
       "kind": "ai",
-      "title": "Broad access through consistent standards",
-      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-      "link": "https://openai.com/index/broad-access-through-consistent-standards",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-21T21:00:00Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
       "title": "How AT&T is rethinking in-house legal work with OpenAI",
       "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
       "link": "https://openai.com/index/att-legal",
@@ -310,16 +320,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-10-19T18:22:47Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "World Food Programme to cut aid to Gaza",
-      "summary": "Residents of Gaza have described the World Food Programme's decision to drastically reduce lifesaving assistance as \"disastrous\". The number of people helped by the UN agency will be reduced by around a third to one-point-one million peopl…",
-      "link": "http://www.bbc.co.uk/programmes/p0phj1rg",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0phj06j.mp3",
-      "duration": 28,
-      "published": "2026-10-19T15:37:00Z"
     },
     {
       "source": "Practical AI",
