@@ -4,6 +4,25 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Fluent 120 · 英语冲刺训练</title>
+  <script>
+    // GitHub Pages may cache index.html for several minutes. Check a tiny,
+    // uncached version file so returning visitors automatically receive updates.
+    const APP_VERSION = '2026.10.23.1';
+    (async () => {
+      try {
+        const response = await fetch(`version.json?t=${Date.now()}`, { cache: 'no-store' });
+        if (!response.ok) return;
+        const { version } = await response.json();
+        if (version && version !== APP_VERSION) {
+          const url = new URL(window.location.href);
+          url.searchParams.set('v', version);
+          window.location.replace(url.toString());
+        }
+      } catch (_) {
+        // Stay usable when offline or when the version check is unavailable.
+      }
+    })();
+  </script>
   <style>
     :root{--ink:#15231d;--muted:#65736c;--paper:#f6f7f2;--card:#fff;--line:#dfe5df;--green:#176b4c;--green2:#dff3e8;--lime:#d8f37a;--orange:#ff9d5c;--blue:#dcecff;--shadow:0 14px 36px rgba(23,50,38,.08)}
     *{box-sizing:border-box} body{margin:0;background:var(--paper);color:var(--ink);font:15px/1.5 Inter,ui-sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif} button,input,textarea{font:inherit} button{cursor:pointer}
