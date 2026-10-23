@@ -10,10 +10,6 @@
 
 ## 界面预览
 
-### 每日学习首页
-
-![Fluent 120 每日学习首页](docs/images/home.png)
-
 ### 专项练习
 
 ![Fluent 120 专项练习](docs/images/practice.png)
