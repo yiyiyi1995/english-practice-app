@@ -3,7 +3,7 @@
 一个无需安装、打开浏览器即可练习的英语冲刺网页应用。覆盖阅读、听力、口语、写作、词汇与 120 分制模拟考试，适合用于日常训练和阶段性自测。
 
 <p align="center">
-  <a href="https://yiyiyi1995.github.io/first-try/"><strong>在线体验 Fluent 120 →</strong></a>
+  <a href="https://yiyiyi1995.github.io/english-practice-app/"><strong>在线体验 Fluent 120 →</strong></a>
 </p>
 
 > 在线体验需要先启用 GitHub Pages。应用可直接在本地运行；联网时会加载完整词库，断网时自动使用内置核心词库。
@@ -36,15 +36,15 @@
 
 ### 在线使用
 
-打开 [Fluent 120 在线版](https://yiyiyi1995.github.io/first-try/) 即可开始练习。
+打开 [Fluent 120 在线版](https://yiyiyi1995.github.io/english-practice-app/) 即可开始练习。
 
 ### 本地使用
 
 克隆仓库：
 
 ```bash
-git clone https://github.com/yiyiyi1995/first-try.git
-cd first-try
+git clone https://github.com/yiyiyi1995/english-practice-app.git
+cd english-practice-app
 ```
 
 直接双击 `index.html`，或启动一个本地服务器：
