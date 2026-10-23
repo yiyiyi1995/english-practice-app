@@ -28,7 +28,7 @@
     <div class="sidefoot"><b>目标：120 分</b><div class="mini">建议每天 30 分钟 · 连续 28 天</div></div>
   </aside>
   <main class="main">
-    <div class="top"><div><div class="eyebrow">WED, OCT 14</div><h1 id="pageTitle">下午好，Yang 👋</h1></div><div class="avatar">YY</div></div>
+    <div class="top"><div><div class="eyebrow">WED, OCT 14</div><h1 id="pageTitle">下午好，HELLO，LA 👋</h1></div><div class="avatar">LA</div></div>
 
     <section id="home" class="view active">
       <div class="hero"><div><span style="color:var(--lime);font-weight:800">28 天冲刺计划 · DAY 6</span><h2>每天一套考试量，练到 120 分。</h2><p>今日任务：38 个作答步骤 · 约 45–55 分钟。覆盖词汇、完形、交互阅读、听力、口语与写作。</p><div class="btns"><button class="primary" onclick="startDaily()">开始今日 38 题 →</button><button class="secondary" onclick="showView('exam')">精简模拟考试</button></div></div><div class="goal"><div class="ring"><div class="ringin"><div><b id="heroScore">93</b><span>当前估分</span></div></div></div></div></div>
@@ -131,7 +131,7 @@ BANK.writing.push(
  {lvl:4,type:'互动写作 · 5 分钟',q:'Some people believe data should determine every product decision. Discuss the limits of this view and propose a balanced approach.',write:true,min:120,keywords:['data','decision','however','example']}
 );
 Object.values(BANK).flat().forEach(q=>{if(!q.lvl)q.lvl=3;if(!q.kind)q.kind=q.type.includes('C-Test')||q.type.includes('语境选词')?'cloze':q.type.includes('词汇辨认')?'word':''});
-const titles={home:'下午好，Yang 👋',practice:'专项训练，逐项突破',vocabulary:'建立你的高频词汇系统',exam:'模拟实战，稳定发挥',progress:'每次练习，都算数'};
+const titles={home:'下午好，HELLO，LA 👋',practice:'专项训练，逐项突破',vocabulary:'建立你的高频词汇系统',exam:'模拟实战，稳定发挥',progress:'每次练习，都算数'};
 let session=[],idx=0,answers=[],selected=[],checked=false,isExam=false,startTime=0,tick=null,adaptive=false,difficulty=2,practicePool=[],targetCount=10,lastShift='',dailyRun=false;
 const $=s=>document.querySelector(s);
 document.querySelectorAll('.nav button').forEach(b=>b.onclick=()=>showView(b.dataset.view));
