@@ -1,0 +1,465 @@
+{
+  "updated_at": "2026-10-23T10:32:40.372723Z",
+  "items": [
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+      "summary": "The attack comes at a time of heightened tensions in the West Bank and four days before Israel's general election.",
+      "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-23T10:26:06Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
+      "summary": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
+      "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-23T10:23:07Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Cyprus police open investigation into financial affairs of Roman Abramovich",
+      "summary": "Questions about the integrity of some of Abramovich's professional advisers, were raised earlier this month.",
+      "link": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-23T10:14:37Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat",
+      "summary": "Her husband is currently in isolation but has not developed any symptoms, Swiss officials say.",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-23T10:14:33Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "summary": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown.",
+      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-23T09:36:43Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+      "summary": "One person has died after being swept away by waves in Taiwan's Liuqiu island, authorities say.",
+      "link": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-23T08:45:58Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Rubio turns to small Indian town as US faces high oil prices",
+      "summary": "US Secretary of State Marco Rubio pushed a business and energy agenda over diplomacy on his second trip to India this year.",
+      "link": "https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-23T08:39:42Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
+      "summary": "The quake hit a mountainous, sparsely-populated area in what China calls the Tibet Autonomous Region.",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-23T05:16:37Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "Yemen's humanitarian crisis",
+      "summary": "Our senior international corrrespondent Orla Guerin reports from Yemen where fighting has intensified between government forces and Houthi rebels. Also: Kim Jong-un's sister, Kim Yo-jong steps into the limelight as rumours swirl over the h…",
+      "link": "http://www.bbc.co.uk/programmes/p0pj5sxl",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pj5smt.mp3",
+      "duration": 26,
+      "published": "2026-10-23T04:46:00Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-23T00:00:00Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "kind": "ai",
+      "title": "Designing an AI serving harness built to last",
+      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capabil…",
+      "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-22T21:17:29Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Build more responsive apps with the Decisions API",
+      "summary": "Fast, focused, low-cost decisions for any application.",
+      "link": "https://openai.com/index/decisions-api",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-22T19:00:00Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "kind": "ai",
+      "title": "The Foundations of Scalable AI",
+      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to bu…",
+      "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-22T18:48:04Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "Ukraine comes under renewed Russian attack",
+      "summary": "The Ukrainian president has accused Russia of responding to the latest negotiations about ending the war by launching three waves of ballistic missiles. Nine people were killed and more than 30 injured across Ukraine, as homes, power facil…",
+      "link": "http://www.bbc.co.uk/programmes/p0pj1x9c",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pj1qgg.mp3",
+      "duration": 26,
+      "published": "2026-10-22T15:22:00Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "kind": "ai",
+      "title": "Making the case for context-aware AI",
+      "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships tha…",
+      "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-22T10:00:00Z"
+    },
+    {
+      "source": "BBC 6 Minute English",
+      "kind": "learning",
+      "title": "What should you eat for a better night’s sleep?",
+      "summary": "Have you ever had the feeling of lying awake at night, unable to get to sleep? Many of us know what it is like to struggle with sleep, especially if we have drunk too much tea or coffee before bed! But did you know that your sleep quality…",
+      "link": "http://www.bbc.co.uk/programmes/p0phz9z7",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0phyzz9.mp3",
+      "duration": 7,
+      "published": "2026-10-22T09:56:00Z"
+    },
+    {
+      "source": "Practical AI",
+      "kind": "ai",
+      "title": "Exploit Development, Agentic Vulnerability Discovery, and Fake PoCs",
+      "summary": "AI is changing cybersecurity, accelerating vulnerability research and exploit development while raising new questions about reliability, risk, and guardrails. Daniel and Chris talk with Spencer McIntyre, Director of Exploit Development at…",
+      "link": "https://share.transistor.fm/s/9a42098b",
+      "audio": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/media.transistor.fm/9a42098b/0357dcc1.mp3",
+      "duration": 45,
+      "published": "2026-10-22T09:00:00Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "kind": "ai",
+      "title": "AI’s hidden storage bill: What inference leaves behind",
+      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a mod…",
+      "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-22T08:41:18Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "What FDE means at OpenAI",
+      "summary": "What forward deployed engineering means at OpenAI",
+      "link": "https://openai.com/index/forward-deployed-engineering-means",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-22T06:00:00Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "US and European websites go offline over security concerns",
+      "summary": "A cyber security flaw has prompted governments in Finland and the Netherlands and websites such as Wikipedia and the BBC to go completely dark temporarily. The flaws in a programming language were discovered by AI. PHP is a scripting langu…",
+      "link": "http://www.bbc.co.uk/programmes/p0phxwpq",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0phxwfv.mp3",
+      "duration": 27,
+      "published": "2026-10-22T04:41:00Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+      "link": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-22T00:00:00Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Broad access through consistent standards",
+      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "link": "https://openai.com/index/broad-access-through-consistent-standards",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-21T21:00:00Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "link": "https://openai.com/index/att-legal",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-21T17:00:00Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "Witkoff praises Putin as 'a humanitarian'",
+      "summary": "Russia has released a retired American teacher who was jailed for allegedly fighting on behalf of Ukraine, as President Vladimir Putin met US envoy Steve Witkoff. Mr Witkoff praised the decision, calling Mr Putin \"a humanitarian\", while al…",
+      "link": "http://www.bbc.co.uk/programmes/p0phvgrc",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0phvfqk.mp3",
+      "duration": 31,
+      "published": "2026-10-21T16:08:00Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "Zelensky says US intelligence sharing is back on",
+      "summary": "Ukraine's President Volodymyr Zelensky says intelligence on early warning systems for Russian strikes \"works now\", and that he is thankful to the US. After meeting President Zelensky, Donald Trump's envoy Steve Witkoff is now in Russia to…",
+      "link": "http://www.bbc.co.uk/programmes/p0phqt0f",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0phqskt.mp3",
+      "duration": 27,
+      "published": "2026-10-21T04:52:00Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "Alberta rejects move towards Canada independence",
+      "summary": "Canada’s most oil and gas rich province, Alberta, has voted to reject a move towards holding a referendum on independence from Canada. The Alberta Premier Danielle Smith and Prime Minister Mark Carney said they were pleased with the result…",
+      "link": "http://www.bbc.co.uk/programmes/p0phnspw",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0phnr2p.mp3",
+      "duration": 25,
+      "published": "2026-10-20T15:49:00Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "kind": "ai",
+      "title": "The new economics of enterprise AI",
+      "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends…",
+      "link": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-20T15:20:25Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "kind": "ai",
+      "title": "AI adoption by industry shows what other sectors can learn",
+      "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. A…",
+      "link": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-20T12:00:00Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "kind": "ai",
+      "title": "A visit to Samsung’s massive new semiconductor hub",
+      "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing comp…",
+      "link": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-20T09:00:00Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "France halts protests with curfew crackdown",
+      "summary": "Overnight curfews are in place in parts of Paris, Lyon, Lille and Nice as the French authorities try to crack down on violence and looting which has scarred the country since Saturday. Demonstrations have been banned in the French capital,…",
+      "link": "http://www.bbc.co.uk/programmes/p0phlcv5",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0phl963.mp3",
+      "duration": 26,
+      "published": "2026-10-20T05:14:00Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "kind": "ai",
+      "title": "Making the internet better for AI agents might make it worse for everyone else",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites h…",
+      "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-19T18:22:47Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "World Food Programme to cut aid to Gaza",
+      "summary": "Residents of Gaza have described the World Food Programme's decision to drastically reduce lifesaving assistance as \"disastrous\". The number of people helped by the UN agency will be reduced by around a third to one-point-one million peopl…",
+      "link": "http://www.bbc.co.uk/programmes/p0phj1rg",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0phj06j.mp3",
+      "duration": 28,
+      "published": "2026-10-19T15:37:00Z"
+    },
+    {
+      "source": "Practical AI",
+      "kind": "ai",
+      "title": "Is Education Failing our Students in this AI-Driven World?",
+      "summary": "Schools and universities are failing to adapt to our modern world, in which AI is becoming increasingly pervasive in all aspects of life and work. In fact, AI may be changing what should be considered foundational knowledge that all studen…",
+      "link": "https://share.transistor.fm/s/4f81adfa",
+      "audio": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/media.transistor.fm/4f81adfa/85758bdc.mp3",
+      "duration": 44,
+      "published": "2026-10-15T13:32:00Z"
+    },
+    {
+      "source": "BBC 6 Minute English",
+      "kind": "learning",
+      "title": "Why has gold got so expensive?",
+      "summary": "Many of us own jewellery or other items that are gold coloured, but do you own anything that is made from real gold? Gold is a precious metal, which means that there is a limited supply in the world. This not only makes it expensive, but a…",
+      "link": "http://www.bbc.co.uk/programmes/p0pgs2w6",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pgs15w.mp3",
+      "duration": 7,
+      "published": "2026-10-15T09:24:00Z"
+    },
+    {
+      "source": "Practical AI",
+      "kind": "ai",
+      "title": "Narrative intelligence and the human advantage",
+      "summary": "As AI reshapes how we work, create, and think about our roles, staying adaptable means understanding not just the technology, but our own stories and identities. Reed Frerichs joins Daniel and Chris to explore narrative intelligence, story…",
+      "link": "https://share.transistor.fm/s/f2fcb677",
+      "audio": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/media.transistor.fm/f2fcb677/ee0419b3.mp3",
+      "duration": 44,
+      "published": "2026-10-08T09:00:00Z"
+    },
+    {
+      "source": "BBC 6 Minute English",
+      "kind": "learning",
+      "title": "Are people drinking less alcohol?",
+      "summary": "In recent generations many people have chosen to stop drinking alcohol. Surveys from the UK suggest that 16 to 24-year-olds are more likely to be non-drinkers than the older generations. Many people are sharing their experience of drinking…",
+      "link": "http://www.bbc.co.uk/programmes/p0pflmn5",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pfllv6.mp3",
+      "duration": 7,
+      "published": "2026-10-08T08:28:00Z"
+    },
+    {
+      "source": "BBC 6 Minute English",
+      "kind": "learning",
+      "title": "Why does heartbreak hurt so much?",
+      "summary": "Anyone who has had their heart broken will know how horrible it feels. But did you know that the pain you feel is not just imaginary – it registers in the same part of the brain that processes physical pain. So, why do we feel this pain? A…",
+      "link": "http://www.bbc.co.uk/programmes/p0pdc9cq",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pdc7mz.mp3",
+      "duration": 7,
+      "published": "2026-10-01T09:47:00Z"
+    },
+    {
+      "source": "Practical AI",
+      "kind": "ai",
+      "title": "Open models and the future of Physical AI with NVIDIA",
+      "summary": "As AI moves beyond the cloud and into robots, vehicles, and other physical systems, new approaches to models, simulation, and inference are emerging. Daniel and Chris are joined by Ming-Yu Liu, Vice President of Cosmos Lab at NVIDIA, who s…",
+      "link": "https://share.transistor.fm/s/217445d3",
+      "audio": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/media.transistor.fm/217445d3/e1eb0b6a.mp3",
+      "duration": 47,
+      "published": "2026-10-01T09:00:00Z"
+    },
+    {
+      "source": "Practical AI",
+      "kind": "ai",
+      "title": "From AGENTS.md to Enterprise Deployment",
+      "summary": "AI agents are moving beyond laptops and prototypes and into enterprise environments where security, compliance, scalability, and reliability matter. Nick Kuhn from VMware Tanzu Platform joins Daniel and Chris to discuss what changes (and w…",
+      "link": "https://share.transistor.fm/s/74934e48",
+      "audio": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/media.transistor.fm/74934e48/4c629c07.mp3",
+      "duration": 49,
+      "published": "2026-09-24T09:00:00Z"
+    },
+    {
+      "source": "BBC 6 Minute English",
+      "kind": "learning",
+      "title": "Why do we itch?",
+      "summary": "Feeling itchy is unpleasant, and the feeling of finally scratching that itch can be very satisfying! But why do we feel itchy in the first place? And is it possible to catch an itch from someone else? Neil and Georgie discuss this and teac…",
+      "link": "http://www.bbc.co.uk/programmes/p0pc61lm",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pc618w.mp3",
+      "duration": 6,
+      "published": "2026-09-24T07:47:00Z"
+    },
+    {
+      "source": "Practical AI",
+      "kind": "ai",
+      "title": "How to get discovered in AI search",
+      "summary": "AI search is changing how people discover information and how brands need to think about visibility. Daniel and Chris talk with Liam Dunne and Ben Moore, co-founders of Discovered Labs, about the shift from traditional SEO to AI search, wh…",
+      "link": "https://share.transistor.fm/s/66185604",
+      "audio": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/media.transistor.fm/66185604/d94b5158.mp3",
+      "duration": 55,
+      "published": "2026-09-17T09:00:00Z"
+    },
+    {
+      "source": "BBC 6 Minute English",
+      "kind": "learning",
+      "title": "Is rejection good for us?",
+      "summary": "How would you feel about going up to a stranger on the street and asking them for a cheeky favour? If the idea makes you nervous, then don't worry – you are not alone! But recently, some people have been filming themselves doing this, as p…",
+      "link": "http://www.bbc.co.uk/programmes/p0pb0rd0",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pb0qlf.mp3",
+      "duration": 6,
+      "published": "2026-09-17T08:34:00Z"
+    },
+    {
+      "source": "Practical AI",
+      "kind": "ai",
+      "title": "Computer-Use Agents and the Future of the Agentic Internet",
+      "summary": "Longtime followers of Practical AI know that multi-repeat guest and friend Demetrios Brinkmann combines brilliant insight and playful banter into one fun-filled show, and this conversion with Chris was no different. They had a blast! As AI…",
+      "link": "https://share.transistor.fm/s/72586f97",
+      "audio": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/media.transistor.fm/72586f97/42471284.mp3",
+      "duration": 56,
+      "published": "2026-09-10T09:00:00Z"
+    },
+    {
+      "source": "BBC 6 Minute English",
+      "kind": "learning",
+      "title": "Can apps teach you a language?",
+      "summary": "Have you ever used Duolingo, Babbel, Busuu or perhaps another language-learning app? How did you get on? Some people love the convenience of these apps – you can learn on the go, like during your commute to work, rather than committing to…",
+      "link": "http://www.bbc.co.uk/programmes/p0p8w5sh",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p8w5by.mp3",
+      "duration": 7,
+      "published": "2026-09-10T07:46:00Z"
+    },
+    {
+      "source": "Practical AI",
+      "kind": "ai",
+      "title": "Less about Models; More about Architecture",
+      "summary": "As AI moves from experimentation to enterprise deployment, are organizations thinking too much about models and not enough about architecture? In this episode, Daniel and Chris talk with Chetan Gupta, Chief AI Officer at Rackspace, about t…",
+      "link": "https://share.transistor.fm/s/ec79b4ac",
+      "audio": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/media.transistor.fm/ec79b4ac/efba87b4.mp3",
+      "duration": 46,
+      "published": "2026-09-03T09:00:00Z"
+    },
+    {
+      "source": "BBC 6 Minute English",
+      "kind": "learning",
+      "title": "Climate change and extreme weather",
+      "summary": "Every year we see damage, death and destruction caused by hurricanes, cyclones and typhoons - tropical storms. Is climate change making this impact worse? Climate change may be making this destruction worse. Phil is joined by BBC weather p…",
+      "link": "http://www.bbc.co.uk/programmes/p0p7p9b8",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p7p91r.mp3",
+      "duration": 7,
+      "published": "2026-09-03T08:33:00Z"
+    }
+  ]
+}
