@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-10-24T11:10:09.689885Z",
+  "updated_at": "2026-10-24T16:01:13.694875Z",
   "items": [
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "summary": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+      "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-24T15:21:44Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+      "summary": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-24T14:45:30Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Ukraine says Starlink connection 'now stable' after network limits",
+      "summary": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
+      "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-24T12:12:40Z"
+    },
     {
       "source": "BBC Global News",
       "kind": "news",
@@ -10,16 +40,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pj9f1x.mp3",
       "duration": 27,
       "published": "2026-10-24T11:00:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-      "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
-      "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-24T10:22:34Z"
     },
     {
       "source": "BBC World",
@@ -34,12 +54,22 @@
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Seven missing after multi-storey building collapses in Kenya's capital",
-      "summary": "Rescue efforts are under way to find people trapped under the block, which was still under construction when it buckled.",
-      "link": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
+      "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+      "summary": "The children were subsequently rescued from the water, police say.",
+      "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-10-24T09:44:01Z"
+      "published": "2026-10-24T09:45:47Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Three released without charge after fatal arson attack in Ireland",
+      "summary": "Three people - two women and one man - have been released, and one person remains in custody, gardaí say.",
+      "link": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-24T09:38:28Z"
     },
     {
       "source": "BBC Global News",
@@ -50,26 +80,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjcwsp.mp3",
       "duration": 28,
       "published": "2026-10-24T03:45:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Australian MP's condition improves after alleged car attack",
-      "summary": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
-      "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-24T01:55:15Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-      "summary": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-24T00:36:47Z"
     },
     {
       "source": "BBC World",
@@ -90,16 +100,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-10-23T22:47:07Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Trump administration sues to block certification of upcoming Alaska election",
-      "summary": "The justice department has filed a lawsuit arguing that the inclusion of two candidates named Dan Sullivan could confuse voters.",
-      "link": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-23T18:49:14Z"
     },
     {
       "source": "OpenAI News",
