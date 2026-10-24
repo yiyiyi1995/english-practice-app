@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-10-23T21:28:26.502659Z",
+  "updated_at": "2026-10-24T04:43:45.571845Z",
   "items": [
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "France prepares for day of protest a week after nationwide riots",
+      "summary": "More than 70,000 police officers are to be deployed over fears protesters will defy restrictions on demonstrations.",
+      "link": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-24T04:03:46Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Arrest made after fire at Hitler's Eagle's Nest retreat",
+      "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+      "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-24T03:51:25Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "Melania Trump brokers ceasefire for Ukrainian city",
+      "summary": "The White House says the US first lady, Melania Trump, has brokered a local ceasefire for a frontline city in a Russian-occupied part of Ukraine. The truce in Oleshky, in the Kherson region, is due to begin on October 29. The White House s…",
+      "link": "http://www.bbc.co.uk/programmes/p0pjcwvy",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjcwsp.mp3",
+      "duration": 28,
+      "published": "2026-10-24T03:45:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Australian MP's condition improves after alleged car attack",
+      "summary": "The Independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
+      "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-24T01:55:15Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+      "summary": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-24T00:05:43Z"
+    },
     {
       "source": "BBC World",
       "kind": "news",
@@ -10,16 +60,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-10-23T20:59:39Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
-      "summary": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.",
-      "link": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-23T20:18:13Z"
     },
     {
       "source": "BBC World",
@@ -34,32 +74,12 @@
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-      "summary": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
-      "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-23T19:42:08Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
       "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
       "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
       "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
       "published": "2026-10-23T19:30:19Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-      "summary": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\".",
-      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-23T18:52:17Z"
     },
     {
       "source": "OpenAI News",
@@ -80,16 +100,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-10-23T15:37:07Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Oil spill washes up on UAE beaches after tanker strike",
-      "summary": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife",
-      "link": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-23T15:30:47Z"
     },
     {
       "source": "BBC Global News",
@@ -300,16 +310,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-10-20T09:00:00Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "France halts protests with curfew crackdown",
-      "summary": "Overnight curfews are in place in parts of Paris, Lyon, Lille and Nice as the French authorities try to crack down on violence and looting which has scarred the country since Saturday. Demonstrations have been banned in the French capital,…",
-      "link": "http://www.bbc.co.uk/programmes/p0phlcv5",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0phl963.mp3",
-      "duration": 26,
-      "published": "2026-10-20T05:14:00Z"
     },
     {
       "source": "MIT Technology Review",
