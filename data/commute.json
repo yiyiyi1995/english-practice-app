@@ -1,15 +1,45 @@
 {
-  "updated_at": "2026-10-25T11:39:40.083571Z",
+  "updated_at": "2026-10-25T16:29:30.154712Z",
   "items": [
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
-      "summary": "Flávio Bolsonaro, the son of Brazil's imprisoned ex-president, is challenging Lula, who is seeking a fourth term in office.",
-      "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-10-25T11:00:26Z"
+      "published": "2026-10-25T16:21:40Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Early reports suggest record high turnout in Serbia elections",
+      "summary": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
+      "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-25T16:05:15Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+      "summary": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
+      "link": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-25T15:32:51Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Gabon says access to social media restored after eight-month ban",
+      "summary": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-25T14:39:47Z"
     },
     {
       "source": "BBC World",
@@ -20,16 +50,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-10-25T10:55:33Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
-      "summary": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
-      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-25T10:38:15Z"
     },
     {
       "source": "BBC World",
@@ -70,26 +90,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-10-25T03:20:16Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
-      "summary": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
-      "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-24T19:12:51Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
-      "summary": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
-      "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-24T15:21:44Z"
     },
     {
       "source": "BBC Global News",
