@@ -1,15 +1,25 @@
 {
-  "updated_at": "2026-10-24T20:54:48.814630Z",
+  "updated_at": "2026-10-25T04:50:05.327476Z",
   "items": [
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "French protesters return to the streets",
+      "summary": "Protests against poor economic conditions have been held across France. Nearly 1,000 people have been arrested after clashes with riot police in cities including Paris and Marseilles. Also: campaigning intensifies ahead of the US mid-term…",
+      "link": "http://www.bbc.co.uk/programmes/p0pjhnc5",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjhn2n.mp3",
+      "duration": 28,
+      "published": "2026-10-25T04:39:00Z"
+    },
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
-      "summary": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
-      "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
+      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "summary": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
+      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-10-24T19:12:51Z"
+      "published": "2026-10-25T04:16:52Z"
     },
     {
       "source": "BBC World",
@@ -19,7 +29,17 @@
       "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-10-24T17:21:42Z"
+      "published": "2026-10-24T23:02:06Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+      "summary": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-24T19:12:51Z"
     },
     {
       "source": "BBC World",
@@ -60,16 +80,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pj9f1x.mp3",
       "duration": 27,
       "published": "2026-10-24T11:00:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-      "summary": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-24T09:46:53Z"
     },
     {
       "source": "BBC World",
@@ -270,16 +280,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0phvfqk.mp3",
       "duration": 31,
       "published": "2026-10-21T16:08:00Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "Zelensky says US intelligence sharing is back on",
-      "summary": "Ukraine's President Volodymyr Zelensky says intelligence on early warning systems for Russian strikes \"works now\", and that he is thankful to the US. After meeting President Zelensky, Donald Trump's envoy Steve Witkoff is now in Russia to…",
-      "link": "http://www.bbc.co.uk/programmes/p0phqt0f",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0phqskt.mp3",
-      "duration": 27,
-      "published": "2026-10-21T04:52:00Z"
     },
     {
       "source": "MIT Technology Review",
