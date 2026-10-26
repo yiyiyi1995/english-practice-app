@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-10-26T04:54:57.912835Z",
+  "updated_at": "2026-10-26T13:12:14.720152Z",
   "items": [
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Nurse killed in attack while responding to Ebola alert in DR Congo",
+      "summary": "Local youths reportedly accused the health workers of contaminating water sources and spreading Ebola.",
+      "link": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-26T12:57:58Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-26T12:52:16Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "kind": "ai",
+      "title": "The focus on AI safety disasters ignores everyday harms",
+      "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and t…",
+      "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-26T09:01:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
+      "summary": "Bauza had voiced a number of characters in this summer's animated hit Coyote vs. Acme.",
+      "link": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-26T06:16:15Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "Brazil's President Lula defeats Bolsonaro",
+      "summary": "Brazil's left-wing President Luiz Inácio Lula da Silva has been elected to a fourth term in office, defeating Flávio Bolsonaro in the runoff of the presidential election. The right-wing challenger Bolsonaro has called for the election to b…",
+      "link": "http://www.bbc.co.uk/programmes/p0pjlyh7",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjlxzm.mp3",
+      "duration": 27,
+      "published": "2026-10-26T05:37:00Z"
+    },
     {
       "source": "BBC World",
       "kind": "news",
@@ -9,17 +59,27 @@
       "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-10-26T03:05:22Z"
+      "published": "2026-10-26T05:20:19Z"
     },
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
-      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "title": "Australian murderer loses bid to eat Vegemite in prison",
+      "summary": "Andre McKechnie, who murdered a property developer, argued it was his right to enjoy Australian culture.",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-10-26T01:07:05Z"
+      "published": "2026-10-26T04:05:28Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
+      "summary": "The Super Bass singer is the latest big name to campaign in Michigan, where a tight Senate race is playing out ahead of the 3 November midterms.",
+      "link": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-25T23:33:19Z"
     },
     {
       "source": "BBC World",
@@ -44,52 +104,12 @@
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-      "summary": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
-      "link": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
+      "title": "Russia to host first Olympic federation world event since Ukraine invasion",
+      "summary": "The International Weightlifting Federation becomes the first Olympic federation to choose Russia to host a world championships since its invasion of Ukraine.",
+      "link": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-10-25T15:32:51Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Gabon says access to social media restored after eight-month ban",
-      "summary": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-25T14:39:47Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "El Salvador president says bodies found in Haiti are not those of hostages",
-      "summary": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week.",
-      "link": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-25T10:55:33Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
-      "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-25T09:00:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-      "summary": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
-      "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-25T05:15:52Z"
+      "published": "2026-10-25T14:34:33Z"
     },
     {
       "source": "BBC Global News",
@@ -262,16 +282,6 @@
       "published": "2026-10-22T06:00:00Z"
     },
     {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "US and European websites go offline over security concerns",
-      "summary": "A cyber security flaw has prompted governments in Finland and the Netherlands and websites such as Wikipedia and the BBC to go completely dark temporarily. The flaws in a programming language were discovered by AI. PHP is a scripting langu…",
-      "link": "http://www.bbc.co.uk/programmes/p0phxwpq",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0phxwfv.mp3",
-      "duration": 27,
-      "published": "2026-10-22T04:41:00Z"
-    },
-    {
       "source": "OpenAI News",
       "kind": "ai",
       "title": "Uber brings ChatGPT Work to all employees with OpenAI",
@@ -310,16 +320,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-10-20T09:00:00Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "kind": "ai",
-      "title": "Making the internet better for AI agents might make it worse for everyone else",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites h…",
-      "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-19T18:22:47Z"
     },
     {
       "source": "Practical AI",
