@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-10-26T22:43:55.117138Z",
+  "updated_at": "2026-10-27T05:12:35.464528Z",
   "items": [
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Jay-Z to perform at Super Bowl half-time show",
+      "summary": "The rapper has been involved with the show for years but has never before performed at the NFL championship game.",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-27T05:05:15Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Meghan to co-host Junior MasterChef Australia",
+      "summary": "The Duchess of Sussex says she \"can't wait\" to take part in the programme, which will air next year.",
+      "link": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-27T04:43:56Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+      "summary": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-27T02:40:17Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Ex-FBI chief James Comey faces federal charges for third time",
+      "summary": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-27T02:01:27Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
+      "summary": "Machado returns with Trump's blessing, even if Washington is happy with Venezuela's existing leader - at least for the time being.",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-27T00:31:11Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "What's next for China after Xi Jinping?",
+      "summary": "This week the Chinese President Xi Jinping and his inner circle are meeting in Beijing for a series of closed-door meetings, known as plenums. Once those meetings have concluded, we're expecting to learn more about the senior figures that…",
+      "link": "http://www.bbc.co.uk/programmes/p0pjpv9t",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjptfq.mp3",
+      "duration": 30,
+      "published": "2026-10-27T00:01:00Z"
+    },
     {
       "source": "OpenAI News",
       "kind": "ai",
@@ -10,16 +70,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-10-26T22:00:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "'Maxxing' selected as Dictionary.com word of the year",
-      "summary": "\"Whatever we're doing, we want to push it further,\" said an expert on why Americans are embracing the term, which is short for maximising.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-26T21:31:53Z"
     },
     {
       "source": "BBC World",
@@ -64,26 +114,6 @@
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-      "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
-      "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-26T16:27:17Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Catholic bishops apologise for 'exploited' Trump meeting",
-      "summary": "Two bishops in images that show them praying with Trump have said they believed the meeting was private.",
-      "link": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-26T15:46:31Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
       "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
       "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
       "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
@@ -100,16 +130,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-10-26T14:30:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "US Marine indicted for murder and robbery of woman in Japan",
-      "summary": "Prosecutors have indicted Devin Jacob Ballard for a killing that has caused outrage in Japan, local media reports.",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-26T14:13:18Z"
     },
     {
       "source": "OpenAI News",
@@ -172,16 +192,6 @@
       "published": "2026-10-26T05:37:00Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Venezuelan opposition leader María Machado returns after months in exile",
-      "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-26T05:20:19Z"
-    },
-    {
       "source": "BBC Global News",
       "kind": "news",
       "title": "The Global Story: They were loyal Democrats. Then came Gaza",
@@ -230,16 +240,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pj924b.mp3",
       "duration": 30,
       "published": "2026-10-23T14:31:00Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "Yemen's humanitarian crisis",
-      "summary": "Our senior international corrrespondent Orla Guerin reports from Yemen where fighting has intensified between government forces and Houthi rebels. Also: Kim Jong-un's sister, Kim Yo-jong steps into the limelight as rumours swirl over the h…",
-      "link": "http://www.bbc.co.uk/programmes/p0pj5sxl",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pj5smt.mp3",
-      "duration": 26,
-      "published": "2026-10-23T04:46:00Z"
     },
     {
       "source": "MIT Technology Review",
