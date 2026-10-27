@@ -1,6 +1,76 @@
 {
-  "updated_at": "2026-10-27T12:20:20.055760Z",
+  "updated_at": "2026-10-27T22:20:18.984028Z",
   "items": [
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+      "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
+      "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-27T22:11:08Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Alexander brothers each sentenced to 30 years in prison for sex trafficking case",
+      "summary": "The three brothers were found guilty of drugging and raping several women over the course of decades.",
+      "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-27T21:12:39Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
+      "summary": "Marry Mubaiwa had been held on remand for seven years after being charged in 2019 for her then husband's attempted murder.",
+      "link": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-27T21:09:12Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
+      "summary": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
+      "link": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-27T20:44:40Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Dutch zookeeper dies after being mauled by leopard",
+      "summary": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
+      "link": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-27T19:30:37Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Norway and Finland leaders hold rare call with Putin",
+      "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-27T18:28:23Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "Huge turnout in Israeli election",
+      "summary": "Israelis turn out in large numbers to vote in what many view as one of the most pivotal elections in the country's history. The campaign has been shaped by the issues of democracy and security and is widely being seen as a referendum on Be…",
+      "link": "http://www.bbc.co.uk/programmes/p0pjwfwn",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjw48x.mp3",
+      "duration": 28,
+      "published": "2026-10-27T16:30:00Z"
+    },
     {
       "source": "BBC World",
       "kind": "news",
@@ -9,37 +79,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-10-27T12:02:20Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
-      "summary": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.",
-      "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-27T11:53:57Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Ex-FBI chief James Comey faces federal charges for third time",
-      "summary": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
-      "link": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-27T11:44:54Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Netherlands pulls out of Eurovision again over Israel participation",
-      "summary": "A Dutch broadcaster reverses a decision to take part, citing \"sensitivities\" over Israel's participation.",
-      "link": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-27T11:23:19Z"
+      "published": "2026-10-27T13:25:54Z"
     },
     {
       "source": "MIT Technology Review",
@@ -52,14 +92,14 @@
       "published": "2026-10-27T11:19:18Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Turnout so far highest in decades as Israelis vote in pivotal election",
-      "summary": "The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu.",
-      "link": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "link": "https://openai.com/index/oracle-apps-in-chatgpt",
       "audio": "",
       "duration": 0,
-      "published": "2026-10-27T11:11:33Z"
+      "published": "2026-10-27T07:00:00Z"
     },
     {
       "source": "BBC Global News",
@@ -70,26 +110,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjrn53.mp3",
       "duration": 27,
       "published": "2026-10-27T05:28:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Jay-Z to perform at Super Bowl half-time show",
-      "summary": "The rapper has been involved with the show for years but has never before performed at the NFL championship game.",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-27T05:05:15Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
-      "summary": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-27T02:40:17Z"
     },
     {
       "source": "BBC World",
@@ -110,6 +130,16 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjptfq.mp3",
       "duration": 30,
       "published": "2026-10-27T00:01:00Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+      "link": "https://openai.com/index/check-point-daybreak",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-27T00:00:00Z"
     },
     {
       "source": "OpenAI News",
@@ -182,26 +212,6 @@
       "published": "2026-10-26T09:01:00Z"
     },
     {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "How Fanatics and OpenAI streamline the fan experience",
-      "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-      "link": "https://openai.com/index/fanatics-streamline-fan-experience",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-26T07:00:00Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-      "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
-      "link": "https://openai.com/index/openai-cut-incident-investigation",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-26T07:00:00Z"
-    },
-    {
       "source": "BBC Global News",
       "kind": "news",
       "title": "Brazil's President Lula defeats Bolsonaro",
@@ -240,16 +250,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pj9f1x.mp3",
       "duration": 27,
       "published": "2026-10-24T11:00:00Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "Melania Trump brokers ceasefire for Ukrainian city",
-      "summary": "The White House says the US first lady, Melania Trump, has brokered a local ceasefire for a frontline city in a Russian-occupied part of Ukraine. The truce in Oleshky, in the Kherson region, is due to begin on October 29. The White House s…",
-      "link": "http://www.bbc.co.uk/programmes/p0pjcwvy",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjcwsp.mp3",
-      "duration": 28,
-      "published": "2026-10-24T03:45:00Z"
     },
     {
       "source": "MIT Technology Review",
