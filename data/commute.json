@@ -1,6 +1,76 @@
 {
-  "updated_at": "2026-10-27T05:12:35.464528Z",
+  "updated_at": "2026-10-27T12:20:20.055760Z",
   "items": [
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+      "summary": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
+      "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-27T12:02:20Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+      "summary": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.",
+      "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-27T11:53:57Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Ex-FBI chief James Comey faces federal charges for third time",
+      "summary": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-27T11:44:54Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Netherlands pulls out of Eurovision again over Israel participation",
+      "summary": "A Dutch broadcaster reverses a decision to take part, citing \"sensitivities\" over Israel's participation.",
+      "link": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-27T11:23:19Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "kind": "ai",
+      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+      "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings mat…",
+      "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-27T11:19:18Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Turnout so far highest in decades as Israelis vote in pivotal election",
+      "summary": "The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu.",
+      "link": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-27T11:11:33Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "Israel holds first election since October 7th attacks",
+      "summary": "Israel is holding its first general election since the October 7th Hamas attacks in 2023, with Benjamin Netanyahu seeking to maintain his hold on power after three years of war. Also: after his shock defeat in the Brazilian election, the r…",
+      "link": "http://www.bbc.co.uk/programmes/p0pjrnd4",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjrn53.mp3",
+      "duration": 27,
+      "published": "2026-10-27T05:28:00Z"
+    },
     {
       "source": "BBC World",
       "kind": "news",
@@ -10,16 +80,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-10-27T05:05:15Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Meghan to co-host Junior MasterChef Australia",
-      "summary": "The Duchess of Sussex says she \"can't wait\" to take part in the programme, which will air next year.",
-      "link": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-27T04:43:56Z"
     },
     {
       "source": "BBC World",
@@ -34,22 +94,12 @@
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Ex-FBI chief James Comey faces federal charges for third time",
-      "summary": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
-      "link": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
+      "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
+      "summary": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
+      "link": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-10-27T02:01:27Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
-      "summary": "Machado returns with Trump's blessing, even if Washington is happy with Venezuela's existing leader - at least for the time being.",
-      "link": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-27T00:31:11Z"
+      "published": "2026-10-27T01:46:38Z"
     },
     {
       "source": "BBC Global News",
@@ -72,26 +122,6 @@
       "published": "2026-10-26T22:00:00Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Lula wins fourth term in dramatic Brazil election comeback",
-      "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
-      "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-26T21:02:47Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
-      "summary": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
-      "link": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-26T19:27:21Z"
-    },
-    {
       "source": "MIT Technology Review",
       "kind": "ai",
       "title": "Will the real Anthropic please stand up",
@@ -110,16 +140,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjptg9.mp3",
       "duration": 28,
       "published": "2026-10-26T16:31:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-26T14:34:52Z"
     },
     {
       "source": "OpenAI News",
@@ -232,16 +252,6 @@
       "published": "2026-10-24T03:45:00Z"
     },
     {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "Sudan's hospitals deliberately targeted by RSF fighters",
-      "summary": "A BBC investigation has found evidence that Sudanese paramilitary fighters systematically destroyed El-Fasher's healthcare system during their long siege and subsequent takeover of the city in Darfur a year ago. UN human rights chief Volke…",
-      "link": "http://www.bbc.co.uk/programmes/p0pj95j1",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pj924b.mp3",
-      "duration": 30,
-      "published": "2026-10-23T14:31:00Z"
-    },
-    {
       "source": "MIT Technology Review",
       "kind": "ai",
       "title": "Designing an AI serving harness built to last",
@@ -310,16 +320,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-10-20T15:20:25Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "kind": "ai",
-      "title": "AI adoption by industry shows what other sectors can learn",
-      "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. A…",
-      "link": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-20T12:00:00Z"
     },
     {
       "source": "Practical AI",
