@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-10-28T05:49:46.673023Z",
+  "updated_at": "2026-10-28T13:03:42.760701Z",
   "items": [
+    {
+      "source": "MIT Technology Review",
+      "kind": "ai",
+      "title": "Pairing industrial AI autonomy and human control",
+      "summary": "",
+      "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-28T12:00:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+      "summary": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
+      "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-28T10:31:22Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
+      "summary": "The energy minister described it as a \"major milestone\" for the East African nation.",
+      "link": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-28T10:18:40Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+      "summary": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-28T10:17:54Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Legora is building the agentic operating system for legal work",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "link": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-28T09:30:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Kenyan family protest extradition hearing delay of ex-British soldier accused of murdering kin",
+      "summary": "No official reason has been given for postponing next month’s hearing to May 2027, family says.",
+      "link": "https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-28T08:28:39Z"
+    },
     {
       "source": "BBC Global News",
       "kind": "news",
@@ -14,12 +74,12 @@
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
-      "summary": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
-      "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+      "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
+      "summary": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-10-28T02:20:25Z"
+      "published": "2026-10-28T04:32:36Z"
     },
     {
       "source": "BBC World",
@@ -30,26 +90,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-10-27T22:11:08Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
-      "summary": "Marry Mubaiwa had been held on remand for seven years after being charged in 2019 for her then husband's attempted murder.",
-      "link": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-27T21:09:12Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
-      "summary": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
-      "link": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-27T20:44:40Z"
     },
     {
       "source": "BBC World",
@@ -92,16 +132,6 @@
       "published": "2026-10-27T15:00:00Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-      "summary": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
-      "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-27T13:25:54Z"
-    },
-    {
       "source": "MIT Technology Review",
       "kind": "ai",
       "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
@@ -130,16 +160,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjrn53.mp3",
       "duration": 27,
       "published": "2026-10-27T05:28:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
-      "summary": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
-      "link": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-27T01:46:38Z"
     },
     {
       "source": "BBC Global News",
@@ -200,16 +220,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-10-26T14:30:00Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-      "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-26T13:45:00Z"
     },
     {
       "source": "MIT Technology Review",
@@ -310,16 +320,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-10-22T08:41:18Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "kind": "ai",
-      "title": "The new economics of enterprise AI",
-      "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends…",
-      "link": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-20T15:20:25Z"
     },
     {
       "source": "Practical AI",
