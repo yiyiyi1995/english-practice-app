@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-10-27T22:20:18.984028Z",
+  "updated_at": "2026-10-28T05:49:46.673023Z",
   "items": [
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "Israel election too close to call",
+      "summary": "There is no clear winner in Israel's election, with results remaining too close to call. As votes are being counted, Benjamin Netanyahu tells supporters he wants to form a right-wing government and \"remove the Iranian threat once and for a…",
+      "link": "http://www.bbc.co.uk/programmes/p0pjz1m1",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjz1h1.mp3",
+      "duration": 25,
+      "published": "2026-10-28T05:23:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+      "summary": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
+      "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-28T02:20:25Z"
+    },
     {
       "source": "BBC World",
       "kind": "news",
@@ -10,16 +30,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-10-27T22:11:08Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Alexander brothers each sentenced to 30 years in prison for sex trafficking case",
-      "summary": "The three brothers were found guilty of drugging and raping several women over the course of decades.",
-      "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-27T21:12:39Z"
     },
     {
       "source": "BBC World",
@@ -70,6 +80,16 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjw48x.mp3",
       "duration": 28,
       "published": "2026-10-27T16:30:00Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "link": "https://openai.com/index/retell-ai",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-27T15:00:00Z"
     },
     {
       "source": "BBC World",
@@ -192,16 +212,6 @@
       "published": "2026-10-26T13:45:00Z"
     },
     {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "ChatGPT’s expanding world of work",
-      "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-      "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-26T10:00:00Z"
-    },
-    {
       "source": "MIT Technology Review",
       "kind": "ai",
       "title": "The focus on AI safety disasters ignores everyday harms",
@@ -240,16 +250,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjhn2n.mp3",
       "duration": 28,
       "published": "2026-10-25T04:39:00Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "The Happy Pod: Lost my ring, found some friends",
-      "summary": "Patrick Mohr thought his wedding ring was gone after it fell off his hand while he swam in Italy, but it led to an international friendship with three locals who dived to find it. Filippo Palagi, Nicola Malloggi and Edoardo Poggi went on a…",
-      "link": "http://www.bbc.co.uk/programmes/p0pj9wyz",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pj9f1x.mp3",
-      "duration": 27,
-      "published": "2026-10-24T11:00:00Z"
     },
     {
       "source": "MIT Technology Review",
