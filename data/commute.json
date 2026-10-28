@@ -1,6 +1,106 @@
 {
-  "updated_at": "2026-10-28T13:03:42.760701Z",
+  "updated_at": "2026-10-28T22:39:40.260981Z",
   "items": [
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+      "summary": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
+      "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-28T22:13:35Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Girl seriously injured in wolf attack at German wildlife park",
+      "summary": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked.",
+      "link": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-28T22:08:52Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "High-speed train crash kills at least 68 people in Spain",
+      "summary": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
+      "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-28T21:38:54Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
+      "summary": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-28T21:24:41Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+      "summary": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
+      "link": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-28T21:16:30Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "kind": "ai",
+      "title": "Creating AI value with enterprise context",
+      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, ad…",
+      "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-28T20:32:02Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "summary": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-28T20:24:39Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "Dozens killed in train crash in Spain",
+      "summary": "More than 60 people have died after two high-speed trains collided south of the Spanish capital, Madrid. The accident happened on the same rail line where 46 people died earlier this year. Also: with most votes counted in the Israeli elect…",
+      "link": "http://www.bbc.co.uk/programmes/p0pk3hmm",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pk3gws.mp3",
+      "duration": 27,
+      "published": "2026-10-28T16:28:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "How could Israel break election deadlock? Here are four scenarios",
+      "summary": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
+      "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-28T14:30:31Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-28T13:15:00Z"
+    },
     {
       "source": "MIT Technology Review",
       "kind": "ai",
@@ -22,44 +122,24 @@
       "published": "2026-10-28T10:31:22Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
-      "summary": "The energy minister described it as a \"major milestone\" for the East African nation.",
-      "link": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "The future of the firm",
+      "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+      "link": "https://openai.com/index/the-future-of-the-firm",
       "audio": "",
       "duration": 0,
-      "published": "2026-10-28T10:18:40Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
-      "summary": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-28T10:17:54Z"
+      "published": "2026-10-28T10:00:00Z"
     },
     {
       "source": "OpenAI News",
       "kind": "ai",
       "title": "Legora is building the agentic operating system for legal work",
       "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-      "link": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "link": "https://openai.com/index/legora",
       "audio": "",
       "duration": 0,
       "published": "2026-10-28T09:30:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Kenyan family protest extradition hearing delay of ex-British soldier accused of murdering kin",
-      "summary": "No official reason has been given for postponing next month’s hearing to May 2027, family says.",
-      "link": "https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-28T08:28:39Z"
     },
     {
       "source": "BBC Global News",
@@ -70,46 +150,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjz1h1.mp3",
       "duration": 25,
       "published": "2026-10-28T05:23:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
-      "summary": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-28T04:32:36Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-      "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
-      "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-27T22:11:08Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Dutch zookeeper dies after being mauled by leopard",
-      "summary": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
-      "link": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-27T19:30:37Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Norway and Finland leaders hold rare call with Putin",
-      "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-27T18:28:23Z"
     },
     {
       "source": "BBC Global News",
@@ -182,16 +222,6 @@
       "published": "2026-10-27T00:00:00Z"
     },
     {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-      "link": "https://openai.com/index/greptile-code-review-codex-astra",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-26T22:00:00Z"
-    },
-    {
       "source": "MIT Technology Review",
       "kind": "ai",
       "title": "Will the real Anthropic please stand up",
@@ -210,16 +240,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjptg9.mp3",
       "duration": 28,
       "published": "2026-10-26T16:31:00Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Working with academic communities to build scientific understanding",
-      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-      "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-26T14:30:00Z"
     },
     {
       "source": "MIT Technology Review",
@@ -250,16 +270,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pj7lrp.mp3",
       "duration": 34,
       "published": "2026-10-25T20:00:00Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "French protesters return to the streets",
-      "summary": "Protests against poor economic conditions have been held across France. Nearly 1,000 people have been arrested after clashes with riot police in cities including Paris and Marseilles. Also: campaigning intensifies ahead of the US mid-term…",
-      "link": "http://www.bbc.co.uk/programmes/p0pjhnc5",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjhn2n.mp3",
-      "duration": 28,
-      "published": "2026-10-25T04:39:00Z"
     },
     {
       "source": "MIT Technology Review",
@@ -310,16 +320,6 @@
       "audio": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/media.transistor.fm/9a42098b/0357dcc1.mp3",
       "duration": 45,
       "published": "2026-10-22T09:00:00Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "kind": "ai",
-      "title": "AI’s hidden storage bill: What inference leaves behind",
-      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a mod…",
-      "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-22T08:41:18Z"
     },
     {
       "source": "Practical AI",
