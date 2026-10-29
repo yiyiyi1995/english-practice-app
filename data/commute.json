@@ -1,6 +1,86 @@
 {
-  "updated_at": "2026-10-29T05:54:42.162784Z",
+  "updated_at": "2026-10-29T13:11:03.617864Z",
   "items": [
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+      "summary": "Xi's anti-corruption campaign has become \"an effort to consolidate and maintain authority\", observers say.",
+      "link": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-29T12:49:17Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Carney to push for closer ties at Canada-EU summit in Montreal",
+      "summary": "The term \"associate member\" is reportedly off the table as officials discuss deeper economic and defence ties.",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-29T12:27:31Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+      "summary": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-29T11:27:05Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "summary": "With 93% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-29T11:22:18Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+      "summary": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.",
+      "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-29T11:07:35Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "kind": "ai",
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same…",
+      "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-29T10:11:12Z"
+    },
+    {
+      "source": "BBC 6 Minute English",
+      "kind": "learning",
+      "title": "Is aircon the answer to a heating world?",
+      "summary": "Do you ever feel it is too hot to sleep? With climate change gradually increasing world temperatures, people across the world are becoming increasingly affected by hot weather. In many locations, air conditioning is used to help cool down…",
+      "link": "http://www.bbc.co.uk/programmes/p0pk7d0p",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pk7c8b.mp3",
+      "duration": 6,
+      "published": "2026-10-29T09:09:00Z"
+    },
+    {
+      "source": "Practical AI",
+      "kind": "ai",
+      "title": "Abundant Intelligence at the Midwest AI Summit",
+      "summary": "In this special episode, we bring you highlights from three talks at the Midwest AI Summit. Heidi Porter explores how to build reliable AI-augmented workflows using the right tools, evaluations, and guardrails. Kevin Solorio shares why bui…",
+      "link": "https://share.transistor.fm/s/37a0c3e9",
+      "audio": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/media.transistor.fm/37a0c3e9/eecd5cc2.mp3",
+      "duration": 54,
+      "published": "2026-10-29T09:00:00Z"
+    },
     {
       "source": "BBC Global News",
       "kind": "news",
@@ -14,42 +94,22 @@
     {
       "source": "BBC World",
       "kind": "news",
+      "title": "Details of thousands of US immigration agents leaked in major hack",
+      "summary": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
+      "link": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-29T01:30:43Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
       "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
       "summary": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
       "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
       "published": "2026-10-29T01:14:01Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Girl seriously injured in wolf attack at German wildlife park",
-      "summary": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked.",
-      "link": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-28T22:08:52Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "High-speed train crash kills at least 68 people in Spain",
-      "summary": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
-      "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-28T21:38:54Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
-      "summary": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.",
-      "link": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-28T21:24:41Z"
     },
     {
       "source": "BBC World",
@@ -72,16 +132,6 @@
       "published": "2026-10-28T20:32:02Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "summary": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-28T20:24:39Z"
-    },
-    {
       "source": "BBC Global News",
       "kind": "news",
       "title": "Dozens killed in train crash in Spain",
@@ -90,16 +140,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pk3gws.mp3",
       "duration": 27,
       "published": "2026-10-28T16:28:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "How could Israel break election deadlock? Here are four scenarios",
-      "summary": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
-      "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-28T14:30:31Z"
     },
     {
       "source": "OpenAI News",
@@ -120,16 +160,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-10-28T12:00:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-      "summary": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
-      "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-28T10:31:22Z"
     },
     {
       "source": "OpenAI News",
@@ -292,16 +322,6 @@
       "published": "2026-10-22T18:48:04Z"
     },
     {
-      "source": "MIT Technology Review",
-      "kind": "ai",
-      "title": "Making the case for context-aware AI",
-      "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships tha…",
-      "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-22T10:00:00Z"
-    },
-    {
       "source": "BBC 6 Minute English",
       "kind": "learning",
       "title": "What should you eat for a better night’s sleep?",
@@ -440,26 +460,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p8w5by.mp3",
       "duration": 7,
       "published": "2026-09-10T07:46:00Z"
-    },
-    {
-      "source": "Practical AI",
-      "kind": "ai",
-      "title": "Less about Models; More about Architecture",
-      "summary": "As AI moves from experimentation to enterprise deployment, are organizations thinking too much about models and not enough about architecture? In this episode, Daniel and Chris talk with Chetan Gupta, Chief AI Officer at Rackspace, about t…",
-      "link": "https://share.transistor.fm/s/ec79b4ac",
-      "audio": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/media.transistor.fm/ec79b4ac/efba87b4.mp3",
-      "duration": 46,
-      "published": "2026-09-03T09:00:00Z"
-    },
-    {
-      "source": "BBC 6 Minute English",
-      "kind": "learning",
-      "title": "Climate change and extreme weather",
-      "summary": "Every year we see damage, death and destruction caused by hurricanes, cyclones and typhoons - tropical storms. Is climate change making this impact worse? Climate change may be making this destruction worse. Phil is joined by BBC weather p…",
-      "link": "http://www.bbc.co.uk/programmes/p0p7p9b8",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p7p91r.mp3",
-      "duration": 7,
-      "published": "2026-09-03T08:33:00Z"
     }
   ]
 }
