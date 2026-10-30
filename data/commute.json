@@ -1,25 +1,85 @@
 {
-  "updated_at": "2026-10-30T05:55:48.889390Z",
+  "updated_at": "2026-10-30T13:03:56.478053Z",
   "items": [
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Crypto giant Binance hit by hack suspected to be largest in history",
-      "summary": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
-      "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+      "title": "Swedish academic says he has been barred from UK over event with Palestine Action founder",
+      "summary": "Andreas Malm was due to appear on a panel alongside a co-founder of the proscribed group next week.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l32jdlvl1o?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-10-30T05:15:16Z"
+      "published": "2026-10-30T12:36:55Z"
     },
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Three dead after two helicopters collide midair near Oregon airport",
-      "summary": "The collision involving a Robinson R22 and an Airbus helicopter occurred on Thursday afternoon, with both aircraft crashing in a field adjacent to a highway.",
-      "link": "https://www.bbc.co.uk/news/articles/cked3p81303yo?at_medium=RSS&at_campaign=rss",
+      "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
+      "summary": "Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.",
+      "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-10-30T03:05:17Z"
+      "published": "2026-10-30T12:25:53Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Google value plunges by $500bn as its own AI search hits ad sales",
+      "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-30T12:04:02Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Helicopter carrying six people crashes in northern Indian state",
+      "summary": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.",
+      "link": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-30T10:07:58Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "How Kenyans got caught in $130m US ghost student scam",
+      "summary": "The alleged scheme used stolen identities to claim US student aid, with Kenyans among those charged.",
+      "link": "https://www.bbc.co.uk/news/articles/cxvgdzpy7241o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-30T08:32:35Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Human rights lawyer couple sentenced to 10 years' prison in Pakistan",
+      "summary": "Imaan Mazari and Hadi Ali Chattha were charged over an incident in 2024, when England's cricket team was touring Pakistan.",
+      "link": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-30T07:53:38Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+      "summary": "End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government.",
+      "link": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-30T06:02:23Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "Venezuelan opposition leader criticises US oil deal",
+      "summary": "The Venezuelan opposition leader, Maria Corina Machado, has questioned a massive oil deal agreed between Caracas and Washington earlier this year. The accord will see Venezuela hand over twenty per cent of its oil reserves to the US. Speak…",
+      "link": "http://www.bbc.co.uk/programmes/p0pkds06",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkdh9g.mp3",
+      "duration": 29,
+      "published": "2026-10-30T05:57:00Z"
     },
     {
       "source": "BBC World",
@@ -30,36 +90,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-10-30T01:35:40Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
-      "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
-      "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-29T22:17:52Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-      "summary": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
-      "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-29T20:21:54Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
-      "summary": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-29T20:05:57Z"
     },
     {
       "source": "OpenAI News",
@@ -80,26 +110,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pk9x5b.mp3",
       "duration": 27,
       "published": "2026-10-29T15:48:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-      "summary": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
-      "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-29T14:17:35Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
-      "summary": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.",
-      "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-29T11:07:35Z"
     },
     {
       "source": "MIT Technology Review",
@@ -280,16 +290,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-10-26T17:45:43Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "Leaderless student movement wins Serbian election",
-      "summary": "Serbia's long-standing leader, Aleksander Vučić, is defeated in parliamentary elections by the Student List Party. The movement grew out of protests against corruption and authoritarianism. Also: we speak to Israelis about what many see as…",
-      "link": "http://www.bbc.co.uk/programmes/p0pjpv1c",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjptg9.mp3",
-      "duration": 28,
-      "published": "2026-10-26T16:31:00Z"
     },
     {
       "source": "MIT Technology Review",
