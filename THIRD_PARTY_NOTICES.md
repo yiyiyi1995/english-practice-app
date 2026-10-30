@@ -1,5 +1,14 @@
 # Third-Party Notices
 
+## ts-fsrs
+
+The vocabulary review scheduler uses [open-spaced-repetition/ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs), distributed under the MIT License.
+
+- Vendored browser build: `vendor/ts-fsrs.umd.js`
+- License copy: `vendor/ts-fsrs.LICENSE`
+
+Copyright (c) 2022 Open Spaced Repetition
+
 ## CEFR English word-list data
 
 The files under `data/` are sourced from:
