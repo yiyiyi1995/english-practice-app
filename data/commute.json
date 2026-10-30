@@ -1,75 +1,115 @@
 {
-  "updated_at": "2026-10-30T13:03:56.478053Z",
+  "updated_at": "2026-10-30T22:26:11.971095Z",
   "items": [
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Swedish academic says he has been barred from UK over event with Palestine Action founder",
-      "summary": "Andreas Malm was due to appear on a panel alongside a co-founder of the proscribed group next week.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l32jdlvl1o?at_medium=RSS&at_campaign=rss",
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-10-30T12:36:55Z"
+      "published": "2026-10-30T22:20:52Z"
     },
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
-      "summary": "Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.",
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-30T21:13:14Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Police deployed during stand-off over control of top Poland court",
+      "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
+      "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-30T20:52:01Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
+      "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
+      "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-30T20:41:51Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+      "summary": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
+      "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-30T17:07:19Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "Residents leave devastated Russian-occupied Oleshky",
+      "summary": "Officials confirm the evacuation of the Ukrainian city of Oleshky is under way. Russia and Ukraine have agreed a temporary local ceasefire. People who decided to leave Oleshky had a four-hour window to do so. Also: Binance, the world's big…",
+      "link": "http://www.bbc.co.uk/programmes/p0pkhvpg",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkhvcv.mp3",
+      "duration": 27,
+      "published": "2026-10-30T16:51:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+      "summary": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
       "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-10-30T12:25:53Z"
+      "published": "2026-10-30T16:26:11Z"
     },
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Google value plunges by $500bn as its own AI search hits ad sales",
-      "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
-      "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "title": "Spain transport minister says he won't resign over high-speed rail disaster",
+      "summary": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.",
+      "link": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-10-30T12:04:02Z"
+      "published": "2026-10-30T15:03:39Z"
     },
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Helicopter carrying six people crashes in northern Indian state",
-      "summary": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.",
-      "link": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
+      "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
+      "summary": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
+      "link": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-10-30T10:07:58Z"
+      "published": "2026-10-30T14:48:22Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "How Kenyans got caught in $130m US ghost student scam",
-      "summary": "The alleged scheme used stolen identities to claim US student aid, with Kenyans among those charged.",
-      "link": "https://www.bbc.co.uk/news/articles/cxvgdzpy7241o?at_medium=RSS&at_campaign=rss",
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Making it easier for websites to express AI training preferences",
+      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
       "audio": "",
       "duration": 0,
-      "published": "2026-10-30T08:32:35Z"
+      "published": "2026-10-30T09:30:00Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Human rights lawyer couple sentenced to 10 years' prison in Pakistan",
-      "summary": "Imaan Mazari and Hadi Ali Chattha were charged over an incident in 2024, when England's cricket team was touring Pakistan.",
-      "link": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&at_campaign=rss",
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Community safety report and new protections for teens",
+      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
       "audio": "",
       "duration": 0,
-      "published": "2026-10-30T07:53:38Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
-      "summary": "End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government.",
-      "link": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-30T06:02:23Z"
+      "published": "2026-10-30T09:00:00Z"
     },
     {
       "source": "BBC Global News",
@@ -82,14 +122,14 @@
       "published": "2026-10-30T05:57:00Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
-      "summary": "Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all.",
-      "link": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss",
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Fair use benefits everyone",
+      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+      "link": "https://openai.com/index/fair-use-benefits-everyone",
       "audio": "",
       "duration": 0,
-      "published": "2026-10-30T01:35:40Z"
+      "published": "2026-10-30T00:00:00Z"
     },
     {
       "source": "OpenAI News",
@@ -192,16 +232,6 @@
       "published": "2026-10-28T16:28:00Z"
     },
     {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-      "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-28T13:15:00Z"
-    },
-    {
       "source": "MIT Technology Review",
       "kind": "ai",
       "title": "Pairing industrial AI autonomy and human control",
@@ -210,26 +240,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-10-28T12:00:00Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "The future of the firm",
-      "summary": "How AI might enter the org chart—beneath, beside, and between us.",
-      "link": "https://openai.com/index/the-future-of-the-firm",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-28T10:00:00Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Legora is building the agentic operating system for legal work",
-      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-      "link": "https://openai.com/index/legora",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-28T09:30:00Z"
     },
     {
       "source": "BBC Global News",
@@ -270,16 +280,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjrn53.mp3",
       "duration": 27,
       "published": "2026-10-27T05:28:00Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "What's next for China after Xi Jinping?",
-      "summary": "This week the Chinese President Xi Jinping and his inner circle are meeting in Beijing for a series of closed-door meetings, known as plenums. Once those meetings have concluded, we're expecting to learn more about the senior figures that…",
-      "link": "http://www.bbc.co.uk/programmes/p0pjpv9t",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjptfq.mp3",
-      "duration": 30,
-      "published": "2026-10-27T00:01:00Z"
     },
     {
       "source": "MIT Technology Review",
