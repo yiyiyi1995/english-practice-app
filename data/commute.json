@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-10-29T22:49:29.511843Z",
+  "updated_at": "2026-10-30T05:55:48.889390Z",
   "items": [
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Crypto giant Binance hit by hack suspected to be largest in history",
+      "summary": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
+      "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-30T05:15:16Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Three dead after two helicopters collide midair near Oregon airport",
+      "summary": "The collision involving a Robinson R22 and an Airbus helicopter occurred on Thursday afternoon, with both aircraft crashing in a field adjacent to a highway.",
+      "link": "https://www.bbc.co.uk/news/articles/cked3p81303yo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-30T03:05:17Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
+      "summary": "Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all.",
+      "link": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-30T01:35:40Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
+      "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-29T22:17:52Z"
+    },
     {
       "source": "BBC World",
       "kind": "news",
@@ -20,16 +60,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-10-29T20:05:57Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
-      "summary": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany.",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-29T17:02:59Z"
     },
     {
       "source": "OpenAI News",
@@ -54,42 +84,12 @@
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
-      "summary": "The defeated presidential candidate says he will lead the opposition from the US.",
-      "link": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-29T14:58:28Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
       "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
       "summary": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
       "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
       "published": "2026-10-29T14:17:35Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
-      "summary": "One of the region's famous rock formations, known as \"fairy chimneys\", reportedly collapsed outside an open-air museum.",
-      "link": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-29T13:44:39Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Philippine police obtain warrant to search Thomas Markle's devices",
-      "summary": "Images of child sexual abuse allegedly belonging to Meghan's father had reportedly been found in his former home in the Philippines.",
-      "link": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-29T13:25:07Z"
     },
     {
       "source": "BBC World",
