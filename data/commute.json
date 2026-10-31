@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-10-31T05:52:01.628969Z",
+  "updated_at": "2026-10-31T12:41:33.596099Z",
   "items": [
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-31T12:21:25Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine",
+      "summary": "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump.",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-31T12:05:04Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "The Happy Pod: Personalised cancer vaccine shows promise in major trial",
+      "summary": "A new personalised skin cancer vaccine has been found to reduce the risk of patients dying or their cancer returning by 42%. As part of a global two-year clinical trial, more than 1,000 patients who had already had their tumours removed we…",
+      "link": "http://www.bbc.co.uk/programmes/p0pkj52k",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkj482.mp3",
+      "duration": 28,
+      "published": "2026-10-31T12:00:00Z"
+    },
     {
       "source": "BBC World",
       "kind": "news",
@@ -54,22 +84,12 @@
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "US approves sale of 500 Patriot missiles to Ukraine",
-      "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+      "summary": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
+      "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-10-31T00:40:43Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-      "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
-      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-30T21:13:14Z"
+      "published": "2026-10-30T22:11:52Z"
     },
     {
       "source": "BBC World",
@@ -90,16 +110,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkhvcv.mp3",
       "duration": 27,
       "published": "2026-10-30T16:51:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-      "summary": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
-      "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-30T16:26:11Z"
     },
     {
       "source": "OpenAI News",
@@ -260,16 +270,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjz1h1.mp3",
       "duration": 25,
       "published": "2026-10-28T05:23:00Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "Huge turnout in Israeli election",
-      "summary": "Israelis turn out in large numbers to vote in what many view as one of the most pivotal elections in the country's history. The campaign has been shaped by the issues of democracy and security and is widely being seen as a referendum on Be…",
-      "link": "http://www.bbc.co.uk/programmes/p0pjwfwn",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjw48x.mp3",
-      "duration": 28,
-      "published": "2026-10-27T16:30:00Z"
     },
     {
       "source": "MIT Technology Review",
