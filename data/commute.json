@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-10-30T22:26:11.971095Z",
+  "updated_at": "2026-10-31T05:52:01.628969Z",
   "items": [
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Spain train disaster clouds Sánchez chances of re-election",
+      "summary": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
+      "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-31T05:44:21Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "summary": "The US State Department says it has approved the sale of more than two billion dollars' worth of Patriot missiles to Ukraine. The 500 missiles have been paid for by contributions from Canada, Germany and Norway. Ukraine needs the intercept…",
+      "link": "http://www.bbc.co.uk/programmes/p0pkkxk0",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkkvq7.mp3",
+      "duration": 28,
+      "published": "2026-10-31T05:01:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+      "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+      "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-31T02:12:19Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Global nature talks reach deal but money remains an issue",
+      "summary": "Countries have been trying to get a global agreement to halt nature decline back on track.",
+      "link": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-31T01:27:05Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Police deployed during stand-off over control of top Poland court",
+      "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
+      "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-31T01:11:43Z"
+    },
     {
       "source": "BBC World",
       "kind": "news",
@@ -9,7 +59,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-10-30T22:20:52Z"
+      "published": "2026-10-31T00:40:43Z"
     },
     {
       "source": "BBC World",
@@ -24,32 +74,12 @@
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Police deployed during stand-off over control of top Poland court",
-      "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
-      "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-30T20:52:01Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
       "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
       "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
       "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
       "published": "2026-10-30T20:41:51Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-      "summary": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
-      "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-30T17:07:19Z"
     },
     {
       "source": "BBC Global News",
@@ -70,26 +100,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-10-30T16:26:11Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Spain transport minister says he won't resign over high-speed rail disaster",
-      "summary": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.",
-      "link": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-30T15:03:39Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
-      "summary": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
-      "link": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-30T14:48:22Z"
     },
     {
       "source": "OpenAI News",
@@ -270,16 +280,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-10-27T11:19:18Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "Israel holds first election since October 7th attacks",
-      "summary": "Israel is holding its first general election since the October 7th Hamas attacks in 2023, with Benjamin Netanyahu seeking to maintain his hold on power after three years of war. Also: after his shock defeat in the Brazilian election, the r…",
-      "link": "http://www.bbc.co.uk/programmes/p0pjrnd4",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjrn53.mp3",
-      "duration": 27,
-      "published": "2026-10-27T05:28:00Z"
     },
     {
       "source": "MIT Technology Review",
