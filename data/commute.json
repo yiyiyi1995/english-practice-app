@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-11-01T06:16:19.505781Z",
+  "updated_at": "2026-11-01T13:37:45.362050Z",
   "items": [
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-01T13:11:37Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Shops looted as German cost of living protests turn violent",
+      "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-01T11:57:48Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "India's opposition holds mega rally seeking election chief's resignation",
+      "summary": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-01T07:00:55Z"
+    },
     {
       "source": "BBC Global News",
       "kind": "news",
@@ -10,16 +40,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkpfz4.mp3",
       "duration": 28,
       "published": "2026-11-01T04:47:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Shops looted as German cost of living protests turn violent",
-      "summary": "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne.",
-      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-01T01:59:57Z"
     },
     {
       "source": "BBC World",
@@ -34,32 +54,22 @@
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "India's opposition set to hold mega rally seeking election chief's resignation",
-      "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+      "summary": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
+      "link": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-01T00:12:07Z"
+      "published": "2026-11-01T00:41:24Z"
     },
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
-      "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "title": "Judge orders Trump administration to stop threatening US election officials",
+      "summary": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters.",
+      "link": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-10-31T22:11:45Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Thousands demonstrate in Paris as protests spread across Europe",
-      "summary": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
-      "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-31T21:29:01Z"
+      "published": "2026-11-01T00:27:33Z"
     },
     {
       "source": "BBC World",
@@ -80,16 +90,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-10-31T17:53:35Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Ethiopian PM puts ministers through military training",
-      "summary": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-31T14:28:15Z"
     },
     {
       "source": "BBC Global News",
