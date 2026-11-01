@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-10-31T21:40:49.202647Z",
+  "updated_at": "2026-11-01T06:16:19.505781Z",
   "items": [
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "Violent protests in France for the third weekend in a row",
+      "summary": "The French interior ministry says that more than 500 people were arrested during riots across the country. Paving stones and petrol bombs were thrown at the police after trouble broke out following mainly peaceful demonstrations about fall…",
+      "link": "http://www.bbc.co.uk/programmes/p0pkpg0p",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkpfz4.mp3",
+      "duration": 28,
+      "published": "2026-11-01T04:47:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Shops looted as German cost of living protests turn violent",
+      "summary": "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne.",
+      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-01T01:59:57Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+      "summary": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
+      "link": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-01T00:55:06Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+      "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-01T00:12:07Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-10-31T22:11:45Z"
+    },
     {
       "source": "BBC World",
       "kind": "news",
@@ -34,26 +84,6 @@
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "summary": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.",
-      "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-31T16:32:08Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
-      "summary": "Government data shows that more than 10,000 people have contracted the rare virus.",
-      "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-31T15:16:20Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
       "title": "Ethiopian PM puts ministers through military training",
       "summary": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
       "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
@@ -72,16 +102,6 @@
       "published": "2026-10-31T12:00:00Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Spain train disaster clouds Sánchez chances of re-election",
-      "summary": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
-      "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-31T05:44:21Z"
-    },
-    {
       "source": "BBC Global News",
       "kind": "news",
       "title": "US approves sale of 500 Patriot missiles to Ukraine",
@@ -90,16 +110,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkkvq7.mp3",
       "duration": 28,
       "published": "2026-10-31T05:01:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Global nature talks reach deal but money remains an issue",
-      "summary": "Countries have been trying to get a global agreement to halt nature decline back on track.",
-      "link": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-31T01:27:05Z"
     },
     {
       "source": "BBC Global News",
@@ -260,16 +270,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-10-28T12:00:00Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "Israel election too close to call",
-      "summary": "There is no clear winner in Israel's election, with results remaining too close to call. As votes are being counted, Benjamin Netanyahu tells supporters he wants to form a right-wing government and \"remove the Iranian threat once and for a…",
-      "link": "http://www.bbc.co.uk/programmes/p0pjz1m1",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjz1h1.mp3",
-      "duration": 25,
-      "published": "2026-10-28T05:23:00Z"
     },
     {
       "source": "MIT Technology Review",
