@@ -1,6 +1,146 @@
 {
-  "updated_at": "2026-11-02T06:17:30.466725Z",
+  "updated_at": "2026-11-02T21:44:54.939186Z",
   "items": [
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+      "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-02T21:10:04Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Man guilty of stealing cash from farm owned by South African president",
+      "summary": "The case, part of the \"Farmgate\" scandal, has left President Cyril Ramaphosa mired in an impeachment saga.",
+      "link": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-02T20:08:51Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
+      "summary": "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground!\"",
+      "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-02T19:58:34Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Trump to remove Rwanda and South Africa from US trade deal",
+      "summary": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
+      "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-02T19:33:10Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Legal challenge to Australia's social media ban to start in High Court",
+      "summary": "A rights group will argue the world-leading policy robs under-16s of their right to free communication.",
+      "link": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-02T19:12:59Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Shop freezers in seven European countries hit by cyber-attack",
+      "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+      "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-02T17:38:11Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+      "summary": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
+      "link": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-02T17:33:19Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Dutch police offer record €2m reward in hunt for drug lord",
+      "summary": "Jos Leijdekkers has been found guilty in absentia of cocaine smuggling and is believed to be in Sierra Leone.",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-02T17:29:49Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "kind": "ai",
+      "title": "Raising the quality of insights in agentic analytics",
+      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking action…",
+      "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-02T17:00:00Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "Ukraine and Russia hit by fake emergency alerts",
+      "summary": "Ukraine reported late on Sunday that an air alert app had been compromised - with citizens receiving several false notifications about chemical and radiological threats. A few hours later, the authorities in Russia said a similar app had b…",
+      "link": "http://www.bbc.co.uk/programmes/p0pkww1f",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkwrw5.mp3",
+      "duration": 28,
+      "published": "2026-11-02T16:31:00Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Introducing the Grid Protectors Program",
+      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+      "link": "https://openai.com/index/grid-protectors-program",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-02T15:00:00Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "kind": "ai",
+      "title": "Stop counting tokens, start counting what ships",
+      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat pro…",
+      "link": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-02T13:10:32Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "kind": "ai",
+      "title": "The agentic web is here",
+      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic W…",
+      "link": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-02T09:35:19Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "LifeVal",
+      "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+      "link": "https://openai.com/index/lifeval",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-02T09:00:00Z"
+    },
     {
       "source": "BBC Global News",
       "kind": "news",
@@ -12,84 +152,14 @@
       "published": "2026-11-02T05:46:00Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-      "summary": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
-      "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Qodo builds context into AI code review with Codex",
+      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+      "link": "https://openai.com/index/qodo-codex-plugin",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-02T01:45:42Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-      "summary": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country.",
-      "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-02T01:18:27Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "France launches attempted murder investigation after petrol bomb thrown at police",
-      "summary": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-02T00:15:30Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
-      "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
-      "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-01T21:55:01Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Armed police start patrols in Sydney after Bondi Beach attack",
-      "summary": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
-      "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-01T17:56:47Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-      "summary": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
-      "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-01T17:06:32Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "University of Cambridge scientist among those who died in Spanish train crash",
-      "summary": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
-      "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-01T17:05:18Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Shops looted as German cost-of-living protests turn violent",
-      "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
-      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-01T11:57:48Z"
+      "published": "2026-11-02T00:00:00Z"
     },
     {
       "source": "BBC Global News",
@@ -172,16 +242,6 @@
       "published": "2026-10-30T00:00:00Z"
     },
     {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-      "link": "https://openai.com/index/updated-model-spec",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-29T17:00:00Z"
-    },
-    {
       "source": "BBC Global News",
       "kind": "news",
       "title": "Deadly Russian drone hits Ukrainian railway station",
@@ -222,36 +282,6 @@
       "published": "2026-10-29T09:00:00Z"
     },
     {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "How we detect frontier model misalignment",
-      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-      "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-29T09:00:00Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "How Ropes & Gray is developing AI for transactional diligence",
-      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-      "link": "https://openai.com/index/ropes-gray-ai-diligence",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-29T07:00:00Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "Bolsonaro declares himself 'Brazil's leader'",
-      "summary": "Flávio Bolsonaro insists he is Brazil’s rightful leader, claiming fraud in the election he lost to President Lula da Silva - without providing evidence. He is currently in Miami in the United States but denies fleeing Brazil where he is un…",
-      "link": "http://www.bbc.co.uk/programmes/p0pk6j6v",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pk6j15.mp3",
-      "duration": 24,
-      "published": "2026-10-29T05:29:00Z"
-    },
-    {
       "source": "MIT Technology Review",
       "kind": "ai",
       "title": "Creating AI value with enterprise context",
@@ -290,36 +320,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-10-26T17:45:43Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "kind": "ai",
-      "title": "The focus on AI safety disasters ignores everyday harms",
-      "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and t…",
-      "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-26T09:01:00Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "kind": "ai",
-      "title": "Designing an AI serving harness built to last",
-      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capabil…",
-      "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-22T21:17:29Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "kind": "ai",
-      "title": "The Foundations of Scalable AI",
-      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to bu…",
-      "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-22T18:48:04Z"
     },
     {
       "source": "BBC 6 Minute English",
