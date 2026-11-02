@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-11-01T22:07:35.287356Z",
+  "updated_at": "2026-11-02T06:17:30.466725Z",
   "items": [
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "Trump celebrates shock endorsement ahead of US midterms",
+      "summary": "A shock endorsement in Michigan just days before the US midterm elections has been welcomed by President Trump. Democratic Congresswoman Haley Stevens backed Republican, Mike Rogers, rather than her own party's candidate, Abdul El- Sayed.…",
+      "link": "http://www.bbc.co.uk/programmes/p0pksmf2",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pksm1b.mp3",
+      "duration": 30,
+      "published": "2026-11-02T05:46:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "summary": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
+      "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-02T01:45:42Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "summary": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country.",
+      "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-02T01:18:27Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+      "summary": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-02T00:15:30Z"
+    },
     {
       "source": "BBC World",
       "kind": "news",
@@ -10,16 +50,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-01T21:55:01Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-      "summary": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
-      "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-01T21:16:45Z"
     },
     {
       "source": "BBC World",
@@ -54,32 +84,12 @@
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
-      "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-01T13:11:37Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
       "title": "Shops looted as German cost-of-living protests turn violent",
       "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
       "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
       "published": "2026-11-01T11:57:48Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "India's opposition holds mega rally seeking election chief's resignation",
-      "summary": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-01T07:00:55Z"
     },
     {
       "source": "BBC Global News",
@@ -250,16 +260,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-10-28T20:32:02Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "Dozens killed in train crash in Spain",
-      "summary": "More than 60 people have died after two high-speed trains collided south of the Spanish capital, Madrid. The accident happened on the same rail line where 46 people died earlier this year. Also: with most votes counted in the Israeli elect…",
-      "link": "http://www.bbc.co.uk/programmes/p0pk3hmm",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pk3gws.mp3",
-      "duration": 27,
-      "published": "2026-10-28T16:28:00Z"
     },
     {
       "source": "MIT Technology Review",
