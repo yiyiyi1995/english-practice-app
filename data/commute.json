@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-11-02T21:44:54.939186Z",
+  "updated_at": "2026-11-03T06:54:57.398945Z",
   "items": [
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "Ukraine accuses Russia of hitting school used as aid centre",
+      "summary": "President Zelensky described as utterly horrific a Russian attack in the southern Ukrainian region of Zaporizhzhia that killed at least 26 people. He said the first air strike was on a school building which was being used as an aid distrib…",
+      "link": "http://www.bbc.co.uk/programmes/p0pkz9jt",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkz8zd.mp3",
+      "duration": 28,
+      "published": "2026-11-03T05:32:00Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "kind": "ai",
+      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive,…",
+      "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-03T04:18:47Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "US strikes Iran ahead of midterm elections",
+      "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+      "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-03T03:39:08Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+      "summary": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-03T03:32:36Z"
+    },
     {
       "source": "BBC World",
       "kind": "news",
@@ -9,37 +49,27 @@
       "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-02T21:10:04Z"
+      "published": "2026-11-03T01:56:27Z"
     },
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Man guilty of stealing cash from farm owned by South African president",
-      "summary": "The case, part of the \"Farmgate\" scandal, has left President Cyril Ramaphosa mired in an impeachment saga.",
-      "link": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-02T20:08:51Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
-      "summary": "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground!\"",
+      "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
+      "summary": "The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause.",
       "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-02T19:58:34Z"
+      "published": "2026-11-03T00:08:14Z"
     },
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Trump to remove Rwanda and South Africa from US trade deal",
-      "summary": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
-      "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+      "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+      "summary": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations.",
+      "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-02T19:33:10Z"
+      "published": "2026-11-03T00:07:05Z"
     },
     {
       "source": "BBC World",
@@ -49,7 +79,27 @@
       "link": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-02T19:12:59Z"
+      "published": "2026-11-02T23:37:31Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-02T18:00:00Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-02T18:00:00Z"
     },
     {
       "source": "BBC World",
@@ -72,16 +122,6 @@
       "published": "2026-11-02T17:33:19Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Dutch police offer record €2m reward in hunt for drug lord",
-      "summary": "Jos Leijdekkers has been found guilty in absentia of cocaine smuggling and is believed to be in Sierra Leone.",
-      "link": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-02T17:29:49Z"
-    },
-    {
       "source": "MIT Technology Review",
       "kind": "ai",
       "title": "Raising the quality of insights in agentic analytics",
@@ -100,6 +140,16 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkwrw5.mp3",
       "duration": 28,
       "published": "2026-11-02T16:31:00Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Scaling Git at OpenAI",
+      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "link": "https://openai.com/index/scaling-git-at-openai",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-02T15:30:00Z"
     },
     {
       "source": "OpenAI News",
@@ -202,26 +252,6 @@
       "published": "2026-10-30T16:51:00Z"
     },
     {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Making it easier for websites to express AI training preferences",
-      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-      "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-30T09:30:00Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Community safety report and new protections for teens",
-      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-      "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-30T09:00:00Z"
-    },
-    {
       "source": "BBC Global News",
       "kind": "news",
       "title": "Venezuelan opposition leader criticises US oil deal",
@@ -230,26 +260,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkdh9g.mp3",
       "duration": 29,
       "published": "2026-10-30T05:57:00Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Fair use benefits everyone",
-      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-      "link": "https://openai.com/index/fair-use-benefits-everyone",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-30T00:00:00Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "Deadly Russian drone hits Ukrainian railway station",
-      "summary": "More than a dozen people are killed by a jet-powered drone from Russia as they board a train from a crowded platform in the Ukrainian city of Dnipro. Also: following the election in Israel, Arab-led parties could hold the balance of power.…",
-      "link": "http://www.bbc.co.uk/programmes/p0pk9z25",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pk9x5b.mp3",
-      "duration": 27,
-      "published": "2026-10-29T15:48:00Z"
     },
     {
       "source": "MIT Technology Review",
@@ -310,16 +320,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-10-27T11:19:18Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "kind": "ai",
-      "title": "Will the real Anthropic please stand up",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (1…",
-      "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-26T17:45:43Z"
     },
     {
       "source": "BBC 6 Minute English",
