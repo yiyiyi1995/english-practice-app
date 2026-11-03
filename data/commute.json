@@ -1,6 +1,126 @@
 {
-  "updated_at": "2026-11-03T06:54:57.398945Z",
+  "updated_at": "2026-11-03T19:31:40.919756Z",
   "items": [
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Seven flights across Europe targeted by suspected bomb threats",
+      "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-03T17:56:03Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+      "summary": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
+      "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-03T16:57:41Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "Americans vote in pivotal midterm elections",
+      "summary": "US voters decide whether Donald Trump keeps control of Congress in the midterm elections. The Democrats are predicted to win back control of the House, and possibly the Senate, although many key contests are within the margin of error. Als…",
+      "link": "http://www.bbc.co.uk/programmes/p0pl435f",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pl42gf.mp3",
+      "duration": 29,
+      "published": "2026-11-03T16:45:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+      "summary": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-03T16:19:29Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Libya's top religious authority rules against wearing Nike clothes",
+      "summary": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.",
+      "link": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-03T14:56:46Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
+      "summary": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
+      "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-03T13:55:47Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Accelerating engineering for the physical world",
+      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-03T12:00:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Indian tourist killed after two helicopters collide near Everest base camp",
+      "summary": "The two aircraft crashed just metres from the ground after trying to land at the same spot.",
+      "link": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-03T11:51:08Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "US strikes Iranian island ahead of midterm elections",
+      "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+      "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-03T11:33:33Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "kind": "ai",
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “alig…",
+      "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-03T10:43:41Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Tenerife striker De Miguel dies after on-field collision",
+      "summary": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-03T09:09:18Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "link": "https://openai.com/index/heimstaden",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-03T08:00:00Z"
+    },
     {
       "source": "BBC Global News",
       "kind": "news",
@@ -22,66 +142,6 @@
       "published": "2026-11-03T04:18:47Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "US strikes Iran ahead of midterm elections",
-      "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
-      "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-03T03:39:08Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
-      "summary": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
-      "link": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-03T03:32:36Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-      "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
-      "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-03T01:56:27Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
-      "summary": "The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause.",
-      "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-03T00:08:14Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
-      "summary": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations.",
-      "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-03T00:07:05Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Legal challenge to Australia's social media ban to start in High Court",
-      "summary": "A rights group will argue the world-leading policy robs under-16s of their right to free communication.",
-      "link": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-02T23:37:31Z"
-    },
-    {
       "source": "OpenAI News",
       "kind": "ai",
       "title": "Rewarding defenders with bigger bug bounties",
@@ -100,26 +160,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-02T18:00:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Shop freezers in seven European countries hit by cyber-attack",
-      "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
-      "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-02T17:38:11Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
-      "summary": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
-      "link": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-02T17:33:19Z"
     },
     {
       "source": "MIT Technology Review",
@@ -182,16 +222,6 @@
       "published": "2026-11-02T09:35:19Z"
     },
     {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "LifeVal",
-      "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-      "link": "https://openai.com/index/lifeval",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-02T09:00:00Z"
-    },
-    {
       "source": "BBC Global News",
       "kind": "news",
       "title": "Trump celebrates shock endorsement ahead of US midterms",
@@ -200,16 +230,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pksm1b.mp3",
       "duration": 30,
       "published": "2026-11-02T05:46:00Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Qodo builds context into AI code review with Codex",
-      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-      "link": "https://openai.com/index/qodo-codex-plugin",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-02T00:00:00Z"
     },
     {
       "source": "BBC Global News",
@@ -250,16 +270,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkhvcv.mp3",
       "duration": 27,
       "published": "2026-10-30T16:51:00Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "Venezuelan opposition leader criticises US oil deal",
-      "summary": "The Venezuelan opposition leader, Maria Corina Machado, has questioned a massive oil deal agreed between Caracas and Washington earlier this year. The accord will see Venezuela hand over twenty per cent of its oil reserves to the US. Speak…",
-      "link": "http://www.bbc.co.uk/programmes/p0pkds06",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkdh9g.mp3",
-      "duration": 29,
-      "published": "2026-10-30T05:57:00Z"
     },
     {
       "source": "MIT Technology Review",
@@ -310,16 +320,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-10-28T12:00:00Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "kind": "ai",
-      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
-      "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings mat…",
-      "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-27T11:19:18Z"
     },
     {
       "source": "BBC 6 Minute English",
