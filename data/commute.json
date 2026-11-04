@@ -1,6 +1,136 @@
 {
-  "updated_at": "2026-11-04T06:34:14.216642Z",
+  "updated_at": "2026-11-04T19:50:34.885069Z",
   "items": [
+    {
+      "source": "MIT Technology Review",
+      "kind": "ai",
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat ag…",
+      "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-04T18:50:55Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+      "summary": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
+      "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-04T18:01:31Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
+      "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-04T17:45:58Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "'Most difficult days of my life' for keeper Owono",
+      "summary": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-04T16:40:38Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "Democrats storm to success in US midterm elections",
+      "summary": "Democrats have stormed to success in the US midterm elections, capitalising on voter anger about the Iran war, the economy and threats to democracy under Donald Trump. Both the Senate and the House have been flipped by a wide margin. Senat…",
+      "link": "http://www.bbc.co.uk/programmes/p0pl9nf9",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pl9mdm.mp3",
+      "duration": 24,
+      "published": "2026-11-04T16:36:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+      "summary": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-04T16:26:15Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Israel's president begins consultations with parties after election deadlock",
+      "summary": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
+      "link": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-04T16:18:21Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Secret police files released in Hungary, 37 years after fall of communism",
+      "summary": "Critics say the move comes too late, that the files themselves are incomplete, and the move risks sowing division and causing unnecessary anguish.",
+      "link": "https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-04T15:28:18Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "link": "https://openai.com/index/openai-to-acquire-pierre",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-04T14:30:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+      "summary": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
+      "link": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-04T13:33:30Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "kind": "ai",
+      "title": "Securing the agentic enterprise with data lineage",
+      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second age…",
+      "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-04T13:00:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+      "summary": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
+      "link": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-04T07:39:38Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "link": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-04T07:00:00Z"
+    },
     {
       "source": "BBC Global News",
       "kind": "news",
@@ -12,66 +142,6 @@
       "published": "2026-11-04T05:51:00Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
-      "summary": "Papua New Guinea police had earlier dismissed speculation that the 32kg object was \"merely a dummy\".",
-      "link": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-04T03:46:10Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "South Carolina elects Democratic senator for first time in almost three decades",
-      "summary": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death.",
-      "link": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-04T03:24:34Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Democratic rising star Ossoff projected to hold Georgia seat",
-      "summary": "Ossoff is seen as a potential leading contender for the Democratic nomination for president in 2028 if he throws his hat in the ring.",
-      "link": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-04T02:38:07Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Spanish transport minister resigns days after deadly train crash",
-      "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
-      "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-03T22:45:59Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "NTSB says crucial plane parts found three miles from Florida crash site",
-      "summary": "The NTSB said because the parts were found far from the accident site, they fell off before the crash.",
-      "link": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-03T21:53:38Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Seven flights across Europe targeted by suspected bomb threats",
-      "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-03T20:42:47Z"
-    },
-    {
       "source": "BBC Global News",
       "kind": "news",
       "title": "Americans vote in pivotal midterm elections",
@@ -80,26 +150,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pl42gf.mp3",
       "duration": 29,
       "published": "2026-11-03T16:45:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-      "summary": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-03T16:19:29Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
-      "summary": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
-      "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-03T13:55:47Z"
     },
     {
       "source": "OpenAI News",
@@ -192,26 +242,6 @@
       "published": "2026-11-02T16:31:00Z"
     },
     {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Scaling Git at OpenAI",
-      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
-      "link": "https://openai.com/index/scaling-git-at-openai",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-02T15:30:00Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Introducing the Grid Protectors Program",
-      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-      "link": "https://openai.com/index/grid-protectors-program",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-02T15:00:00Z"
-    },
-    {
       "source": "MIT Technology Review",
       "kind": "ai",
       "title": "Stop counting tokens, start counting what ships",
@@ -262,16 +292,6 @@
       "published": "2026-10-31T12:00:00Z"
     },
     {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "US approves sale of 500 Patriot missiles to Ukraine",
-      "summary": "The US State Department says it has approved the sale of more than two billion dollars' worth of Patriot missiles to Ukraine. The 500 missiles have been paid for by contributions from Canada, Germany and Norway. Ukraine needs the intercept…",
-      "link": "http://www.bbc.co.uk/programmes/p0pkkxk0",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkkvq7.mp3",
-      "duration": 28,
-      "published": "2026-10-31T05:01:00Z"
-    },
-    {
       "source": "MIT Technology Review",
       "kind": "ai",
       "title": "We urgently need to monitor AI agents’ actions in real time",
@@ -300,26 +320,6 @@
       "audio": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/media.transistor.fm/37a0c3e9/eecd5cc2.mp3",
       "duration": 54,
       "published": "2026-10-29T09:00:00Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "kind": "ai",
-      "title": "Creating AI value with enterprise context",
-      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, ad…",
-      "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-28T20:32:02Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "kind": "ai",
-      "title": "Pairing industrial AI autonomy and human control",
-      "summary": "",
-      "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-28T12:00:00Z"
     },
     {
       "source": "BBC 6 Minute English",
