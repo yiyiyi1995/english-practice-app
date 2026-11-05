@@ -1,15 +1,125 @@
 {
-  "updated_at": "2026-11-05T06:56:04.025688Z",
+  "updated_at": "2026-11-05T20:01:54.987059Z",
   "items": [
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-      "summary": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
-      "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+      "title": "Eight killed in series of shootings in western Turkey",
+      "summary": "Victims are found in several locations in three separate vehicles, according to local reports.",
+      "link": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-05T06:35:25Z"
+      "published": "2026-11-05T19:32:54Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+      "summary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-05T19:08:08Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+      "summary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-05T19:08:08Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "French protests see numbers surge as unions join strikes over high cost of living",
+      "summary": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher.",
+      "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-05T17:59:53Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Paraguay President Santiago Peña resigns after bank collapse",
+      "summary": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
+      "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-05T17:40:40Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Hoax bomb threats target European airlines and airports for second time in a week",
+      "summary": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
+      "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-05T17:39:48Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "Fresh mass protests in France",
+      "summary": "French riot police have fired tear gas at protesters in several cities in the latest day of demonstrations over the rising cost of living and public services that began with student strikes in September. French riot police have fired tear…",
+      "link": "http://www.bbc.co.uk/programmes/p0plh2tw",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plh23f.mp3",
+      "duration": 27,
+      "published": "2026-11-05T16:22:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Russell Brand is being investigated over two new rape complaints, police say",
+      "summary": "Det Supt Andy Furphy said he hoped other potential victims would gain \"courage\" and \"confidence\" from the guilty verdicts.",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-05T15:44:49Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "The Pitt and ER are similar enough for lawsuit to proceed, judge rules",
+      "summary": "The widow of ER creator Michael Crichton argues The Pitt is effectively a reboot of the 1990s series.",
+      "link": "https://www.bbc.co.uk/news/articles/cq4g1r42jx00o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-05T11:21:35Z"
+    },
+    {
+      "source": "Practical AI",
+      "kind": "ai",
+      "title": "Abundant Intelligence at the Midwest AI Summit Part 2",
+      "summary": "How do organizations decide what AI should do, where to set boundaries, and when to keep humans in control? In this episode, Don Barger of the International Mission Board shares how establishing an AI charter helped define what the organiz…",
+      "link": "https://share.transistor.fm/s/1b301bdc",
+      "audio": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/media.transistor.fm/1b301bdc/b7154aa0.mp3",
+      "duration": 48,
+      "published": "2026-11-05T10:00:00Z"
+    },
+    {
+      "source": "BBC 6 Minute English",
+      "kind": "learning",
+      "title": "Could vaccines cure cancer?",
+      "summary": "When was the last time you had a vaccination, and what was it for? Many of us get vaccinations when we are children or when we go travelling, but did you know that scientists have been developing vaccines that can be personalised to help y…",
+      "link": "http://www.bbc.co.uk/programmes/p0pldm3h",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pldlfg.mp3",
+      "duration": 7,
+      "published": "2026-11-05T09:36:00Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+      "link": "https://openai.com/index/introducing-gpt-6-cyber",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-05T09:00:00Z"
     },
     {
       "source": "BBC Global News",
@@ -22,44 +132,14 @@
       "published": "2026-11-05T05:22:00Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
-      "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
-      "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+      "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-05T03:47:56Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
-      "summary": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament.",
-      "link": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-05T02:09:23Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Mother and daughter die after suspected grizzly bear attack in Canada",
-      "summary": "Authorities in British Columbia say evidence suggests an animal may have been involved in the women's deaths.",
-      "link": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-04T23:50:40Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
-      "summary": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
-      "link": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-04T23:12:47Z"
+      "published": "2026-11-05T02:00:00Z"
     },
     {
       "source": "MIT Technology Review",
@@ -72,26 +152,6 @@
       "published": "2026-11-04T18:50:55Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "What Democrats can and can't do with their new power after taking Congress",
-      "summary": "Democrats can vote legislation through. But Trump still has veto power.",
-      "link": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-04T18:01:27Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "'Most difficult days of my life' for keeper Owono",
-      "summary": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-04T16:40:38Z"
-    },
-    {
       "source": "BBC Global News",
       "kind": "news",
       "title": "Democrats storm to success in US midterm elections",
@@ -100,16 +160,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pl9mdm.mp3",
       "duration": 24,
       "published": "2026-11-04T16:36:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
-      "summary": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
-      "link": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-04T16:26:15Z"
     },
     {
       "source": "OpenAI News",
@@ -172,16 +222,6 @@
       "published": "2026-11-04T00:00:00Z"
     },
     {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-      "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
-      "link": "https://openai.com/index/devrev-enterprise-self-service",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-04T00:00:00Z"
-    },
-    {
       "source": "BBC Global News",
       "kind": "news",
       "title": "Americans vote in pivotal midterm elections",
@@ -190,16 +230,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pl42gf.mp3",
       "duration": 29,
       "published": "2026-11-03T16:45:00Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Accelerating engineering for the physical world",
-      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
-      "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-03T12:00:00Z"
     },
     {
       "source": "MIT Technology Review",
@@ -280,16 +310,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pksm1b.mp3",
       "duration": 30,
       "published": "2026-11-02T05:46:00Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "Violent protests in France for the third weekend in a row",
-      "summary": "The French interior ministry says that more than 500 people were arrested during riots across the country. Paving stones and petrol bombs were thrown at the police after trouble broke out following mainly peaceful demonstrations about fall…",
-      "link": "http://www.bbc.co.uk/programmes/p0pkpg0p",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkpfz4.mp3",
-      "duration": 28,
-      "published": "2026-11-01T04:47:00Z"
     },
     {
       "source": "MIT Technology Review",
@@ -440,26 +460,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pb0qlf.mp3",
       "duration": 6,
       "published": "2026-09-17T08:34:00Z"
-    },
-    {
-      "source": "Practical AI",
-      "kind": "ai",
-      "title": "Computer-Use Agents and the Future of the Agentic Internet",
-      "summary": "Longtime followers of Practical AI know that multi-repeat guest and friend Demetrios Brinkmann combines brilliant insight and playful banter into one fun-filled show, and this conversion with Chris was no different. They had a blast! As AI…",
-      "link": "https://share.transistor.fm/s/72586f97",
-      "audio": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/media.transistor.fm/72586f97/42471284.mp3",
-      "duration": 56,
-      "published": "2026-09-10T09:00:00Z"
-    },
-    {
-      "source": "BBC 6 Minute English",
-      "kind": "learning",
-      "title": "Can apps teach you a language?",
-      "summary": "Have you ever used Duolingo, Babbel, Busuu or perhaps another language-learning app? How did you get on? Some people love the convenience of these apps – you can learn on the go, like during your commute to work, rather than committing to…",
-      "link": "http://www.bbc.co.uk/programmes/p0p8w5sh",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p8w5by.mp3",
-      "duration": 7,
-      "published": "2026-09-10T07:46:00Z"
     }
   ]
 }
