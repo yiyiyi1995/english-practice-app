@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-11-04T19:50:34.885069Z",
+  "updated_at": "2026-11-05T06:56:04.025688Z",
   "items": [
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+      "summary": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+      "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-05T06:35:25Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "Trump blames Iran war for midterm defeat",
+      "summary": "President Trump said it was \"largely true\" that the Republicans' defeat in the US midterm elections was because of the war on Iran. The Vice-President, JD Vance, went further, suggesting the political fallout from the conflict wasn't worth…",
+      "link": "http://www.bbc.co.uk/programmes/p0plcn0g",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plcmxt.mp3",
+      "duration": 25,
+      "published": "2026-11-05T05:22:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+      "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+      "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-05T03:47:56Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
+      "summary": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament.",
+      "link": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-05T02:09:23Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Mother and daughter die after suspected grizzly bear attack in Canada",
+      "summary": "Authorities in British Columbia say evidence suggests an animal may have been involved in the women's deaths.",
+      "link": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-04T23:50:40Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
+      "summary": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
+      "link": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-04T23:12:47Z"
+    },
     {
       "source": "MIT Technology Review",
       "kind": "ai",
@@ -14,22 +74,12 @@
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
-      "summary": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
-      "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
+      "title": "What Democrats can and can't do with their new power after taking Congress",
+      "summary": "Democrats can vote legislation through. But Trump still has veto power.",
+      "link": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-04T18:01:31Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-      "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
-      "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-04T17:45:58Z"
+      "published": "2026-11-04T18:01:27Z"
     },
     {
       "source": "BBC World",
@@ -62,26 +112,6 @@
       "published": "2026-11-04T16:26:15Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Israel's president begins consultations with parties after election deadlock",
-      "summary": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
-      "link": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-04T16:18:21Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Secret police files released in Hungary, 37 years after fall of communism",
-      "summary": "Critics say the move comes too late, that the files themselves are incomplete, and the move risks sowing division and causing unnecessary anguish.",
-      "link": "https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-04T15:28:18Z"
-    },
-    {
       "source": "OpenAI News",
       "kind": "ai",
       "title": "OpenAI to acquire Pierre Computer Company, Inc.",
@@ -90,16 +120,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-04T14:30:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
-      "summary": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-04T13:33:30Z"
     },
     {
       "source": "MIT Technology Review",
@@ -112,14 +132,14 @@
       "published": "2026-11-04T13:00:00Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
-      "summary": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
-      "link": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "A thousand fewer paths to root",
+      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+      "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-04T07:39:38Z"
+      "published": "2026-11-04T08:00:00Z"
     },
     {
       "source": "OpenAI News",
@@ -140,6 +160,26 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pl6lg9.mp3",
       "duration": 23,
       "published": "2026-11-04T05:51:00Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Introducing Images 2.6",
+      "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+      "link": "https://openai.com/index/introducing-images-2-6",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-04T00:00:00Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+      "link": "https://openai.com/index/devrev-enterprise-self-service",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-04T00:00:00Z"
     },
     {
       "source": "BBC Global News",
@@ -172,26 +212,6 @@
       "published": "2026-11-03T10:43:41Z"
     },
     {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-      "link": "https://openai.com/index/cisco-cyber",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-03T08:00:00Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-      "link": "https://openai.com/index/heimstaden",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-03T08:00:00Z"
-    },
-    {
       "source": "BBC Global News",
       "kind": "news",
       "title": "Ukraine accuses Russia of hitting school used as aid centre",
@@ -210,16 +230,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-03T04:18:47Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-      "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
-      "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-03T00:00:00Z"
     },
     {
       "source": "MIT Technology Review",
@@ -280,16 +290,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkpfz4.mp3",
       "duration": 28,
       "published": "2026-11-01T04:47:00Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "The Happy Pod: Personalised cancer vaccine shows promise in major trial",
-      "summary": "A new personalised skin cancer vaccine has been found to reduce the risk of patients dying or their cancer returning by 42%. As part of a global two-year clinical trial, more than 1,000 patients who had already had their tumours removed we…",
-      "link": "http://www.bbc.co.uk/programmes/p0pkj52k",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkj482.mp3",
-      "duration": 28,
-      "published": "2026-10-31T12:00:00Z"
     },
     {
       "source": "MIT Technology Review",
