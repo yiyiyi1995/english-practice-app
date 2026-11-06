@@ -1,25 +1,105 @@
 {
-  "updated_at": "2026-11-06T06:56:13.496377Z",
+  "updated_at": "2026-11-06T19:28:22.447061Z",
   "items": [
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Macau jails pro-democracy campaigner in city's first national security case",
-      "summary": "Au Kam San was sentenced to 12 years and six months' jail for \"subversion against the political power of the state\".",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss",
+      "title": "AI stocks climb after trillions wiped from market values",
+      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+      "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-06T06:46:21Z"
+      "published": "2026-11-06T17:03:02Z"
     },
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
-      "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
-      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "title": "Four midterms takeaways for 2028 White House race",
+      "summary": "The buzz about the presidential election is already under way - here's what we learned this week.",
+      "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-06T06:00:59Z"
+      "published": "2026-11-06T16:12:22Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "Tech stocks tank over AI panic",
+      "summary": "Investors dump tech shares over fears of slowdown in AI development following the sweeping Democrat victory in the US midterm elections. Markets in Asia suffer sharp losses. Japan’s Nikkei index and South Korea’s Kospi closed 6% down on Fr…",
+      "link": "http://www.bbc.co.uk/programmes/p0plnyvn",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plnwcw.mp3",
+      "duration": 25,
+      "published": "2026-11-06T16:06:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Two dead after bus crashes in France, officials say",
+      "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
+      "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-06T15:33:52Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
+      "summary": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.",
+      "link": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-06T15:30:42Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "New wave of bomb threats hit European airlines",
+      "summary": "No link has been established between the threats against the airlines and those against the media outlets.",
+      "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-06T15:25:35Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+      "summary": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-06T14:46:03Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Russian extremist group denies sending hoax bomb threats",
+      "summary": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-06T12:51:38Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "kind": "ai",
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning servi…",
+      "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-06T10:00:00Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "link": "https://openai.com/index/partnering-with-hacktron",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-06T08:00:00Z"
     },
     {
       "source": "BBC Global News",
@@ -34,26 +114,6 @@
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Trump signs order preventing future presidents from changing Oval Office",
-      "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-06T04:29:25Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
-      "summary": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Mark Rubio is rumoured to be eyeing a presidential run.",
-      "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-06T02:08:57Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
       "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
       "summary": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
       "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
@@ -62,14 +122,14 @@
       "published": "2026-11-06T00:02:57Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "California governor commutes sentences for state's 548 death row inmates",
-      "summary": "California has historically had the largest population of people on death row in the US.",
-      "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-05T23:09:33Z"
+      "published": "2026-11-06T00:00:00Z"
     },
     {
       "source": "OpenAI News",
@@ -80,26 +140,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-05T20:00:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
-      "summary": "New Zealanders will head to the polls on 7 November to elect a new government, with rising cost of living a key concern for voters.",
-      "link": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-05T19:08:48Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Paraguay President Santiago Peña resigns after bank collapse",
-      "summary": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
-      "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-05T17:40:40Z"
     },
     {
       "source": "OpenAI News",
@@ -125,7 +165,7 @@
       "source": "Practical AI",
       "kind": "ai",
       "title": "Abundant Intelligence at the Midwest AI Summit Part 2",
-      "summary": "How do organizations decide what AI should do, where to set boundaries, and when to keep humans in control? In this episode, Don Barger of the International Mission Board shares how establishing an AI charter helped define what the organiz…",
+      "summary": "How do organizations decide what AI should do, where to set boundaries, and when to keep humans in control? In this special episode, we bring you three more talks from the Midwest AI Summit, exploring how organizations are putting AI into…",
       "link": "https://share.transistor.fm/s/1b301bdc",
       "audio": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/media.transistor.fm/1b301bdc/b7154aa0.mp3",
       "duration": 48,
@@ -170,26 +210,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plcmxt.mp3",
       "duration": 25,
       "published": "2026-11-05T05:22:00Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Setting a new standard for responsible AI infrastructure",
-      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
-      "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-05T02:00:00Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Flipsnack grows product signups with conversion optimization",
-      "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
-      "link": "https://openai.com/ads/customers/flipsnack",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-05T00:45:15Z"
     },
     {
       "source": "MIT Technology Review",
@@ -282,16 +302,6 @@
       "published": "2026-11-02T17:00:00Z"
     },
     {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "Ukraine and Russia hit by fake emergency alerts",
-      "summary": "Ukraine reported late on Sunday that an air alert app had been compromised - with citizens receiving several false notifications about chemical and radiological threats. A few hours later, the authorities in Russia said a similar app had b…",
-      "link": "http://www.bbc.co.uk/programmes/p0pkww1f",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkwrw5.mp3",
-      "duration": 28,
-      "published": "2026-11-02T16:31:00Z"
-    },
-    {
       "source": "MIT Technology Review",
       "kind": "ai",
       "title": "Stop counting tokens, start counting what ships",
@@ -310,16 +320,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-02T09:35:19Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "kind": "ai",
-      "title": "We urgently need to monitor AI agents’ actions in real time",
-      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same…",
-      "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-10-29T10:11:12Z"
     },
     {
       "source": "BBC 6 Minute English",
