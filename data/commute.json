@@ -1,45 +1,95 @@
 {
-  "updated_at": "2026-11-05T20:01:54.987059Z",
+  "updated_at": "2026-11-06T06:56:13.496377Z",
   "items": [
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Eight killed in series of shootings in western Turkey",
-      "summary": "Victims are found in several locations in three separate vehicles, according to local reports.",
-      "link": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
+      "title": "Macau jails pro-democracy campaigner in city's first national security case",
+      "summary": "Au Kam San was sentenced to 12 years and six months' jail for \"subversion against the political power of the state\".",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-05T19:32:54Z"
+      "published": "2026-11-06T06:46:21Z"
     },
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-      "summary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
-      "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+      "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-05T19:08:08Z"
+      "published": "2026-11-06T06:00:59Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "Pete Hegseth under pressure after US elections",
+      "summary": "Pressure grows on the US defence secretary following the Republicans' midterm losses. The war in Iran, which Pete Hegseth supported, is being blamed for the defeats - but President Trump said he intended to keep Mr Hegseth on. The defence…",
+      "link": "http://www.bbc.co.uk/programmes/p0plk945",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plk8hr.mp3",
+      "duration": 27,
+      "published": "2026-11-06T05:39:00Z"
     },
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-      "summary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
-      "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump signs order preventing future presidents from changing Oval Office",
+      "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-05T19:08:08Z"
+      "published": "2026-11-06T04:29:25Z"
     },
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "French protests see numbers surge as unions join strikes over high cost of living",
-      "summary": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher.",
-      "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+      "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+      "summary": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Mark Rubio is rumoured to be eyeing a presidential run.",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-05T17:59:53Z"
+      "published": "2026-11-06T02:08:57Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+      "summary": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
+      "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-06T00:02:57Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "California governor commutes sentences for state's 548 death row inmates",
+      "summary": "California has historically had the largest population of people on death row in the US.",
+      "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-05T23:09:33Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Cult.fit builds operational muscle with Codex",
+      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+      "link": "https://openai.com/index/cultfit-builds-with-codex",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-05T20:00:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
+      "summary": "New Zealanders will head to the polls on 7 November to elect a new government, with rising cost of living a key concern for voters.",
+      "link": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-05T19:08:48Z"
     },
     {
       "source": "BBC World",
@@ -52,14 +102,14 @@
       "published": "2026-11-05T17:40:40Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Hoax bomb threats target European airlines and airports for second time in a week",
-      "summary": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
-      "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Australian universities are creating AI-native graduates",
+      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+      "link": "https://openai.com/index/australian-universities-ai-native-graduates",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-05T17:39:48Z"
+      "published": "2026-11-05T17:00:00Z"
     },
     {
       "source": "BBC Global News",
@@ -70,26 +120,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plh23f.mp3",
       "duration": 27,
       "published": "2026-11-05T16:22:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Russell Brand is being investigated over two new rape complaints, police say",
-      "summary": "Det Supt Andy Furphy said he hoped other potential victims would gain \"courage\" and \"confidence\" from the guilty verdicts.",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-05T15:44:49Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "The Pitt and ER are similar enough for lawsuit to proceed, judge rules",
-      "summary": "The widow of ER creator Michael Crichton argues The Pitt is effectively a reboot of the 1990s series.",
-      "link": "https://www.bbc.co.uk/news/articles/cq4g1r42jx00o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-05T11:21:35Z"
     },
     {
       "source": "Practical AI",
@@ -122,6 +152,16 @@
       "published": "2026-11-05T09:00:00Z"
     },
     {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+      "link": "https://openai.com/index/merge-builds-with-openai",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-05T08:00:00Z"
+    },
+    {
       "source": "BBC Global News",
       "kind": "news",
       "title": "Trump blames Iran war for midterm defeat",
@@ -140,6 +180,16 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-05T02:00:00Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Flipsnack grows product signups with conversion optimization",
+      "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+      "link": "https://openai.com/ads/customers/flipsnack",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-05T00:45:15Z"
     },
     {
       "source": "MIT Technology Review",
@@ -162,16 +212,6 @@
       "published": "2026-11-04T16:36:00Z"
     },
     {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
-      "link": "https://openai.com/index/openai-to-acquire-pierre",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-04T14:30:00Z"
-    },
-    {
       "source": "MIT Technology Review",
       "kind": "ai",
       "title": "Securing the agentic enterprise with data lineage",
@@ -182,26 +222,6 @@
       "published": "2026-11-04T13:00:00Z"
     },
     {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "A thousand fewer paths to root",
-      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
-      "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-04T08:00:00Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-      "link": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-04T07:00:00Z"
-    },
-    {
       "source": "BBC Global News",
       "kind": "news",
       "title": "Democrats projected to take control of US Congress",
@@ -210,16 +230,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pl6lg9.mp3",
       "duration": 23,
       "published": "2026-11-04T05:51:00Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Introducing Images 2.6",
-      "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
-      "link": "https://openai.com/index/introducing-images-2-6",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-04T00:00:00Z"
     },
     {
       "source": "BBC Global News",
@@ -300,16 +310,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-02T09:35:19Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "Trump celebrates shock endorsement ahead of US midterms",
-      "summary": "A shock endorsement in Michigan just days before the US midterm elections has been welcomed by President Trump. Democratic Congresswoman Haley Stevens backed Republican, Mike Rogers, rather than her own party's candidate, Abdul El- Sayed.…",
-      "link": "http://www.bbc.co.uk/programmes/p0pksmf2",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pksm1b.mp3",
-      "duration": 30,
-      "published": "2026-11-02T05:46:00Z"
     },
     {
       "source": "MIT Technology Review",
