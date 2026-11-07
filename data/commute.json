@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-11-07T06:06:25.704466Z",
+  "updated_at": "2026-11-07T13:11:40.804048Z",
   "items": [
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Ukraine's power network suffers further damage after fresh Russian strikes",
+      "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-07T12:49:36Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "The Happy Pod: Celebrating the wedding that never happened",
+      "summary": "When Bridget's relationship fell apart, she turned to the internet with a proposal: come to Northern Ireland and celebrate the wedding that never happened. What followed was a story that has resonated worldwide as 11 strangers answered the…",
+      "link": "http://www.bbc.co.uk/programmes/p0plplrh",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plpklc.mp3",
+      "duration": 26,
+      "published": "2026-11-07T12:00:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Paraguay's president impeached and under house arrest after bank collapse",
+      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-07T07:20:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Pope in 'pretty good health' as he starts Latin America tour",
+      "summary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
+      "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-07T06:59:48Z"
+    },
     {
       "source": "BBC Global News",
       "kind": "news",
@@ -14,22 +54,12 @@
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Paraguay's President Santiago Peña impeached and arrested",
-      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "title": "With Stephen Miller pick, Trump readies for a battle",
+      "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+      "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-07T03:25:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
-      "summary": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.",
-      "link": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-06T23:46:08Z"
+      "published": "2026-11-06T23:24:15Z"
     },
     {
       "source": "BBC World",
@@ -52,16 +82,6 @@
       "published": "2026-11-06T17:44:02Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Four midterms takeaways for 2028 White House race",
-      "summary": "The buzz about the presidential election is already under way - here's what we learned this week.",
-      "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-06T16:12:22Z"
-    },
-    {
       "source": "BBC Global News",
       "kind": "news",
       "title": "Tech stocks tank over AI panic",
@@ -70,16 +90,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plnwcw.mp3",
       "duration": 25,
       "published": "2026-11-06T16:06:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Two dead after bus crashes in France, officials say",
-      "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
-      "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-06T15:33:52Z"
     },
     {
       "source": "BBC World",
@@ -260,16 +270,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pl6lg9.mp3",
       "duration": 23,
       "published": "2026-11-04T05:51:00Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "Americans vote in pivotal midterm elections",
-      "summary": "US voters decide whether Donald Trump keeps control of Congress in the midterm elections. The Democrats are predicted to win back control of the House, and possibly the Senate, although many key contests are within the margin of error. Als…",
-      "link": "http://www.bbc.co.uk/programmes/p0pl435f",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pl42gf.mp3",
-      "duration": 29,
-      "published": "2026-11-03T16:45:00Z"
     },
     {
       "source": "MIT Technology Review",
