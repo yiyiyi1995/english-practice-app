@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-11-06T19:28:22.447061Z",
+  "updated_at": "2026-11-07T06:06:25.704466Z",
   "items": [
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "Trump appoints new chief of staff after midterm defeat",
+      "summary": "Donald Trump names the immigration hardliner, Stephen Miller, as the new White House chief of staff after the Republican Party's historic losses in the US midterm elections. Mr Miller's appointment to one of the most powerful positions in…",
+      "link": "http://www.bbc.co.uk/programmes/p0plrs2j",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plrs0b.mp3",
+      "duration": 27,
+      "published": "2026-11-07T04:19:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Paraguay's President Santiago Peña impeached and arrested",
+      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-07T03:25:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
+      "summary": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.",
+      "link": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-06T23:46:08Z"
+    },
     {
       "source": "BBC World",
       "kind": "news",
@@ -9,7 +39,17 @@
       "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-06T17:03:02Z"
+      "published": "2026-11-06T21:06:25Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+      "summary": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-06T17:44:02Z"
     },
     {
       "source": "BBC World",
@@ -44,16 +84,6 @@
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
-      "summary": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.",
-      "link": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-06T15:30:42Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
       "title": "New wave of bomb threats hit European airlines",
       "summary": "No link has been established between the threats against the airlines and those against the media outlets.",
       "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
@@ -70,16 +100,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-06T14:46:03Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Russian extremist group denies sending hoax bomb threats",
-      "summary": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
-      "link": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-06T12:51:38Z"
     },
     {
       "source": "MIT Technology Review",
@@ -110,16 +130,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plk8hr.mp3",
       "duration": 27,
       "published": "2026-11-06T05:39:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
-      "summary": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
-      "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-06T00:02:57Z"
     },
     {
       "source": "OpenAI News",
@@ -270,16 +280,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-03T10:43:41Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "Ukraine accuses Russia of hitting school used as aid centre",
-      "summary": "President Zelensky described as utterly horrific a Russian attack in the southern Ukrainian region of Zaporizhzhia that killed at least 26 people. He said the first air strike was on a school building which was being used as an aid distrib…",
-      "link": "http://www.bbc.co.uk/programmes/p0pkz9jt",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkz8zd.mp3",
-      "duration": 28,
-      "published": "2026-11-03T05:32:00Z"
     },
     {
       "source": "MIT Technology Review",
