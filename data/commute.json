@@ -1,15 +1,65 @@
 {
-  "updated_at": "2026-11-07T13:11:40.804048Z",
+  "updated_at": "2026-11-07T21:56:05.429456Z",
   "items": [
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Ukraine's power network suffers further damage after fresh Russian strikes",
-      "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+      "title": "What we know so far after Krakow gun attack",
+      "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-07T12:49:36Z"
+      "published": "2026-11-07T21:13:24Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Paraguay's former president charged after bank collapse",
+      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-07T19:17:22Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "summary": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+      "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-07T18:14:38Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Houthis say at least 25 killed in Saudi air strike",
+      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-07T17:09:24Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "No clear winner after tight New Zealand general election",
+      "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+      "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-07T15:56:28Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+      "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-07T15:19:35Z"
     },
     {
       "source": "BBC Global News",
@@ -20,16 +70,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plpklc.mp3",
       "duration": 26,
       "published": "2026-11-07T12:00:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Paraguay's president impeached and under house arrest after bank collapse",
-      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-07T07:20:00Z"
     },
     {
       "source": "BBC World",
@@ -62,26 +102,6 @@
       "published": "2026-11-06T23:24:15Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "AI stocks climb after trillions wiped from market values",
-      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-      "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-06T21:06:25Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
-      "summary": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-06T17:44:02Z"
-    },
-    {
       "source": "BBC Global News",
       "kind": "news",
       "title": "Tech stocks tank over AI panic",
@@ -90,26 +110,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plnwcw.mp3",
       "duration": 25,
       "published": "2026-11-06T16:06:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "New wave of bomb threats hit European airlines",
-      "summary": "No link has been established between the threats against the airlines and those against the media outlets.",
-      "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-06T15:25:35Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-      "summary": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-06T14:46:03Z"
     },
     {
       "source": "MIT Technology Review",
