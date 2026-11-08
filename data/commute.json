@@ -1,15 +1,55 @@
 {
-  "updated_at": "2026-11-08T13:33:10.853385Z",
+  "updated_at": "2026-11-08T22:12:34.415724Z",
   "items": [
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "The Global Story: They fled Russia. The US sent them back",
+      "summary": "After Russia invaded Ukraine in 2022, many Russians who opposed the war – or feared being sent to fight in it – fled the country. In much of the West, they were welcomed as courageous dissidents. But four years on, the number of Russians b…",
+      "link": "http://www.bbc.co.uk/programmes/p0pllbwj",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pllbml.mp3",
+      "duration": 28,
+      "published": "2026-11-08T20:00:00Z"
+    },
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "What we know so far after Krakow gun attack",
-      "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
-      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-08T11:22:17Z"
+      "published": "2026-11-08T19:58:02Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+      "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-08T18:22:53Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Homes and temples glow across India to mark Diwali",
+      "summary": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
+      "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-08T14:42:09Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Iran executes three men for 'armed unrest' after January protests",
+      "summary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-08T13:37:50Z"
     },
     {
       "source": "BBC Global News",
@@ -34,16 +74,6 @@
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-      "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-07T22:19:59Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
       "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
       "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
       "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
@@ -60,26 +90,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-07T19:17:22Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "US offers $20m reward for information about Iran's nuclear programme",
-      "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
-      "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-07T18:14:38Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-      "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
-      "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-07T15:19:35Z"
     },
     {
       "source": "BBC Global News",
@@ -250,16 +260,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-04T18:50:55Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "Democrats storm to success in US midterm elections",
-      "summary": "Democrats have stormed to success in the US midterm elections, capitalising on voter anger about the Iran war, the economy and threats to democracy under Donald Trump. Both the Senate and the House have been flipped by a wide margin. Senat…",
-      "link": "http://www.bbc.co.uk/programmes/p0pl9nf9",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pl9mdm.mp3",
-      "duration": 24,
-      "published": "2026-11-04T16:36:00Z"
     },
     {
       "source": "MIT Technology Review",
