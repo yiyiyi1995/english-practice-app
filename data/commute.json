@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-11-08T06:10:55.014551Z",
+  "updated_at": "2026-11-08T13:33:10.853385Z",
   "items": [
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "What we know so far after Krakow gun attack",
+      "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
+      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-08T11:22:17Z"
+    },
     {
       "source": "BBC Global News",
       "kind": "news",
@@ -24,22 +34,22 @@
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "What we know so far after Krakow gun attack",
-      "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker.",
-      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-08T01:47:41Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
       "title": "Israel's president tasks opposition leader Eisenkot with forming government",
       "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
       "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
       "published": "2026-11-07T22:19:59Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+      "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
+      "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-07T21:36:16Z"
     },
     {
       "source": "BBC World",
@@ -64,16 +74,6 @@
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "No clear winner after tight New Zealand general election",
-      "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-      "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-07T15:56:28Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
       "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
       "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
       "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
@@ -92,6 +92,16 @@
       "published": "2026-11-07T12:00:00Z"
     },
     {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Pope in 'pretty good health' as he starts Latin America tour",
+      "summary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
+      "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-07T06:59:48Z"
+    },
+    {
       "source": "BBC Global News",
       "kind": "news",
       "title": "Trump appoints new chief of staff after midterm defeat",
@@ -100,16 +110,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plrs0b.mp3",
       "duration": 27,
       "published": "2026-11-07T04:19:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "With Stephen Miller pick, Trump readies for a battle",
-      "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
-      "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-06T23:24:15Z"
     },
     {
       "source": "BBC Global News",
