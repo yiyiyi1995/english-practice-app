@@ -1,15 +1,45 @@
 {
-  "updated_at": "2026-11-07T21:56:05.429456Z",
+  "updated_at": "2026-11-08T06:10:55.014551Z",
   "items": [
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "Poland in shock as six killed in shooting",
+      "summary": "Poland has begun two days of mourning after a gunman opened fire on the main square in the city of Krakow, killing six and injuring 15 others; three more bodies were found at the suspect's home. The authorities say he used military weapons…",
+      "link": "http://www.bbc.co.uk/programmes/p0plw73g",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plw70f.mp3",
+      "duration": 28,
+      "published": "2026-11-08T04:44:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Houthis say at least 33 killed in Saudi air strike",
+      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-08T04:03:12Z"
+    },
     {
       "source": "BBC World",
       "kind": "news",
       "title": "What we know so far after Krakow gun attack",
-      "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+      "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker.",
       "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-07T21:13:24Z"
+      "published": "2026-11-08T01:47:41Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-07T22:19:59Z"
     },
     {
       "source": "BBC World",
@@ -25,21 +55,11 @@
       "source": "BBC World",
       "kind": "news",
       "title": "US offers $20m reward for information about Iran's nuclear programme",
-      "summary": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+      "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
       "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
       "published": "2026-11-07T18:14:38Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Houthis say at least 25 killed in Saudi air strike",
-      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-07T17:09:24Z"
     },
     {
       "source": "BBC World",
@@ -70,16 +90,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plpklc.mp3",
       "duration": 26,
       "published": "2026-11-07T12:00:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Pope in 'pretty good health' as he starts Latin America tour",
-      "summary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
-      "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-07T06:59:48Z"
     },
     {
       "source": "BBC Global News",
@@ -260,16 +270,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-04T13:00:00Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "Democrats projected to take control of US Congress",
-      "summary": "The Democratic Party inflicted a huge upset on the Republicans in the US midterm elections. In the Senate race in Texas, the Democrat James Talarico is projected to beat the Republican Ken Paxton. He'll join Democratic Senators from South…",
-      "link": "http://www.bbc.co.uk/programmes/p0pl6m46",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pl6lg9.mp3",
-      "duration": 23,
-      "published": "2026-11-04T05:51:00Z"
     },
     {
       "source": "MIT Technology Review",
