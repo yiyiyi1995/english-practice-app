@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-11-08T22:12:34.415724Z",
+  "updated_at": "2026-11-09T06:44:39.090534Z",
   "items": [
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Inside the French drug gangs recruiting children to kill",
+      "summary": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
+      "link": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-09T06:00:26Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "Nvidia investigates CEO's affair with suspected Chinese spy",
+      "summary": "The US tech giant Nvidia has opened an independent investigation following reports its chief executive, Jensen Huang, had a relationship with a woman suspected of spying for China. Mr Huang apologized to his wife and his children for being…",
+      "link": "http://www.bbc.co.uk/programmes/p0plzjqt",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plzjbf.mp3",
+      "duration": 28,
+      "published": "2026-11-09T05:32:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Pope delivers veiled rebuke of Milei's austerity measures",
+      "summary": "Pope Leo made the comments as he arrived in Argentina on the second leg of his Latin America tour.",
+      "link": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-09T05:30:37Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+      "summary": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-09T02:50:13Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+      "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-08T23:34:18Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+      "summary": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-08T21:37:36Z"
+    },
     {
       "source": "BBC Global News",
       "kind": "news",
@@ -24,32 +84,12 @@
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-      "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
-      "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-08T18:22:53Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
       "title": "Homes and temples glow across India to mark Diwali",
       "summary": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
       "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
       "published": "2026-11-08T14:42:09Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Iran executes three men for 'armed unrest' after January protests",
-      "summary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
-      "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-08T13:37:50Z"
     },
     {
       "source": "BBC Global News",
@@ -64,32 +104,12 @@
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Houthis say at least 33 killed in Saudi air strike",
-      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-08T04:03:12Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
       "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
       "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
       "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
       "published": "2026-11-07T21:36:16Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Paraguay's former president charged after bank collapse",
-      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-07T19:17:22Z"
     },
     {
       "source": "BBC Global News",
@@ -100,16 +120,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plpklc.mp3",
       "duration": 26,
       "published": "2026-11-07T12:00:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Pope in 'pretty good health' as he starts Latin America tour",
-      "summary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
-      "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-07T06:59:48Z"
     },
     {
       "source": "BBC Global News",
@@ -240,16 +250,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-05T08:00:00Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "Trump blames Iran war for midterm defeat",
-      "summary": "President Trump said it was \"largely true\" that the Republicans' defeat in the US midterm elections was because of the war on Iran. The Vice-President, JD Vance, went further, suggesting the political fallout from the conflict wasn't worth…",
-      "link": "http://www.bbc.co.uk/programmes/p0plcn0g",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plcmxt.mp3",
-      "duration": 25,
-      "published": "2026-11-05T05:22:00Z"
     },
     {
       "source": "MIT Technology Review",
