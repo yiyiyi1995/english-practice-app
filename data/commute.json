@@ -1,35 +1,85 @@
 {
-  "updated_at": "2026-11-09T22:26:44.085365Z",
+  "updated_at": "2026-11-10T07:25:35.442302Z",
   "items": [
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
-      "summary": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says more US attacks on Iran 'highly unlikely'",
+      "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
+      "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-09T22:17:23Z"
+      "published": "2026-11-10T05:33:25Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+      "summary": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
+      "link": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-10T05:22:39Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "Trump backs Hegseth as he faces impeachment push",
+      "summary": "President Trump has said the resumption of US strikes against Iran is \"quite unlikely and unnecessary\". He expressed support for his defence secretary, Pete Hegseth, after a Republican Congressman, Thomas Massie, introduced articles of imp…",
+      "link": "http://www.bbc.co.uk/programmes/p0pm6qtr",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pm6qfc.mp3",
+      "duration": 27,
+      "published": "2026-11-10T05:19:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-10T03:58:13Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "'Cruise for life' ship seized in Singapore",
+      "summary": "The Odyssey was meant to take guests around the world for years, but the trip was cut short after its operator ran out of money.",
+      "link": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-10T01:49:06Z"
     },
     {
       "source": "BBC World",
       "kind": "news",
       "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-      "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
+      "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
       "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-09T21:37:02Z"
+      "published": "2026-11-10T01:38:49Z"
     },
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Turkey steel factory blast kills at least 17 people",
-      "summary": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
-      "link": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
+      "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+      "summary": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
+      "link": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-09T20:42:04Z"
+      "published": "2026-11-10T00:14:03Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "summary": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
+      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-10T00:09:49Z"
     },
     {
       "source": "BBC World",
@@ -40,16 +90,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-09T20:20:08Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-      "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
-      "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-09T19:58:01Z"
     },
     {
       "source": "MIT Technology Review",
@@ -70,36 +110,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-09T19:00:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Russia's leading independent newspaper closes after eviction",
-      "summary": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations.",
-      "link": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-09T18:08:07Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Trump questions midterm elections integrity after previously accepting results",
-      "summary": "Trump made the claims, without evidence, on Truth Social on Monday.",
-      "link": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-09T17:47:29Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
-      "summary": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
-      "link": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-09T17:06:18Z"
     },
     {
       "source": "MIT Technology Review",
@@ -240,16 +250,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-06T08:00:00Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "Pete Hegseth under pressure after US elections",
-      "summary": "Pressure grows on the US defence secretary following the Republicans' midterm losses. The war in Iran, which Pete Hegseth supported, is being blamed for the defeats - but President Trump said he intended to keep Mr Hegseth on. The defence…",
-      "link": "http://www.bbc.co.uk/programmes/p0plk945",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plk8hr.mp3",
-      "duration": 27,
-      "published": "2026-11-06T05:39:00Z"
     },
     {
       "source": "OpenAI News",
