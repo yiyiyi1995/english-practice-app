@@ -1,25 +1,135 @@
 {
-  "updated_at": "2026-11-10T07:25:35.442302Z",
+  "updated_at": "2026-11-10T19:48:09.997086Z",
   "items": [
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Trump says more US attacks on Iran 'highly unlikely'",
-      "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
-      "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+      "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
+      "link": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-10T05:33:25Z"
+      "published": "2026-11-10T18:33:51Z"
     },
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
-      "summary": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
-      "link": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
+      "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
+      "summary": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
+      "link": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-10T05:22:39Z"
+      "published": "2026-11-10T18:04:18Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "US federal authorities could have prevented Epstein crimes, report finds",
+      "summary": "The report by a Republican-led congressional committee follows a 15-month investigation into the handling of the late disgraced financier's case.",
+      "link": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-10T17:59:02Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "First day of Ukraine peace talks constructive, Zelensky says",
+      "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
+      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-10T17:29:36Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Israel's new parliament sworn in as leaders compete to form government",
+      "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
+      "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-10T17:03:16Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Twelve dead after motorway pile-ups in Bulgaria fog",
+      "summary": "About 50 other people were injured in the pile-ups along a section of the Trakia motorway, officials have said.",
+      "link": "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-10T16:07:51Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "How US model agencies helped Epstein access victims",
+      "summary": "A BBC investigation uncovers new evidence about how model agencies, scouts and powerful fashion figures helped Jeffrey Epstein gain access to young women after his conviction for sex offences. A woman raped by the financier says the presid…",
+      "link": "http://www.bbc.co.uk/programmes/p0pm9szt",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pm9s2k.mp3",
+      "duration": 29,
+      "published": "2026-11-10T15:47:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+      "summary": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
+      "link": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-10T15:21:18Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "French wartime resistance heroine Solange Alexandre dies aged 104",
+      "summary": "With 30 men under her orders, she organised sabotage operations, sheltered Allied airmen and joined the fight against the occupying German forces.",
+      "link": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-10T13:23:54Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Helping caregivers use AI in everyday life",
+      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-10T12:00:00Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Introducing Businesses in ChatGPT",
+      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "link": "https://openai.com/index/introducing-businesses-chatgpt",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-10T10:00:00Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Closing the AI guidance gap in education",
+      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+      "link": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-10T09:00:00Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+      "link": "https://openai.com/index/ai-effect-on-freelance-work",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-10T07:00:00Z"
     },
     {
       "source": "BBC Global News",
@@ -30,66 +140,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pm6qfc.mp3",
       "duration": 27,
       "published": "2026-11-10T05:19:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-10T03:58:13Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "'Cruise for life' ship seized in Singapore",
-      "summary": "The Odyssey was meant to take guests around the world for years, but the trip was cut short after its operator ran out of money.",
-      "link": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-10T01:49:06Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-      "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
-      "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-10T01:38:49Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
-      "summary": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
-      "link": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-10T00:14:03Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
-      "summary": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
-      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-10T00:09:49Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "France accuses Iran of supermarket fridge hacking",
-      "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
-      "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-09T20:20:08Z"
     },
     {
       "source": "MIT Technology Review",
@@ -152,26 +202,6 @@
       "published": "2026-11-09T13:00:00Z"
     },
     {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "CodeRabbit scales agentic software development and ships 20x more",
-      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-      "link": "https://openai.com/index/coderabbit-codex-daybreak",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-09T08:00:00Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Kuken Industries searches 70 years of drawings in minutes",
-      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
-      "link": "https://openai.com/index/kuken",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-09T08:00:00Z"
-    },
-    {
       "source": "BBC Global News",
       "kind": "news",
       "title": "Nvidia investigates CEO's affair with suspected Chinese spy",
@@ -222,16 +252,6 @@
       "published": "2026-11-07T04:19:00Z"
     },
     {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "Tech stocks tank over AI panic",
-      "summary": "Investors dump tech shares over fears of slowdown in AI development following the sweeping Democrat victory in the US midterm elections. Markets in Asia suffer sharp losses. Japan’s Nikkei index and South Korea’s Kospi closed 6% down on Fr…",
-      "link": "http://www.bbc.co.uk/programmes/p0plnyvn",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plnwcw.mp3",
-      "duration": 25,
-      "published": "2026-11-06T16:06:00Z"
-    },
-    {
       "source": "MIT Technology Review",
       "kind": "ai",
       "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
@@ -240,26 +260,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-06T10:00:00Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-      "link": "https://openai.com/index/partnering-with-hacktron",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-06T08:00:00Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-      "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-06T00:00:00Z"
     },
     {
       "source": "Practical AI",
