@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T06:35:29.734326Z",
+  "updated_at": "2026-11-11T19:40:15.723151Z",
   "items": [
     {
       "source": "OpenAI News",
@@ -10,6 +10,96 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-12T00:00:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+      "summary": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public. It is not known if the incidents are linked.",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-11T18:38:45Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Missing 11-month-old baby found buried alive in a crate in South Carolina",
+      "summary": "Officials say the child was found close to his father's home on Tuesday, a day after he was taken, and is being cared for in hospital.",
+      "link": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-11T18:10:57Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+      "summary": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
+      "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-11T18:04:58Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Spain sees widespread disruption in first general strike for 14 years",
+      "summary": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-11T17:44:32Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+      "summary": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
+      "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-11T16:45:11Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
+      "summary": "The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-11T16:38:07Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "Russia-Ukraine talks: Prisoner release agreed",
+      "summary": "Russia and Ukraine agree to a large prisoner exchange during trilateral talks mediated by the US, but significant differences remain to achieve a peace deal. Kyiv says a ceasefire must come before any discussions on territory, while Moscow…",
+      "link": "http://www.bbc.co.uk/programmes/p0pmgsdd",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmgrp4.mp3",
+      "duration": 27,
+      "published": "2026-11-11T16:24:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
+      "summary": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy.",
+      "link": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-11T14:56:11Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
+      "summary": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
+      "link": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-11T13:24:29Z"
     },
     {
       "source": "OpenAI News",
@@ -32,84 +122,14 @@
       "published": "2026-11-11T05:27:00Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
-      "summary": "Nine members of the political dynasty say the 250ft structure would cast a shadow on gravesites.",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss",
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+      "link": "https://openai.com/index/jiostar-vijay-seshadri",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-11T03:44:06Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-      "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
-      "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-11T03:26:42Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
-      "summary": "The infamous 400 Mawozo gang was targeted by the El Salvador military which has deployed thousands of troops to combat Haiti's gang violence crisis.",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-11T02:47:59Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
-      "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
-      "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-11T02:41:16Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-      "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
-      "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-11T01:01:20Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
-      "summary": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
-      "link": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-11T00:18:07Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "US Army soldier suspected of spying for Russia arrested in UK",
-      "summary": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
-      "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-10T20:20:04Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
-      "summary": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
-      "link": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-10T18:04:18Z"
+      "published": "2026-11-11T00:00:00Z"
     },
     {
       "source": "BBC Global News",
@@ -150,16 +170,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-10T09:00:00Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Work at the Frontier: AI’s effect on freelance work",
-      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-      "link": "https://openai.com/index/ai-effect-on-freelance-work",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-10T07:00:00Z"
     },
     {
       "source": "BBC Global News",
@@ -240,16 +250,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plw70f.mp3",
       "duration": 28,
       "published": "2026-11-08T04:44:00Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "The Happy Pod: Celebrating the wedding that never happened",
-      "summary": "When Bridget's relationship fell apart, she turned to the internet with a proposal: come to Northern Ireland and celebrate the wedding that never happened. What followed was a story that has resonated worldwide as 11 strangers answered the…",
-      "link": "http://www.bbc.co.uk/programmes/p0plplrh",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plpklc.mp3",
-      "duration": 26,
-      "published": "2026-11-07T12:00:00Z"
     },
     {
       "source": "MIT Technology Review",
