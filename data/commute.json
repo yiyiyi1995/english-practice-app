@@ -1,15 +1,105 @@
 {
-  "updated_at": "2026-11-10T19:48:09.997086Z",
+  "updated_at": "2026-11-11T06:35:29.734326Z",
   "items": [
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-12T00:00:00Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "link": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-11T08:00:00Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "US soldier arrested in UK on suspicion of spying for Russia",
+      "summary": "A senior American soldier is in custody at a London police station after being arrested on suspicion of spying for Russia. The 41-year-old man was held during a counter-terrorism operation involving the US military and the FBI, and is unde…",
+      "link": "http://www.bbc.co.uk/programmes/p0pmcskb",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmcsh6.mp3",
+      "duration": 27,
+      "published": "2026-11-11T05:27:00Z"
+    },
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
-      "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
-      "link": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
+      "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
+      "summary": "Nine members of the political dynasty say the 250ft structure would cast a shadow on gravesites.",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-10T18:33:51Z"
+      "published": "2026-11-11T03:44:06Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+      "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-11T03:26:42Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
+      "summary": "The infamous 400 Mawozo gang was targeted by the El Salvador military which has deployed thousands of troops to combat Haiti's gang violence crisis.",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-11T02:47:59Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+      "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+      "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-11T02:41:16Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+      "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-11T01:01:20Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+      "summary": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
+      "link": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-11T00:18:07Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "US Army soldier suspected of spying for Russia arrested in UK",
+      "summary": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
+      "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-10T20:20:04Z"
     },
     {
       "source": "BBC World",
@@ -22,46 +112,6 @@
       "published": "2026-11-10T18:04:18Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "US federal authorities could have prevented Epstein crimes, report finds",
-      "summary": "The report by a Republican-led congressional committee follows a 15-month investigation into the handling of the late disgraced financier's case.",
-      "link": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-10T17:59:02Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "First day of Ukraine peace talks constructive, Zelensky says",
-      "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
-      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-10T17:29:36Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Israel's new parliament sworn in as leaders compete to form government",
-      "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
-      "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-10T17:03:16Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Twelve dead after motorway pile-ups in Bulgaria fog",
-      "summary": "About 50 other people were injured in the pile-ups along a section of the Trakia motorway, officials have said.",
-      "link": "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-10T16:07:51Z"
-    },
-    {
       "source": "BBC Global News",
       "kind": "news",
       "title": "How US model agencies helped Epstein access victims",
@@ -70,26 +120,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pm9s2k.mp3",
       "duration": 29,
       "published": "2026-11-10T15:47:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
-      "summary": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
-      "link": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-10T15:21:18Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "French wartime resistance heroine Solange Alexandre dies aged 104",
-      "summary": "With 30 men under her orders, she organised sabotage operations, sheltered Allied airmen and joined the fight against the occupying German forces.",
-      "link": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-10T13:23:54Z"
     },
     {
       "source": "OpenAI News",
@@ -152,16 +182,6 @@
       "published": "2026-11-09T19:35:33Z"
     },
     {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-      "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-09T19:00:00Z"
-    },
-    {
       "source": "MIT Technology Review",
       "kind": "ai",
       "title": "Nancy Pelosi’s replacement is ready to regulate AI",
@@ -187,16 +207,6 @@
       "title": "Innovating with AI in the special chemicals industry",
       "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of br…",
       "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-09T13:00:00Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-      "link": "https://openai.com/index/control-room",
       "audio": "",
       "duration": 0,
       "published": "2026-11-09T13:00:00Z"
@@ -240,16 +250,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plpklc.mp3",
       "duration": 26,
       "published": "2026-11-07T12:00:00Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "Trump appoints new chief of staff after midterm defeat",
-      "summary": "Donald Trump names the immigration hardliner, Stephen Miller, as the new White House chief of staff after the Republican Party's historic losses in the US midterm elections. Mr Miller's appointment to one of the most powerful positions in…",
-      "link": "http://www.bbc.co.uk/programmes/p0plrs2j",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plrs0b.mp3",
-      "duration": 27,
-      "published": "2026-11-07T04:19:00Z"
     },
     {
       "source": "MIT Technology Review",
