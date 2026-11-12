@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-11-11T19:40:15.723151Z",
+  "updated_at": "2026-11-12T07:19:33.332094Z",
   "items": [
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
+      "summary": "The strike hit the surgery department of Nasser Hospital, injuring at least 20 people and causing extensive damage, a spokesperson says.",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-12T06:12:05Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
+      "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
+      "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-12T05:59:18Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "Democrat Scott Colom wins Mississippi in historic victory",
+      "summary": "Democrat Scott Colom has won the Mississippi senate race in a shock midterms victory. He will become the state's first Democratic senator in four decades. Exit polls showed Mr Colom benefitted from surging support among black and young vot…",
+      "link": "http://www.bbc.co.uk/programmes/p0pmjmtq",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmjmlw.mp3",
+      "duration": 29,
+      "published": "2026-11-12T05:19:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "New York building collapse kills at least two, officials say",
+      "summary": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
+      "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-12T05:12:56Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+      "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+      "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-12T04:00:30Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Australian teen missing in bush for six days rescued alive",
+      "summary": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
+      "link": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-12T02:40:18Z"
+    },
     {
       "source": "OpenAI News",
       "kind": "ai",
@@ -14,22 +74,12 @@
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-      "summary": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public. It is not known if the incidents are linked.",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+      "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-11T18:38:45Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Missing 11-month-old baby found buried alive in a crate in South Carolina",
-      "summary": "Officials say the child was found close to his father's home on Tuesday, a day after he was taken, and is being cared for in hospital.",
-      "link": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-11T18:10:57Z"
+      "published": "2026-11-11T22:07:37Z"
     },
     {
       "source": "BBC World",
@@ -40,36 +90,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-11T18:04:58Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Spain sees widespread disruption in first general strike for 14 years",
-      "summary": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-11T17:44:32Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-      "summary": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
-      "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-11T16:45:11Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
-      "summary": "The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-11T16:38:07Z"
     },
     {
       "source": "BBC Global News",
@@ -90,16 +110,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-11T14:56:11Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
-      "summary": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
-      "link": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-11T13:24:29Z"
     },
     {
       "source": "OpenAI News",
@@ -240,16 +250,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pllbml.mp3",
       "duration": 28,
       "published": "2026-11-08T20:00:00Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "Poland in shock as six killed in shooting",
-      "summary": "Poland has begun two days of mourning after a gunman opened fire on the main square in the city of Krakow, killing six and injuring 15 others; three more bodies were found at the suspect's home. The authorities say he used military weapons…",
-      "link": "http://www.bbc.co.uk/programmes/p0plw73g",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plw70f.mp3",
-      "duration": 28,
-      "published": "2026-11-08T04:44:00Z"
     },
     {
       "source": "MIT Technology Review",
