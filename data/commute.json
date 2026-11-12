@@ -1,25 +1,115 @@
 {
-  "updated_at": "2026-11-12T07:19:33.332094Z",
+  "updated_at": "2026-11-12T20:00:09.878391Z",
   "items": [
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
-      "summary": "The strike hit the surgery department of Nasser Hospital, injuring at least 20 people and causing extensive damage, a spokesperson says.",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+      "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
+      "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-12T06:12:05Z"
+      "published": "2026-11-12T19:23:02Z"
     },
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
-      "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
-      "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+      "summary": "Specialist Thomas Iglesias was given a Joint Service Commendation Medal for the execution of his duties after Wednesday's incident.",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-12T05:59:18Z"
+      "published": "2026-11-12T18:47:35Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+      "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
+      "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-12T18:28:59Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-12T16:54:12Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "Nvidia CEO Jensen Huang resigns",
+      "summary": "Nvidia's chief financial officer, Colette Kress, will take over as interim CEO following Jensen Huang's departure. Shares in the company plummeted as US markets opened. It comes days after Huang admitted to an affair with a suspected Chine…",
+      "link": "http://www.bbc.co.uk/programmes/p0pmn84n",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmn5x9.mp3",
+      "duration": 29,
+      "published": "2026-11-12T16:07:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
+      "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
+      "link": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-12T15:18:20Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+      "summary": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
+      "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-12T13:02:46Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+      "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
+      "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-12T12:56:55Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Five new miniature frog species found in eastern Himalayas",
+      "summary": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape.",
+      "link": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-12T11:07:19Z"
+    },
+    {
+      "source": "BBC 6 Minute English",
+      "kind": "learning",
+      "title": "Learning from different generations",
+      "summary": "When you were younger, did you have a special bond with your grandparents? Many of us develop particularly close attachments with older family members, but did you know that this ability for the oldest and youngest of our society to get al…",
+      "link": "http://www.bbc.co.uk/programmes/p0pmkr5c",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmkqml.mp3",
+      "duration": 7,
+      "published": "2026-11-12T09:59:00Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-12T09:30:00Z"
     },
     {
       "source": "BBC Global News",
@@ -32,34 +122,14 @@
       "published": "2026-11-12T05:19:00Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "New York building collapse kills at least two, officials say",
-      "summary": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
-      "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Supporting research on AI and children’s safety",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "link": "https://openai.com/index/children-first-declaration",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-12T05:12:56Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-      "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
-      "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-12T04:00:30Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Australian teen missing in bush for six days rescued alive",
-      "summary": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
-      "link": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-12T02:40:18Z"
+      "published": "2026-11-12T00:00:00Z"
     },
     {
       "source": "OpenAI News",
@@ -72,26 +142,6 @@
       "published": "2026-11-12T00:00:00Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-      "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-11T22:07:37Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-      "summary": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
-      "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-11T18:04:58Z"
-    },
-    {
       "source": "BBC Global News",
       "kind": "news",
       "title": "Russia-Ukraine talks: Prisoner release agreed",
@@ -100,16 +150,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmgrp4.mp3",
       "duration": 27,
       "published": "2026-11-11T16:24:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
-      "summary": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy.",
-      "link": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-11T14:56:11Z"
     },
     {
       "source": "OpenAI News",
@@ -160,26 +200,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-10T12:00:00Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Introducing Businesses in ChatGPT",
-      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "link": "https://openai.com/index/introducing-businesses-chatgpt",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-10T10:00:00Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Closing the AI guidance gap in education",
-      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-      "link": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-10T09:00:00Z"
     },
     {
       "source": "BBC Global News",
@@ -240,16 +260,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plzjbf.mp3",
       "duration": 28,
       "published": "2026-11-09T05:32:00Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "The Global Story: They fled Russia. The US sent them back",
-      "summary": "After Russia invaded Ukraine in 2022, many Russians who opposed the war – or feared being sent to fight in it – fled the country. In much of the West, they were welcomed as courageous dissidents. But four years on, the number of Russians b…",
-      "link": "http://www.bbc.co.uk/programmes/p0pllbwj",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pllbml.mp3",
-      "duration": 28,
-      "published": "2026-11-08T20:00:00Z"
     },
     {
       "source": "MIT Technology Review",
@@ -450,16 +460,6 @@
       "audio": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/media.transistor.fm/66185604/d94b5158.mp3",
       "duration": 55,
       "published": "2026-09-17T09:00:00Z"
-    },
-    {
-      "source": "BBC 6 Minute English",
-      "kind": "learning",
-      "title": "Is rejection good for us?",
-      "summary": "How would you feel about going up to a stranger on the street and asking them for a cheeky favour? If the idea makes you nervous, then don't worry – you are not alone! But recently, some people have been filming themselves doing this, as p…",
-      "link": "http://www.bbc.co.uk/programmes/p0pb0rd0",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pb0qlf.mp3",
-      "duration": 6,
-      "published": "2026-09-17T08:34:00Z"
     }
   ]
 }
