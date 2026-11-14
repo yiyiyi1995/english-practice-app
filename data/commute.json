@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-11-14T06:34:13.270632Z",
+  "updated_at": "2026-11-14T18:11:58.224685Z",
   "items": [
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+      "summary": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-14T18:00:10Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Philippines wins first Eurovision Song Contest Asia",
+      "summary": "Front-runner Carmelle wins with 211 points for her women's empowerment anthem Sobra-Sobra.",
+      "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-14T17:56:59Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-14T17:16:36Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Italy fines Meta €805m over accessing users' photos",
+      "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+      "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-14T16:29:48Z"
+    },
     {
       "source": "BBC World",
       "kind": "news",
@@ -9,7 +49,47 @@
       "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-14T05:52:31Z"
+      "published": "2026-11-14T15:53:55Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-14T15:15:57Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "What we know about the ground stop and what to do if you're affected",
+      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-14T14:20:57Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Second catch attempt for SpaceX Starship rocket",
+      "summary": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
+      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-14T14:18:41Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "The Happy Pod: I've put women on the map with Antarctic record",
+      "summary": "Before taking on Antarctica's 160 kilometre ultramarathon, Stephanie Case said she wanted to show her daughter what mothers can achieve even in the toughest places on Earth. The Canadian ultra-runner has now made history, becoming the firs…",
+      "link": "http://www.bbc.co.uk/programmes/p0pmw5pp",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmvz62.mp3",
+      "duration": 27,
+      "published": "2026-11-14T12:00:00Z"
     },
     {
       "source": "BBC Global News",
@@ -22,66 +102,6 @@
       "published": "2026-11-14T04:41:00Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "What we know about the longest ground stop since 9/11",
-      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage.",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-14T03:45:21Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Setback for SpaceX Starship rocket's double-catch test",
-      "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
-      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-14T00:01:01Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-      "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
-      "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-13T23:40:45Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
-      "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-13T21:14:22Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-      "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-13T19:53:57Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "The Peruvian city that has embraced Pope Leo as one of its own",
-      "summary": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
-      "link": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-13T18:34:45Z"
-    },
-    {
       "source": "Practical AI",
       "kind": "ai",
       "title": "Implementing Federated Learning to enhance Agentic AI",
@@ -92,20 +112,10 @@
       "published": "2026-11-13T17:59:46Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-      "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
-      "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-13T16:40:31Z"
-    },
-    {
       "source": "BBC Global News",
       "kind": "news",
       "title": "Microsoft outage: Millions affected in over 70 countries",
-      "summary": "A global Microsoft outage hits schools, doctors and businesses. The tech giant is scrambling the fix the issue - but with so many of us relying on its products such as Outlook and Teams, it has prompted a conversation about how reliant we…",
+      "summary": "A global Microsoft outage hits schools, doctors and businesses. The tech giant is scrambling to fix the issue - but with so many of us relying on its products such as Outlook and Teams, it has prompted a conversation about how reliant we a…",
       "link": "http://www.bbc.co.uk/programmes/p0pmwsp6",
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmwqby.mp3",
       "duration": 23,
@@ -240,16 +250,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmcsh6.mp3",
       "duration": 27,
       "published": "2026-11-11T05:27:00Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "How US model agencies helped Epstein access victims",
-      "summary": "A BBC investigation uncovers new evidence about how model agencies, scouts and powerful fashion figures helped Jeffrey Epstein gain access to young women after his conviction for sex offences. A woman raped by the financier says the presid…",
-      "link": "http://www.bbc.co.uk/programmes/p0pm9szt",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pm9s2k.mp3",
-      "duration": 29,
-      "published": "2026-11-10T15:47:00Z"
     },
     {
       "source": "MIT Technology Review",
