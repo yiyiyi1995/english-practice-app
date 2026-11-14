@@ -1,25 +1,75 @@
 {
-  "updated_at": "2026-11-13T19:48:17.309839Z",
+  "updated_at": "2026-11-14T06:34:13.270632Z",
   "items": [
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Democratic Senate leader Schumer set to face leadership challenge",
-      "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+      "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-13T19:03:10Z"
+      "published": "2026-11-14T05:52:31Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "US airspace reopens after flights grounded for several hours",
+      "summary": "On Friday, the US made the rare decision to ground flights nationwide, leaving tens of thousands of people stranded. An overloaded air traffic control system triggered communications failures across the country. The White House says there'…",
+      "link": "http://www.bbc.co.uk/programmes/p0pmzyrg",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmzy3x.mp3",
+      "duration": 28,
+      "published": "2026-11-14T04:41:00Z"
     },
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-      "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "title": "What we know about the longest ground stop since 9/11",
+      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage.",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-13T18:36:57Z"
+      "published": "2026-11-14T03:45:21Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Setback for SpaceX Starship rocket's double-catch test",
+      "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
+      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-14T00:01:01Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+      "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+      "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-13T23:40:45Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
+      "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-13T21:14:22Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+      "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-13T19:53:57Z"
     },
     {
       "source": "BBC World",
@@ -62,26 +112,6 @@
       "published": "2026-11-13T15:51:00Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
-      "summary": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
-      "link": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-13T15:42:52Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-      "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-13T15:40:08Z"
-    },
-    {
       "source": "OpenAI News",
       "kind": "ai",
       "title": "Introducing ChatGPT Wallet",
@@ -92,24 +122,14 @@
       "published": "2026-11-13T15:00:00Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
-      "summary": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime minister Mykola Azarov.",
-      "link": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "link": "https://openai.com/business/customer-stories/shield",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-13T13:11:23Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
-      "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
-      "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-13T11:43:27Z"
+      "published": "2026-11-13T08:00:00Z"
     },
     {
       "source": "BBC Global News",
@@ -202,16 +222,6 @@
       "published": "2026-11-12T00:00:00Z"
     },
     {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-      "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-12T00:00:00Z"
-    },
-    {
       "source": "BBC Global News",
       "kind": "news",
       "title": "Russia-Ukraine talks: Prisoner release agreed",
@@ -240,16 +250,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pm9s2k.mp3",
       "duration": 29,
       "published": "2026-11-10T15:47:00Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "Trump backs Hegseth as he faces impeachment push",
-      "summary": "President Trump has said the resumption of US strikes against Iran is \"quite unlikely and unnecessary\". He expressed support for his defence secretary, Pete Hegseth, after a Republican Congressman, Thomas Massie, introduced articles of imp…",
-      "link": "http://www.bbc.co.uk/programmes/p0pm6qtr",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pm6qfc.mp3",
-      "duration": 27,
-      "published": "2026-11-10T05:19:00Z"
     },
     {
       "source": "MIT Technology Review",
