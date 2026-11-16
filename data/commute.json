@@ -1,6 +1,186 @@
 {
-  "updated_at": "2026-11-16T06:40:31.185329Z",
+  "updated_at": "2026-11-16T22:12:55.562054Z",
   "items": [
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+      "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-16T21:40:07Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
+      "summary": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
+      "link": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-16T20:33:57Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
+      "summary": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
+      "link": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-16T19:30:30Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+      "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-16T19:16:52Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "kind": "ai",
+      "title": "The open-source movement wants Jensen Huang back",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, a…",
+      "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-16T18:38:47Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "When will we see Robert Pattinson as Bond in cinemas?",
+      "summary": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007.",
+      "link": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-16T17:18:54Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Broadening access to AI for scientists",
+      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-16T17:00:00Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+      "link": "https://openai.com/index/strengthening-online-child-safety",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-16T17:00:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Five EU countries announce migrant deportation centre in Rwanda",
+      "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+      "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-16T16:27:24Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "Crimea Kerch Bridge hit in a huge Ukrainian drone attack",
+      "summary": "The Russian defence ministry says a record number of drones were fired from Ukraine overnight and more than 1300 were brought down by its air defences. An oil refinery in the Krasnodar region was targeted and there was damage to the Kerch…",
+      "link": "http://www.bbc.co.uk/programmes/p0pn98q4",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pn97sf.mp3",
+      "duration": 26,
+      "published": "2026-11-16T16:25:00Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "kind": "ai",
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
+      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring int…",
+      "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-16T16:04:28Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+      "summary": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
+      "link": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-16T14:58:12Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "kind": "ai",
+      "title": "Building AI that can work across the enterprise",
+      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots t…",
+      "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-16T13:00:00Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+      "link": "https://openai.com/index/science-at-the-frontier",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-16T12:00:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Two mass shootings in South Africa leave 17 dead",
+      "summary": "The shootings in KwaZulu-Natal and Gauteng highlight South Africa's struggle to curb violent crime.",
+      "link": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-16T10:57:48Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "link": "https://openai.com/index/lvmh-media-division-partnership",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-16T09:00:00Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Our first phase of embedded assessments",
+      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+      "link": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-16T08:00:00Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "summary": "",
+      "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-16T06:00:00Z"
+    },
     {
       "source": "BBC Global News",
       "kind": "news",
@@ -12,96 +192,6 @@
       "published": "2026-11-16T05:48:00Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Wife of assassinated ex-Haitian leader registers for presidential election",
-      "summary": "There has not been an election in Haiti since before the death of Jovenel Moise in 2021.",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy83432q1jo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-16T05:06:59Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
-      "summary": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
-      "link": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-16T03:21:56Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
-      "summary": "The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago.",
-      "link": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-16T03:09:49Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
-      "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-16T03:08:31Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-16T01:47:57Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Canada bars Russia from Junior World Championships",
-      "summary": "Canada says it will not allow Russian athletes to compete in the Junior Ice Hockey World Championships because of the war in Ukraine.",
-      "link": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-15T22:01:16Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
-      "summary": "He has been showing support for injured veterans in Ukraine and praising the country's resilience.",
-      "link": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-15T22:00:13Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "A step toward defining the Standard Model on a lattice",
-      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-      "link": "https://openai.com/index/step-toward-defining-the-standard-model",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-15T22:00:01Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Our new blog for science",
-      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-      "link": "https://openai.com/index/our-new-blog-for-science",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-15T22:00:00Z"
-    },
-    {
       "source": "BBC Global News",
       "kind": "news",
       "title": "The Global Story: How North Korea pulled off a $6bn heist",
@@ -110,16 +200,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmv7s7.mp3",
       "duration": 27,
       "published": "2026-11-15T20:00:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-      "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
-      "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-15T19:32:39Z"
     },
     {
       "source": "BBC Global News",
@@ -172,26 +252,6 @@
       "published": "2026-11-13T15:51:00Z"
     },
     {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Introducing ChatGPT Wallet",
-      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-      "link": "https://openai.com/index/introducing-chatgpt-wallet",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-13T15:00:00Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-      "link": "https://openai.com/business/customer-stories/shield",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-13T08:00:00Z"
-    },
-    {
       "source": "BBC Global News",
       "kind": "news",
       "title": "Putin lets Europe join Ukraine peace talks",
@@ -210,36 +270,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-12T20:16:24Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-      "link": "https://openai.com/business/customer-stories/amplitude",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-12T20:00:00Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "Nvidia CEO Jensen Huang resigns",
-      "summary": "Nvidia's chief financial officer, Colette Kress, will take over as interim CEO following Jensen Huang's departure. Shares in the company plummeted as US markets opened. It comes days after Huang admitted to an affair with a suspected Chine…",
-      "link": "http://www.bbc.co.uk/programmes/p0pmn84n",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmn5x9.mp3",
-      "duration": 29,
-      "published": "2026-11-12T16:07:00Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Gondola doubles revenue as its team builds more with Codex",
-      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-      "link": "https://openai.com/business/customer-stories/gondola",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-12T12:00:00Z"
     },
     {
       "source": "BBC 6 Minute English",
@@ -310,36 +340,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pldlfg.mp3",
       "duration": 7,
       "published": "2026-11-05T09:36:00Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "kind": "ai",
-      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat ag…",
-      "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-04T18:50:55Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "kind": "ai",
-      "title": "Securing the agentic enterprise with data lineage",
-      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second age…",
-      "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-04T13:00:00Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "kind": "ai",
-      "title": "How “reverse game theory” could keep AI agents in check",
-      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “alig…",
-      "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-03T10:43:41Z"
     },
     {
       "source": "BBC 6 Minute English",
