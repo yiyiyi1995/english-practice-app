@@ -1,35 +1,55 @@
 {
-  "updated_at": "2026-11-15T18:55:22.777788Z",
+  "updated_at": "2026-11-16T06:40:31.185329Z",
   "items": [
     {
-      "source": "BBC World",
+      "source": "BBC Global News",
       "kind": "news",
-      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-      "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
-      "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-15T18:08:20Z"
+      "title": "Government forces retreat in Yemen",
+      "summary": "Yemen's Saudi-backed government has been redeploying its forces to protect its temporary capital, Aden, after advances by the Houthi movement which is backed by Iran. They've withdrawn from an area overlooking the strategic Bab al-Mandeb S…",
+      "link": "http://www.bbc.co.uk/programmes/p0pn65z8",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pn65f7.mp3",
+      "duration": 32,
+      "published": "2026-11-16T05:48:00Z"
     },
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Czechs rally against plan to switch funding of public media",
-      "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
-      "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+      "title": "Wife of assassinated ex-Haitian leader registers for presidential election",
+      "summary": "There has not been an election in Haiti since before the death of Jovenel Moise in 2021.",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy83432q1jo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-15T17:23:40Z"
+      "published": "2026-11-16T05:06:59Z"
     },
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
-      "summary": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course.",
-      "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+      "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+      "summary": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
+      "link": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-15T15:57:03Z"
+      "published": "2026-11-16T03:21:56Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+      "summary": "The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago.",
+      "link": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-16T03:09:49Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+      "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-16T03:08:31Z"
     },
     {
       "source": "BBC World",
@@ -39,47 +59,67 @@
       "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-15T14:56:21Z"
+      "published": "2026-11-16T01:47:57Z"
     },
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Iran targets US military base in Bahrain with drone attack",
-      "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
-      "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+      "title": "Canada bars Russia from Junior World Championships",
+      "summary": "Canada says it will not allow Russian athletes to compete in the Junior Ice Hockey World Championships because of the war in Ukraine.",
+      "link": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-15T13:42:58Z"
+      "published": "2026-11-15T22:01:16Z"
     },
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-      "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
-      "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+      "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+      "summary": "He has been showing support for injured veterans in Ukraine and praising the country's resilience.",
+      "link": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-15T13:37:45Z"
+      "published": "2026-11-15T22:00:13Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+      "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-15T22:00:01Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Our new blog for science",
+      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "link": "https://openai.com/index/our-new-blog-for-science",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-15T22:00:00Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "The Global Story: How North Korea pulled off a $6bn heist",
+      "summary": "Last week saw what could be the biggest heist in history: $6.3bn was stolen from the cryptocurrency exchange Binance. North Korean hackers are suspected of being behind the attack, which saw billions of dollars disappear in just 20 minutes…",
+      "link": "http://www.bbc.co.uk/programmes/p0pmv9b1",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmv7s7.mp3",
+      "duration": 27,
+      "published": "2026-11-15T20:00:00Z"
     },
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
-      "summary": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
-      "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
+      "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-15T11:06:32Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-      "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
-      "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-15T08:17:41Z"
+      "published": "2026-11-15T19:32:39Z"
     },
     {
       "source": "BBC Global News",
@@ -210,46 +250,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmkqml.mp3",
       "duration": 7,
       "published": "2026-11-12T09:59:00Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Holiday Extras is rethinking what it can build with Codex",
-      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-      "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-12T09:30:00Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "Democrat Scott Colom wins Mississippi in historic victory",
-      "summary": "Democrat Scott Colom has won the Mississippi senate race in a shock midterms victory. He will become the state's first Democratic senator in four decades. Exit polls showed Mr Colom benefitted from surging support among black and young vot…",
-      "link": "http://www.bbc.co.uk/programmes/p0pmjmtq",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmjmlw.mp3",
-      "duration": 29,
-      "published": "2026-11-12T05:19:00Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Supporting research on AI and children’s safety",
-      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
-      "link": "https://openai.com/index/children-first-declaration",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-12T00:00:00Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "Russia-Ukraine talks: Prisoner release agreed",
-      "summary": "Russia and Ukraine agree to a large prisoner exchange during trilateral talks mediated by the US, but significant differences remain to achieve a peace deal. Kyiv says a ceasefire must come before any discussions on territory, while Moscow…",
-      "link": "http://www.bbc.co.uk/programmes/p0pmgsdd",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmgrp4.mp3",
-      "duration": 27,
-      "published": "2026-11-11T16:24:00Z"
     },
     {
       "source": "MIT Technology Review",
