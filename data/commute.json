@@ -1,15 +1,85 @@
 {
-  "updated_at": "2026-11-16T22:12:55.562054Z",
+  "updated_at": "2026-11-17T08:00:26.322567Z",
   "items": [
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
-      "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+      "title": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
+      "summary": "The bridge linking Crimea and Russia has reportedly sustained major damage, while two routes through Kyiv are closed.",
+      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-16T21:40:07Z"
+      "published": "2026-11-17T07:55:32Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+      "summary": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
+      "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-17T05:59:01Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "OpenAI sued by California over rogue cyber attacks",
+      "summary": "The California Attorney General Rob Bonta is suing OpenAI, alleging the ChatGPT maker misled the public and put people at risk by developing AI models without adequate safeguards. The lawsuit cites the July 2026 attack on the AI platform H…",
+      "link": "http://www.bbc.co.uk/programmes/p0pnc231",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnc1vp.mp3",
+      "duration": 29,
+      "published": "2026-11-17T05:35:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
+      "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-17T02:37:53Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
+      "summary": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.",
+      "link": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-17T01:26:01Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-17T00:00:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Five EU countries announce migrant deportation centre in Rwanda",
+      "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+      "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-16T23:20:45Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "OpenAI sued by California over Hugging Face attack",
+      "summary": "Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public.",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-16T23:12:24Z"
     },
     {
       "source": "BBC World",
@@ -32,16 +102,6 @@
       "published": "2026-11-16T19:30:30Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-      "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-16T19:16:52Z"
-    },
-    {
       "source": "MIT Technology Review",
       "kind": "ai",
       "title": "The open-source movement wants Jensen Huang back",
@@ -50,16 +110,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-16T18:38:47Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "When will we see Robert Pattinson as Bond in cinemas?",
-      "summary": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007.",
-      "link": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-16T17:18:54Z"
     },
     {
       "source": "OpenAI News",
@@ -82,16 +132,6 @@
       "published": "2026-11-16T17:00:00Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Five EU countries announce migrant deportation centre in Rwanda",
-      "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
-      "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-16T16:27:24Z"
-    },
-    {
       "source": "BBC Global News",
       "kind": "news",
       "title": "Crimea Kerch Bridge hit in a huge Ukrainian drone attack",
@@ -110,16 +150,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-16T16:04:28Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-      "summary": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
-      "link": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-16T14:58:12Z"
     },
     {
       "source": "MIT Technology Review",
@@ -142,14 +172,14 @@
       "published": "2026-11-16T12:00:00Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Two mass shootings in South Africa leave 17 dead",
-      "summary": "The shootings in KwaZulu-Natal and Gauteng highlight South Africa's struggle to curb violent crime.",
-      "link": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "How Revolut raises ambition without lowering the bar",
+      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+      "link": "https://openai.com/business/customer-stories/revolut",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-16T10:57:48Z"
+      "published": "2026-11-16T09:30:00Z"
     },
     {
       "source": "OpenAI News",
@@ -160,26 +190,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-16T09:00:00Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Our first phase of embedded assessments",
-      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-      "link": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-16T08:00:00Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Advancing computer-use agents for healthcare teams",
-      "summary": "",
-      "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-16T06:00:00Z"
     },
     {
       "source": "BBC Global News",
@@ -250,16 +260,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmwqby.mp3",
       "duration": 23,
       "published": "2026-11-13T15:51:00Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "Putin lets Europe join Ukraine peace talks",
-      "summary": "Ukraine's President Zelensky has welcomed efforts by Jared Kushner and Steve Witkoff, to secure European involvement at the next round of peace talks with Russia. He was speaking alongside the US envoys in Dublin, where they'd flown to bri…",
-      "link": "http://www.bbc.co.uk/programmes/p0pmr8st",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmr8dk.mp3",
-      "duration": 28,
-      "published": "2026-11-13T05:28:00Z"
     },
     {
       "source": "MIT Technology Review",
