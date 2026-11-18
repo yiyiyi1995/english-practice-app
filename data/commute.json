@@ -1,15 +1,65 @@
 {
-  "updated_at": "2026-11-17T21:00:43.545753Z",
+  "updated_at": "2026-11-18T07:37:19.097672Z",
   "items": [
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "Nvidia rules out return for disgraced boss",
+      "summary": "Jensen Huang fails in his bid to be re-hired as CEO of Nvidia after a scandal over his affair with an alleged Chinese spy. The US Securities and Exchange Commission is reportedly investigating whether the company misled investors. Nvidia h…",
+      "link": "http://www.bbc.co.uk/programmes/p0pnjy0q",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnjxxc.mp3",
+      "duration": 29,
+      "published": "2026-11-18T05:26:00Z"
+    },
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-      "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+      "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+      "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-17T20:44:54Z"
+      "published": "2026-11-18T01:18:18Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
+      "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
+      "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-17T22:44:15Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-17T21:24:35Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Russian military plane crashes, killing all 19 on board",
+      "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
+      "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-17T21:06:11Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "US loses measles elimination status after 26 years amid record case numbers",
+      "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
+      "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-17T21:04:00Z"
     },
     {
       "source": "BBC World",
@@ -22,16 +72,6 @@
       "published": "2026-11-17T20:30:20Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Russian military plane crashes killing all 19 on board",
-      "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
-      "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-17T20:25:27Z"
-    },
-    {
       "source": "BBC Global News",
       "kind": "news",
       "title": "Special episode: Trump, Putin and Xi meeting",
@@ -40,16 +80,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnhmvc.mp3",
       "duration": 36,
       "published": "2026-11-17T20:00:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-      "summary": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
-      "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-17T18:24:21Z"
     },
     {
       "source": "OpenAI News",
@@ -70,26 +100,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-17T17:19:57Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "US loses measles elimination status after 26 years amid record case numbers",
-      "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
-      "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-17T17:10:03Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
-      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-17T16:56:38Z"
     },
     {
       "source": "BBC Global News",
@@ -122,6 +132,16 @@
       "published": "2026-11-17T14:39:46Z"
     },
     {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Introducing ChatGPT for Sales",
+      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "link": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-17T08:00:00Z"
+    },
+    {
       "source": "BBC Global News",
       "kind": "news",
       "title": "OpenAI sued by California over rogue cyber attacks",
@@ -144,9 +164,9 @@
     {
       "source": "OpenAI News",
       "kind": "ai",
-      "title": "Introducing OpenAI for Chile",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "link": "https://openai.com/index/introducing-openai-for-chile",
+      "title": "Astra for Law leads in legal intelligence",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "link": "https://openai.com/index/astra-law-6-2",
       "audio": "",
       "duration": 0,
       "published": "2026-11-17T00:00:00Z"
@@ -154,9 +174,9 @@
     {
       "source": "OpenAI News",
       "kind": "ai",
-      "title": "Astra for Law leads in legal intelligence",
-      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-      "link": "https://openai.com/index/astra-law-6-2",
+      "title": "Introducing OpenAI for Chile",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "link": "https://openai.com/index/introducing-openai-for-chile",
       "audio": "",
       "duration": 0,
       "published": "2026-11-17T00:00:00Z"
@@ -177,16 +197,6 @@
       "title": "Broadening access to AI for scientists",
       "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
       "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-16T17:00:00Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-      "link": "https://openai.com/index/strengthening-online-child-safety",
       "audio": "",
       "duration": 0,
       "published": "2026-11-16T17:00:00Z"
@@ -250,16 +260,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pn353v.mp3",
       "duration": 31,
       "published": "2026-11-15T04:59:00Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "The Happy Pod: I've put women on the map with Antarctic record",
-      "summary": "Before taking on Antarctica's 160 kilometre ultramarathon, Stephanie Case said she wanted to show her daughter what mothers can achieve even in the toughest places on Earth. The Canadian ultra-runner has now made history, becoming the firs…",
-      "link": "http://www.bbc.co.uk/programmes/p0pmw5pp",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmvz62.mp3",
-      "duration": 27,
-      "published": "2026-11-14T12:00:00Z"
     },
     {
       "source": "Practical AI",
