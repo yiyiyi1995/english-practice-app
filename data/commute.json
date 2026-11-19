@@ -1,6 +1,76 @@
 {
-  "updated_at": "2026-11-18T20:38:03.445480Z",
+  "updated_at": "2026-11-19T07:33:10.370780Z",
   "items": [
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Crimean Bridge attacked again, Russia says",
+      "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
+      "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-19T07:32:06Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "BBC reports from Ukraine's undergound frontier",
+      "summary": "We go inside the old Soviet-era gas pipeline where Ukraine is fighting an underground war with Russia. The BBC is the first international broadcaster to enter the tunnels where this subterranean battle is taking place. Also: the AI giant A…",
+      "link": "http://www.bbc.co.uk/programmes/p0pnrndj",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnrnb6.mp3",
+      "duration": 27,
+      "published": "2026-11-19T05:19:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+      "summary": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
+      "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-19T04:42:52Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
+      "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+      "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-19T02:59:06Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "AI giant Anthropic valued at $1.5 trillion ahead of stock market debut",
+      "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
+      "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-19T02:20:15Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+      "summary": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
+      "link": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-19T00:49:19Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+      "summary": "No state has ever been found guilty by an international court of committing genocide.",
+      "link": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-18T23:04:06Z"
+    },
     {
       "source": "BBC World",
       "kind": "news",
@@ -9,27 +79,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-18T20:14:57Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "William and Kate meet PM Modi as they wrap up India tour",
-      "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize",
-      "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-18T20:07:08Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-      "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
-      "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-18T17:34:25Z"
+      "published": "2026-11-18T22:34:56Z"
     },
     {
       "source": "BBC World",
@@ -42,26 +92,6 @@
       "published": "2026-11-18T17:00:40Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-      "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
-      "link": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-18T17:00:04Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-      "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
-      "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-18T16:10:44Z"
-    },
-    {
       "source": "BBC Global News",
       "kind": "news",
       "title": "Trump, Xi and Putin meet in China",
@@ -70,16 +100,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnncvn.mp3",
       "duration": 27,
       "published": "2026-11-18T15:43:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
-      "summary": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018.",
-      "link": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-18T15:39:57Z"
     },
     {
       "source": "MIT Technology Review",
@@ -92,16 +112,6 @@
       "published": "2026-11-18T14:42:44Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
-      "summary": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday.",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-18T13:04:48Z"
-    },
-    {
       "source": "MIT Technology Review",
       "kind": "ai",
       "title": "This smell startup says its AI nose is as good as a human’s",
@@ -110,6 +120,36 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-18T10:20:30Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "The Silent Consensus",
+      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "link": "https://openai.com/index/the-silent-consensus",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-18T10:00:00Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Research acceleration: The jagged frontier",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-18T08:00:00Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "link": "https://openai.com/business/customer-stories/sumitomo-life",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-18T08:00:00Z"
     },
     {
       "source": "OpenAI News",
@@ -152,26 +192,6 @@
       "published": "2026-11-18T00:00:00Z"
     },
     {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Advancing chip design with OpenAI models",
-      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-      "link": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-18T00:00:00Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "The Silent Consensus",
-      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-      "link": "https://openai.com/index/the-silent-consensus",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-18T00:00:00Z"
-    },
-    {
       "source": "BBC Global News",
       "kind": "news",
       "title": "Special episode: Trump, Putin and Xi meeting",
@@ -180,16 +200,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnhmvc.mp3",
       "duration": 36,
       "published": "2026-11-17T20:00:00Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Introducing GPT-6.2 Astra and Sol",
-      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-17T17:45:00Z"
     },
     {
       "source": "BBC Global News",
@@ -270,16 +280,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pn65f7.mp3",
       "duration": 32,
       "published": "2026-11-16T05:48:00Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "The Global Story: How North Korea pulled off a $6bn heist",
-      "summary": "Last week saw what could be the biggest heist in history: $6.3bn was stolen from the cryptocurrency exchange Binance. North Korean hackers are suspected of being behind the attack, which saw billions of dollars disappear in just 20 minutes…",
-      "link": "http://www.bbc.co.uk/programmes/p0pmv9b1",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmv7s7.mp3",
-      "duration": 27,
-      "published": "2026-11-15T20:00:00Z"
     },
     {
       "source": "Practical AI",
