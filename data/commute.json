@@ -1,15 +1,115 @@
 {
-  "updated_at": "2026-11-19T07:33:10.370780Z",
+  "updated_at": "2026-11-19T20:43:25.860846Z",
   "items": [
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Crimean Bridge attacked again, Russia says",
-      "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
+      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+      "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+      "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-19T20:07:02Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-19T19:16:21Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+      "summary": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
+      "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-19T17:38:22Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Susan Smith denied parole again 32 years after drowning her two sons",
+      "summary": "At a hearing on the possibility of parole, Smith said she wished she could change the past, and her two children \"did not deserve to die\".",
+      "link": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-19T17:23:34Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "UN court says Myanmar committed genocide against Rohingyas",
+      "summary": "The International Court of Justice finds Myanmar guilty of genocide against its Rohingya Muslim minority. It's the first such ruling against a state by the court. The ICJ rejected Myanmar’s argument that it had responded to insurgent attac…",
+      "link": "http://www.bbc.co.uk/programmes/p0pnw5rb",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnw2mf.mp3",
+      "duration": 31,
+      "published": "2026-11-19T16:03:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
+      "summary": "At least four bodies have been recovered from the boat which was reportedly carrying between 50 and 100 people.",
+      "link": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-19T15:52:26Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
+      "summary": "The US Secretary of Defence says Venezuela has \"gone from our most aggressive regional threat to a compliant security partner\".",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-19T13:31:23Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+      "summary": "The bridge - a symbol of Russia's occupation of the Crimean Peninsula - suffered major damaged following a combined attack by Ukraine earlier this week.",
       "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-19T07:32:06Z"
+      "published": "2026-11-19T13:07:35Z"
+    },
+    {
+      "source": "BBC 6 Minute English",
+      "kind": "learning",
+      "title": "Are microplastics harming us?",
+      "summary": "How much plastic do you use on a daily basis? And how much of it is used to package or prepare food? Recently, scientists are becoming increasingly concerned that microplastics, tiny bits of plastic invisible to the naked eye, are entering…",
+      "link": "http://www.bbc.co.uk/programmes/p0pnt62q",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnsz8p.mp3",
+      "duration": 7,
+      "published": "2026-11-19T10:07:00Z"
+    },
+    {
+      "source": "Practical AI",
+      "kind": "ai",
+      "title": "Building Human-Centered AI",
+      "summary": "How can enterprises adopt AI and agentic systems while keeping people, business value, and trust at the center? Chris is joined by Dr. Gautham Pallapa, Principal Director of AI and Innovation at Scotiabank and author of Invaluable , to exp…",
+      "link": "https://share.transistor.fm/s/bb4dad17",
+      "audio": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/media.transistor.fm/bb4dad17/16dab0bd.mp3",
+      "duration": 45,
+      "published": "2026-11-19T10:00:00Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-19T08:00:00Z"
     },
     {
       "source": "BBC Global News",
@@ -24,72 +124,12 @@
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
-      "summary": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
-      "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-19T04:42:52Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
-      "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
-      "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-19T02:59:06Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "AI giant Anthropic valued at $1.5 trillion ahead of stock market debut",
-      "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
-      "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-19T02:20:15Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
       "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
       "summary": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
       "link": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
       "published": "2026-11-19T00:49:19Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
-      "summary": "No state has ever been found guilty by an international court of committing genocide.",
-      "link": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-18T23:04:06Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-      "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
-      "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-18T22:34:56Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-      "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
-      "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-18T17:00:40Z"
     },
     {
       "source": "BBC Global News",
@@ -134,9 +174,9 @@
     {
       "source": "OpenAI News",
       "kind": "ai",
-      "title": "Research acceleration: The jagged frontier",
-      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "link": "https://openai.com/business/customer-stories/sumitomo-life",
       "audio": "",
       "duration": 0,
       "published": "2026-11-18T08:00:00Z"
@@ -144,9 +184,9 @@
     {
       "source": "OpenAI News",
       "kind": "ai",
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-      "link": "https://openai.com/business/customer-stories/sumitomo-life",
+      "title": "Research acceleration: The jagged frontier",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
       "audio": "",
       "duration": 0,
       "published": "2026-11-18T08:00:00Z"
@@ -180,16 +220,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnjxxc.mp3",
       "duration": 29,
       "published": "2026-11-18T05:26:00Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-      "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-18T00:00:00Z"
     },
     {
       "source": "BBC Global News",
@@ -270,16 +300,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-16T13:00:00Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "Government forces retreat in Yemen",
-      "summary": "Yemen's Saudi-backed government has been redeploying its forces to protect its temporary capital, Aden, after advances by the Houthi movement which is backed by Iran. They've withdrawn from an area overlooking the strategic Bab al-Mandeb S…",
-      "link": "http://www.bbc.co.uk/programmes/p0pn65z8",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pn65f7.mp3",
-      "duration": 32,
-      "published": "2026-11-16T05:48:00Z"
     },
     {
       "source": "Practical AI",
@@ -440,26 +460,6 @@
       "audio": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/media.transistor.fm/217445d3/e1eb0b6a.mp3",
       "duration": 47,
       "published": "2026-10-01T09:00:00Z"
-    },
-    {
-      "source": "Practical AI",
-      "kind": "ai",
-      "title": "From AGENTS.md to Enterprise Deployment",
-      "summary": "AI agents are moving beyond laptops and prototypes and into enterprise environments where security, compliance, scalability, and reliability matter. Nick Kuhn from VMware Tanzu Platform joins Daniel and Chris to discuss what changes (and w…",
-      "link": "https://share.transistor.fm/s/74934e48",
-      "audio": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/media.transistor.fm/74934e48/4c629c07.mp3",
-      "duration": 49,
-      "published": "2026-09-24T09:00:00Z"
-    },
-    {
-      "source": "BBC 6 Minute English",
-      "kind": "learning",
-      "title": "Why do we itch?",
-      "summary": "Feeling itchy is unpleasant, and the feeling of finally scratching that itch can be very satisfying! But why do we feel itchy in the first place? And is it possible to catch an itch from someone else? Neil and Georgie discuss this and teac…",
-      "link": "http://www.bbc.co.uk/programmes/p0pc61lm",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pc618w.mp3",
-      "duration": 6,
-      "published": "2026-09-24T07:47:00Z"
     }
   ]
 }
