@@ -21,6 +21,12 @@ The upstream project states that its word lists are available under the MIT Lice
 
 To preserve the upstream attribution and share-alike requirements, the CEFR data files in this repository are distributed under CC BY-SA 4.0. The application source code remains licensed under the repository's MIT License.
 
+## Duolingo English Test public references
+
+The application paraphrases publicly available factual guidance from the Duolingo English Test official blog, including the November 17, 2026 article [How does the Duolingo English Test use AI to score speaking and writing?](https://blog.englishtest.duolingo.com/how-does-the-duolingo-english-test-use-ai-to-score-speaking-and-writing/).
+
+No official test questions, proprietary scoring models, or copied article content are bundled in this repository. Duolingo and Duolingo English Test are trademarks of their respective owner; this project is not affiliated with or endorsed by Duolingo.
+
 Changes made in this repository are limited to selecting and loading the data locally; the downloaded JSON records are otherwise preserved as provided by the upstream project.
 
 ## Commute feed metadata

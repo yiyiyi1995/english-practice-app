@@ -22,6 +22,7 @@
 
 - **28 天冲刺计划**：按日安排练习量，记录连续学习状态。
 - **专项训练**：包含单词辨认、完形填空、交互阅读、听力听写、口语表达和限时写作。
+- **官方评分要点**：专项题库页整理 DET 官方公开的口语与写作评分维度，并明确区分本站训练估分与官方自动评分。
 - **通勤听力**：聚合 BBC 国际新闻、BBC 6 Minute English、Practical AI 及 AI 行业文章，支持分类、时长筛选、倍速播放和播放进度记忆。
 - **6000 词备考词库**：从 9,441 条本地 A1–C2 数据中按备考优先级筛选，支持中英文搜索、分数段筛选、发音播放和本地收藏。
 - **FSRS 智能复习**：收藏词自动进入间隔复习队列，可按“忘记 / 困难 / 一般 / 简单”反馈记忆程度，并动态安排下次复习时间。
@@ -93,6 +94,7 @@ python3 -m http.server 8080
 - 题目为原创内容，题型参考数字化英语能力测试，难度约 B2–C1。
 - 模考总分 120，四项各 30 分。
 - 写作、口语采用本地启发式规则估分，仅用于训练反馈，不是官方成绩。
+- DET 口语与写作评分说明参考官方 2026-11-17 文章：[How does the Duolingo English Test use AI to score speaking and writing?](https://blog.englishtest.duolingo.com/how-does-the-duolingo-english-test-use-ai-to-score-speaking-and-writing/)。本站仅做事实性概括，不复制官方试题或受保护内容。
 - 本项目与 Duolingo 或 Duolingo English Test 官方无隶属、授权或背书关系。
 
 ## 开源许可证
