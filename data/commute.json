@@ -1,25 +1,75 @@
 {
-  "updated_at": "2026-11-21T07:17:20.977308Z",
+  "updated_at": "2026-11-21T19:22:25.353175Z",
   "items": [
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-      "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
-      "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-21T06:00:09Z"
+      "published": "2026-11-21T19:20:22Z"
     },
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-      "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship.",
-      "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-21T05:15:41Z"
+      "published": "2026-11-21T16:35:15Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-21T14:54:24Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-21T13:17:38Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-21T13:15:21Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "The Happy Pod: The 'amazing’ device that controls Tourette's",
+      "summary": "We meet 17-year-old Mylo who's taken part in a trial of the watch-like device that suppresses his Tourette's tics. He can even now go to the cinema without fear of causing a disturbance by constantly moving or clearing his throat. Also: th…",
+      "link": "http://www.bbc.co.uk/programmes/p0pp4d5y",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp4c96.mp3",
+      "duration": 26,
+      "published": "2026-11-21T12:00:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+      "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-21T10:26:36Z"
     },
     {
       "source": "BBC Global News",
@@ -30,36 +80,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp66mc.mp3",
       "duration": 24,
       "published": "2026-11-21T05:00:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Man convicted of starting Palisades fire in Los Angeles",
-      "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
-      "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-21T04:34:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
-      "summary": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
-      "link": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-21T00:01:39Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
-      "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-      "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-20T23:08:57Z"
     },
     {
       "source": "BBC World",
@@ -80,16 +100,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-20T22:37:09Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Gérard Depardieu and French author investigated over sexual allegations",
-      "summary": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
-      "link": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-20T19:45:20Z"
     },
     {
       "source": "MIT Technology Review",
@@ -260,16 +270,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnjxxc.mp3",
       "duration": 29,
       "published": "2026-11-18T05:26:00Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "Special episode: Trump, Putin and Xi meeting",
-      "summary": "This special episode of the Global News Podcast brings together our China specialist, our North America correspondent, and our Russia and Ukraine analyst, to discuss an unprecedented summit taking place this week. The US President Donald T…",
-      "link": "http://www.bbc.co.uk/programmes/p0pnhq1p",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnhmvc.mp3",
-      "duration": 36,
-      "published": "2026-11-17T20:00:00Z"
     },
     {
       "source": "MIT Technology Review",
