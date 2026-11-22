@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-11-21T19:22:25.353175Z",
+  "updated_at": "2026-11-22T06:58:17.673549Z",
   "items": [
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "New draft deal aims to avert collapse of talks at climate summit",
+      "summary": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
+      "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-22T06:54:06Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Dozens missing after fire at Indonesian factory",
+      "summary": "At least three people were killed and four injured in a fire at a confectionary factory over the weekend.",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-22T06:05:00Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "Deadlock at UN climate summit in Turkey",
+      "summary": "The COP31 summit has gone into a second day of overtime after talks were suspended for the night. There is no agreement in sight with the European Union and Pacific Island nations threatening to walk away without agreeing to a deal because…",
+      "link": "http://www.bbc.co.uk/programmes/p0pp9hxv",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp9hr7.mp3",
+      "duration": 28,
+      "published": "2026-11-22T04:48:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-22T01:25:03Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-22T00:10:44Z"
+    },
     {
       "source": "BBC World",
       "kind": "news",
@@ -14,42 +64,12 @@
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-      "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-21T16:35:15Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-21T14:54:24Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
       "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
       "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
       "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
       "published": "2026-11-21T13:17:38Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-      "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-21T13:15:21Z"
     },
     {
       "source": "BBC Global News",
@@ -84,22 +104,12 @@
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-      "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "title": "Man convicted of starting Palisades fire in Los Angeles",
+      "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
+      "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-20T22:42:47Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "French police officers sentenced for beating of music producer Michel Zecler",
-      "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
-      "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-20T22:37:09Z"
+      "published": "2026-11-21T04:34:00Z"
     },
     {
       "source": "MIT Technology Review",
@@ -260,16 +270,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-18T10:20:30Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "Nvidia rules out return for disgraced boss",
-      "summary": "Jensen Huang fails in his bid to be re-hired as CEO of Nvidia after a scandal over his affair with an alleged Chinese spy. The US Securities and Exchange Commission is reportedly investigating whether the company misled investors. Nvidia h…",
-      "link": "http://www.bbc.co.uk/programmes/p0pnjy0q",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnjxxc.mp3",
-      "duration": 29,
-      "published": "2026-11-18T05:26:00Z"
     },
     {
       "source": "MIT Technology Review",
