@@ -1,25 +1,85 @@
 {
-  "updated_at": "2026-11-22T06:58:17.673549Z",
+  "updated_at": "2026-11-22T19:46:33.244875Z",
   "items": [
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "New draft deal aims to avert collapse of talks at climate summit",
-      "summary": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
-      "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+      "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-22T06:54:06Z"
+      "published": "2026-11-22T19:26:54Z"
     },
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Dozens missing after fire at Indonesian factory",
-      "summary": "At least three people were killed and four injured in a fire at a confectionary factory over the weekend.",
+      "title": "What's next after no deal at COP31 climate talks?",
+      "summary": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
+      "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-22T18:57:24Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
+      "summary": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
+      "link": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-22T18:29:46Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "summary": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
+      "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-22T18:17:59Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+      "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-22T17:57:43Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+      "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
+      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-22T17:18:26Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Three killed and dozens missing after fire at Indonesian factory",
+      "summary": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
       "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-22T06:05:00Z"
+      "published": "2026-11-22T14:05:20Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "South Korea education minister resigns over exam cheating scandal",
+      "summary": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
+      "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-22T09:20:45Z"
     },
     {
       "source": "BBC Global News",
@@ -32,44 +92,14 @@
       "published": "2026-11-22T04:48:00Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-      "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Perplexity and Intelligence",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "link": "https://openai.com/index/perplexity-and-intelligence",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-22T01:25:03Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-      "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-22T00:10:44Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Russia-bound ship attacked in Gulf of Finland",
-      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
-      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-21T19:20:22Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-      "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-21T13:17:38Z"
+      "published": "2026-11-22T00:00:00Z"
     },
     {
       "source": "BBC Global News",
@@ -82,16 +112,6 @@
       "published": "2026-11-21T12:00:00Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-      "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-21T10:26:36Z"
-    },
-    {
       "source": "BBC Global News",
       "kind": "news",
       "title": "Man found guilty of starting deadly LA wildfire",
@@ -100,16 +120,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp66mc.mp3",
       "duration": 24,
       "published": "2026-11-21T05:00:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Man convicted of starting Palisades fire in Los Angeles",
-      "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
-      "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-21T04:34:00Z"
     },
     {
       "source": "MIT Technology Review",
@@ -224,19 +234,9 @@
     {
       "source": "OpenAI News",
       "kind": "ai",
-      "title": "Explore the Codex Security Plugin",
-      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-      "link": "https://openai.com/business/learn/codex-security-plugin-demo",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-19T00:00:00Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "See PR scans in action",
-      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-      "link": "https://openai.com/business/learn/pr-scans-demo",
+      "title": "Deploying Daybreak Red",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "link": "https://openai.com/business/learn/deploying-daybreak-red",
       "audio": "",
       "duration": 0,
       "published": "2026-11-19T00:00:00Z"
