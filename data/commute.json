@@ -1,15 +1,75 @@
 {
-  "updated_at": "2026-11-23T23:58:59.229826Z",
+  "updated_at": "2026-11-24T09:59:53.310194Z",
   "items": [
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-      "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
-      "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+      "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-23T23:16:08Z"
+      "published": "2026-11-24T09:42:54Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "DR Congo says aircraft missing as rebels claim to shoot down plane",
+      "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
+      "link": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-24T08:35:41Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "What Jensen Huang's return teaches China's Xi about Trump",
+      "summary": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
+      "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-24T07:26:27Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "Stock markets jump after Nvidia boss reinstated",
+      "summary": "Global stock markets surge after the US chipmaker Nvidia reinstates its chief executive Jensen Huang. Shares in the firm close sharply higher in New York following the news. Nvidia has come under heavy pressure from President Trump to allo…",
+      "link": "http://www.bbc.co.uk/programmes/p0ppkqn5",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppkq65.mp3",
+      "duration": 29,
+      "published": "2026-11-24T05:48:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
+      "summary": "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\".",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-24T05:33:07Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+      "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-24T02:15:59Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
+      "summary": "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\".",
+      "link": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-23T21:24:47Z"
     },
     {
       "source": "OpenAI News",
@@ -32,16 +92,6 @@
       "published": "2026-11-23T20:48:35Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
-      "summary": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom.",
-      "link": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-23T18:04:20Z"
-    },
-    {
       "source": "MIT Technology Review",
       "kind": "ai",
       "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
@@ -50,16 +100,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-23T17:36:08Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "What failure of COP31 reveals about a divided world",
-      "summary": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
-      "link": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-23T17:24:25Z"
     },
     {
       "source": "BBC World",
@@ -80,36 +120,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pphdx7.mp3",
       "duration": 32,
       "published": "2026-11-23T16:08:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-      "summary": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
-      "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-23T15:41:23Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "India pledges $1.6bn to Nepal in reset of ties",
-      "summary": "As Nepal rebuilds after deadly floods, its prime minister sets contentious issues aside to secure Indian funding, port access and a new train service.",
-      "link": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-23T13:39:30Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Search and rescue teams race against time to find survivors after Nigeria boat tragedy",
-      "summary": "The government blames overcrowding, poor maintenance, and missing life jackets for boat accidents.",
-      "link": "https://www.bbc.co.uk/news/articles/cq7820xjm49po?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-23T12:43:40Z"
     },
     {
       "source": "OpenAI News",
@@ -220,16 +230,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-20T10:00:00Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "Abusers convicted in Joanne Young case echoing Pelicot",
-      "summary": "In the first trial of its kind in England, four men have been convicted of raping and sexually abusing a British woman, in a harrowing case that bears similarities to that of Gisèle Pelicot in France. Like Pelicot, Joanne Young chose to al…",
-      "link": "http://www.bbc.co.uk/programmes/p0pnyk0h",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnyjht.mp3",
-      "duration": 30,
-      "published": "2026-11-20T05:33:00Z"
     },
     {
       "source": "OpenAI News",
