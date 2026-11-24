@@ -1,35 +1,125 @@
 {
-  "updated_at": "2026-11-24T09:59:53.310194Z",
+  "updated_at": "2026-11-24T22:31:08.930415Z",
   "items": [
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-      "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
-      "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "summary": "The verdict follows a months-long trial in New York.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-24T09:42:54Z"
+      "published": "2026-11-24T22:24:23Z"
     },
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "DR Congo says aircraft missing as rebels claim to shoot down plane",
-      "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
-      "link": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+      "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-24T08:35:41Z"
+      "published": "2026-11-24T21:19:42Z"
     },
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "What Jensen Huang's return teaches China's Xi about Trump",
-      "summary": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
-      "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
+      "title": "Nigerian monarch, 92, suspended after sexual assault claims",
+      "summary": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
+      "link": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-24T07:26:27Z"
+      "published": "2026-11-24T19:10:31Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+      "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-24T18:07:46Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+      "summary": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
+      "link": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-24T16:49:07Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "Is Jensen Huang's reinstatement good news for China?",
+      "summary": "The surprise reinstatement of Jensen Huang as head of the US chipmaker, Nvidia, has seen mixed reactions worldwide -- but what do people in China make of it all? Also: Malaysia is criticised by human rights groups after saying it will send…",
+      "link": "http://www.bbc.co.uk/programmes/p0ppp111",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppnzlx.mp3",
+      "duration": 29,
+      "published": "2026-11-24T16:47:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+      "summary": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-24T15:35:53Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Land mine casualties soar in Syria, two years after war",
+      "summary": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
+      "link": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-24T15:17:28Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "kind": "ai",
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI…",
+      "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-24T15:15:16Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-24T13:00:00Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "Searching for distant planets with Astra",
+      "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-24T11:00:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+      "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-24T10:58:51Z"
     },
     {
       "source": "BBC Global News",
@@ -42,34 +132,24 @@
       "published": "2026-11-24T05:48:00Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
-      "summary": "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\".",
-      "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "How Intentful uses dots to make more time for growth",
+      "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+      "link": "https://openai.com/business/customer-stories/intentful-dots",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-24T05:33:07Z"
+      "published": "2026-11-24T00:00:00Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-      "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
-      "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+      "source": "OpenAI News",
+      "kind": "ai",
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "summary": "",
+      "link": "https://openai.com/business/customer-stories/ifood",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-24T02:15:59Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
-      "summary": "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\".",
-      "link": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-23T21:24:47Z"
+      "published": "2026-11-24T00:00:00Z"
     },
     {
       "source": "OpenAI News",
@@ -82,16 +162,6 @@
       "published": "2026-11-23T21:20:00Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
-      "summary": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
-      "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-23T20:48:35Z"
-    },
-    {
       "source": "MIT Technology Review",
       "kind": "ai",
       "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
@@ -100,16 +170,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-23T17:36:08Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
-      "summary": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
-      "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-23T17:07:25Z"
     },
     {
       "source": "BBC Global News",
@@ -127,16 +187,6 @@
       "title": "Connected intelligence for in-house legal",
       "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
       "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-23T08:00:00Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Richpanel helps companies automate 50% of support in 30 days",
-      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
-      "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
       "audio": "",
       "duration": 0,
       "published": "2026-11-23T08:00:00Z"
@@ -172,16 +222,6 @@
       "published": "2026-11-22T04:48:00Z"
     },
     {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Perplexity and Intelligence",
-      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
-      "link": "https://openai.com/index/perplexity-and-intelligence",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-22T00:00:00Z"
-    },
-    {
       "source": "BBC Global News",
       "kind": "news",
       "title": "The Happy Pod: The 'amazing’ device that controls Tourette's",
@@ -210,36 +250,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-20T18:15:15Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "UK agrees deal on closer cooperation with EU",
-      "summary": "UK and EU agree new deal covering food exports, youth mobility and carbon emissions. European Commission President, Ursula von der Leyen, said it marked a \"turning point\" in relations. Also: BBC speaks to people inside the besieged city of…",
-      "link": "http://www.bbc.co.uk/programmes/p0pp3pln",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp3ndk.mp3",
-      "duration": 29,
-      "published": "2026-11-20T15:29:00Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Combatting adversarial distillation",
-      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-      "link": "https://openai.com/index/combatting-adversarial-distillation",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-20T10:00:00Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-      "link": "https://openai.com/business/customer-stories/hebbia",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-20T00:00:00Z"
     },
     {
       "source": "BBC 6 Minute English",
@@ -310,16 +320,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-16T16:04:28Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "kind": "ai",
-      "title": "Building AI that can work across the enterprise",
-      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots t…",
-      "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-16T13:00:00Z"
     },
     {
       "source": "Practical AI",
