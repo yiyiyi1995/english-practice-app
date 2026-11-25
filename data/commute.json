@@ -1,15 +1,95 @@
 {
-  "updated_at": "2026-11-25T08:43:45.964211Z",
+  "updated_at": "2026-11-25T21:46:00.955509Z",
   "items": [
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Kilmar Ábrego García leaves US for Spain, ending Trump deportation battle",
-      "summary": "Ábrego García's deportation to El Salvador and return to the US became a flashpoint in the debate over President Donald Trump's immigration agenda.",
-      "link": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+      "title": "US stocks fall further as fears over AI intensify",
+      "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+      "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-25T06:36:00Z"
+      "published": "2026-11-25T21:43:18Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "At least 30 killed in massive fire as fuel tanker crashes on Cairo highway",
+      "summary": "Another 19 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+      "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-25T21:25:14Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+      "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
+      "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-25T19:54:52Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+      "summary": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.",
+      "link": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-25T19:47:39Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "North Korea expels Swiss diplomat in sanctions row",
+      "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
+      "link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-25T19:19:06Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+      "summary": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-25T17:30:16Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "US announces new tariffs on China and other countries",
+      "summary": "The US has announced a fresh raft of tariffs as Donald Trump pushes ahead with his signature trade policy. The new taxes charged on imports to America are set to hit many of the country's biggest trading partners, including China, the EU,…",
+      "link": "http://www.bbc.co.uk/programmes/p0ppwqrn",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppwplz.mp3",
+      "duration": 30,
+      "published": "2026-11-25T16:47:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "US announces new tariffs on host of countries including China",
+      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-25T16:21:34Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "kind": "ai",
+      "title": "AI is straining America’s open records systems",
+      "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours a…",
+      "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-25T10:00:00Z"
     },
     {
       "source": "BBC Global News",
@@ -24,72 +104,12 @@
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
-      "summary": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+      "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+      "summary": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
+      "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-25T06:00:36Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "US attorney general dodges questions about Nvidia investigation",
-      "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-      "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-25T03:44:07Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
-      "summary": "The verdict follows a months-long trial in New York.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-25T02:59:27Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Thomas Markle charged in US for possessing child sex abuse images",
-      "summary": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
-      "link": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-25T01:40:42Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "The rising cost of putting food on the table in India",
-      "summary": "India's food inflation is broadening, squeezing household budgets.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-25T01:02:13Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
-      "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
-      "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-25T00:56:51Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "These North Koreans say they were spied on, beaten and jailed for being Christian",
-      "summary": "A new report has testimonies from hundreds of defectors who say they were persecuted because of their faith.",
-      "link": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-24T23:03:59Z"
+      "published": "2026-11-25T00:54:13Z"
     },
     {
       "source": "BBC Global News",
@@ -222,16 +242,6 @@
       "published": "2026-11-22T04:48:00Z"
     },
     {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "The Happy Pod: The 'amazing’ device that controls Tourette's",
-      "summary": "We meet 17-year-old Mylo who's taken part in a trial of the watch-like device that suppresses his Tourette's tics. He can even now go to the cinema without fear of causing a disturbance by constantly moving or clearing his throat. Also: th…",
-      "link": "http://www.bbc.co.uk/programmes/p0pp4d5y",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp4c96.mp3",
-      "duration": 26,
-      "published": "2026-11-21T12:00:00Z"
-    },
-    {
       "source": "MIT Technology Review",
       "kind": "ai",
       "title": "The most misunderstood graph in AI just got a major update",
@@ -310,16 +320,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-16T16:04:28Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "kind": "ai",
-      "title": "Building AI that can work across the enterprise",
-      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots t…",
-      "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-16T13:00:00Z"
     },
     {
       "source": "Practical AI",
