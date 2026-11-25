@@ -1,15 +1,35 @@
 {
-  "updated_at": "2026-11-24T22:31:08.930415Z",
+  "updated_at": "2026-11-25T08:43:45.964211Z",
   "items": [
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-      "summary": "The verdict follows a months-long trial in New York.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "title": "Kilmar Ábrego García leaves US for Spain, ending Trump deportation battle",
+      "summary": "Ábrego García's deportation to El Salvador and return to the US became a flashpoint in the debate over President Donald Trump's immigration agenda.",
+      "link": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-24T22:24:23Z"
+      "published": "2026-11-25T06:36:00Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "Huawei has been found guilty of bank fraud in the US",
+      "summary": "The Chinese telecoms company, which has rejected its convictions in the United States, said the allegations were baseless and has threatened to take legal action. The jury in the landmark trial in New York cleared the firm of a more seriou…",
+      "link": "http://www.bbc.co.uk/programmes/p0pprc4x",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppr6k6.mp3",
+      "duration": 30,
+      "published": "2026-11-25T06:05:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
+      "summary": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-25T06:00:36Z"
     },
     {
       "source": "BBC World",
@@ -19,37 +39,57 @@
       "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-24T21:19:42Z"
+      "published": "2026-11-25T03:44:07Z"
     },
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Nigerian monarch, 92, suspended after sexual assault claims",
-      "summary": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
-      "link": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
+      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+      "summary": "The verdict follows a months-long trial in New York.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-24T19:10:31Z"
+      "published": "2026-11-25T02:59:27Z"
     },
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
-      "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
-      "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+      "title": "Thomas Markle charged in US for possessing child sex abuse images",
+      "summary": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
+      "link": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-24T18:07:46Z"
+      "published": "2026-11-25T01:40:42Z"
     },
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
-      "summary": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
-      "link": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
+      "title": "The rising cost of putting food on the table in India",
+      "summary": "India's food inflation is broadening, squeezing household budgets.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-24T16:49:07Z"
+      "published": "2026-11-25T01:02:13Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+      "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+      "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-25T00:56:51Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "These North Koreans say they were spied on, beaten and jailed for being Christian",
+      "summary": "A new report has testimonies from hundreds of defectors who say they were persecuted because of their faith.",
+      "link": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-24T23:03:59Z"
     },
     {
       "source": "BBC Global News",
@@ -60,36 +100,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppnzlx.mp3",
       "duration": 29,
       "published": "2026-11-24T16:47:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-      "summary": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
-      "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-24T15:35:53Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Land mine casualties soar in Syria, two years after war",
-      "summary": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
-      "link": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-24T15:17:28Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "kind": "ai",
-      "title": "Raising the stakes for enterprise networks with AI modernization",
-      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI…",
-      "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-24T15:15:16Z"
     },
     {
       "source": "OpenAI News",
@@ -110,16 +120,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-24T11:00:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-      "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
-      "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-24T10:58:51Z"
     },
     {
       "source": "BBC Global News",
@@ -154,6 +154,16 @@
     {
       "source": "OpenAI News",
       "kind": "ai",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "link": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-24T00:00:00Z"
+    },
+    {
+      "source": "OpenAI News",
+      "kind": "ai",
       "title": "OpenAI and Cisco introduce Shirudo",
       "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
       "link": "https://openai.com/index/introducing-shirudo",
@@ -180,16 +190,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pphdx7.mp3",
       "duration": 32,
       "published": "2026-11-23T16:08:00Z"
-    },
-    {
-      "source": "OpenAI News",
-      "kind": "ai",
-      "title": "Connected intelligence for in-house legal",
-      "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
-      "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-23T08:00:00Z"
     },
     {
       "source": "BBC Global News",
@@ -230,16 +230,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp4c96.mp3",
       "duration": 26,
       "published": "2026-11-21T12:00:00Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "Man found guilty of starting deadly LA wildfire",
-      "summary": "Jonathan Rinderknecht is found guilty of starting the deadly Palisades fire in Los Angeles, which displaced thousands of people and became one of the most destructive fires in the city’s history. Also: Donald Trump describes his relationsh…",
-      "link": "http://www.bbc.co.uk/programmes/p0pp66wy",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp66mc.mp3",
-      "duration": 24,
-      "published": "2026-11-21T05:00:00Z"
     },
     {
       "source": "MIT Technology Review",
@@ -320,6 +310,16 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-16T16:04:28Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "kind": "ai",
+      "title": "Building AI that can work across the enterprise",
+      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots t…",
+      "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-16T13:00:00Z"
     },
     {
       "source": "Practical AI",
