@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-11-25T21:46:00.955509Z",
+  "updated_at": "2026-11-26T08:28:51.719510Z",
   "items": [
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "Trump approves Elon Musk's plan for data centres in space",
+      "summary": "The Trump Administration has approved Elon Musk's plan to launch one million SpaceX satellites into space for AI data centres which will function using solar power. Also: At least thirty people have been killed in the Egyptian capital, Cai…",
+      "link": "http://www.bbc.co.uk/programmes/p0ppz1kd",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppz1cj.mp3",
+      "duration": 30,
+      "published": "2026-11-26T05:34:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "US announces new tariffs on host of countries including China",
+      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-26T04:10:58Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "California warns of flooding as King Tides peak over Thanksgiving",
+      "summary": "Parts of the Canadian province of British Columbia may also be affected by the storms and flooding, which come as millions of people travel for the holiday.",
+      "link": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-26T01:22:55Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+      "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
+      "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-26T00:23:05Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Has global jihadism failed, or is it simply changing shape?",
+      "summary": "Jihadist groups appear to be focusing on local issues rather than global terror. Does it signify a real change?",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-26T00:22:18Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+      "summary": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+      "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-25T22:18:06Z"
+    },
     {
       "source": "BBC World",
       "kind": "news",
@@ -14,42 +74,12 @@
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "At least 30 killed in massive fire as fuel tanker crashes on Cairo highway",
-      "summary": "Another 19 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
-      "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-25T21:25:14Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
-      "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
-      "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-25T19:54:52Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
       "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
       "summary": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.",
       "link": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
       "published": "2026-11-25T19:47:39Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "North Korea expels Swiss diplomat in sanctions row",
-      "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
-      "link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-25T19:19:06Z"
     },
     {
       "source": "BBC World",
@@ -72,16 +102,6 @@
       "published": "2026-11-25T16:47:00Z"
     },
     {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "US announces new tariffs on host of countries including China",
-      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-      "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-25T16:21:34Z"
-    },
-    {
       "source": "MIT Technology Review",
       "kind": "ai",
       "title": "AI is straining America’s open records systems",
@@ -100,16 +120,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppr6k6.mp3",
       "duration": 30,
       "published": "2026-11-25T06:05:00Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
-      "summary": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
-      "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-25T00:54:13Z"
     },
     {
       "source": "BBC Global News",
@@ -230,16 +240,6 @@
       "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp03f4.mp3",
       "duration": 29,
       "published": "2026-11-22T20:00:00Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "Deadlock at UN climate summit in Turkey",
-      "summary": "The COP31 summit has gone into a second day of overtime after talks were suspended for the night. There is no agreement in sight with the European Union and Pacific Island nations threatening to walk away without agreeing to a deal because…",
-      "link": "http://www.bbc.co.uk/programmes/p0pp9hxv",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp9hr7.mp3",
-      "duration": 28,
-      "published": "2026-11-22T04:48:00Z"
     },
     {
       "source": "MIT Technology Review",
