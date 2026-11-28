@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-11-27T21:24:10.087484Z",
+  "updated_at": "2026-11-28T07:56:44.347582Z",
   "items": [
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Eight killed in Peruvian military helicopter crash",
+      "summary": "The pilot was the sole survivor of the crash during a rescue mission in a remote area known for drug trafficking.",
+      "link": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-28T04:19:16Z"
+    },
+    {
+      "source": "BBC Global News",
+      "kind": "news",
+      "title": "US asks Mexicans to contact cartel tip line",
+      "summary": "A diplomatic row has broken out between Mexico and the United States after the US Drug Enforcement Administration, the DEA, set up a drug cartel hotline. Mexicans can anonymously report cartel members and corrupt officials. Mexico's presid…",
+      "link": "http://www.bbc.co.uk/programmes/p0pqbs0c",
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pqbrz8.mp3",
+      "duration": 25,
+      "published": "2026-11-28T04:16:00Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+      "summary": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
+      "link": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-28T04:13:45Z"
+    },
+    {
+      "source": "BBC World",
+      "kind": "news",
+      "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+      "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+      "audio": "",
+      "duration": 0,
+      "published": "2026-11-28T00:56:55Z"
+    },
     {
       "source": "BBC World",
       "kind": "news",
@@ -9,17 +49,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-27T20:57:04Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
-      "summary": "There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact.",
-      "link": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-27T20:34:45Z"
+      "published": "2026-11-27T21:55:53Z"
     },
     {
       "source": "BBC World",
@@ -34,32 +64,12 @@
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
-      "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
-      "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-27T18:42:50Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
       "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
       "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
       "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
       "published": "2026-11-27T18:00:40Z"
-    },
-    {
-      "source": "BBC World",
-      "kind": "news",
-      "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
-      "summary": "Paul Mackenzie is found guilty of killing his followers, weeks after being jailed for the mass murder of children.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
-      "audio": "",
-      "duration": 0,
-      "published": "2026-11-27T17:19:31Z"
     },
     {
       "source": "BBC World",
@@ -84,12 +94,12 @@
     {
       "source": "BBC World",
       "kind": "news",
-      "title": "Brazil pushes back on Macron calling its meat 'doped'",
-      "summary": "France's president made the comment while speaking to French farming representatives, months after the EU banned Brazil beef and poultry products.",
-      "link": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
+      "title": "Millions of wives in South Asia unprotected from marital rape - study",
+      "summary": "More than 100 countries have outlawed marital rape, but a large part of South Asia has not.",
+      "link": "https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss",
       "audio": "",
       "duration": 0,
-      "published": "2026-11-27T15:54:15Z"
+      "published": "2026-11-27T08:13:43Z"
     },
     {
       "source": "BBC Global News",
@@ -200,16 +210,6 @@
       "audio": "",
       "duration": 0,
       "published": "2026-11-24T11:00:00Z"
-    },
-    {
-      "source": "BBC Global News",
-      "kind": "news",
-      "title": "Stock markets jump after Nvidia boss reinstated",
-      "summary": "Global stock markets surge after the US chipmaker Nvidia reinstates its chief executive Jensen Huang. Shares in the firm close sharply higher in New York following the news. Nvidia has come under heavy pressure from President Trump to allo…",
-      "link": "http://www.bbc.co.uk/programmes/p0ppkqn5",
-      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppkq65.mp3",
-      "duration": 29,
-      "published": "2026-11-24T05:48:00Z"
     },
     {
       "source": "OpenAI News",
